@@ -98,7 +98,7 @@
 			"variables" : [
 				{ "enc_action_required_right_number" : "(506) 529-5838 or XMARwhalesightings@dfo-mpo.gc.ca" },
 				{ "enc_action_required_entangled_number" : "1–866-567-6277" },
-				{ "enc_action_required_dead_injured_stranded_number" : "Marine Animal Response Society 1–866-567-6277" },
+				{ "enc_action_required_dead_injured_stranded_number" : "the Marine Animal Response Society at 1–866-567-6277" },
 				{ "enc_species_list": [ "unknown", "right", "humpback", "fin", "minke", "sei", "blue", "sperm", "orca", "beluga", "bowhead", "other" ], },
 				{ "enc_other_species_list": [ "Short Finned Pilot Whale", "Pygmy Sperm Whale", "Dwarf Sperm Whale",
 					  "Sowerby’s Beaked Whale", "Cuvier's Beaked Whale", "Blainsville's Beaked Whale",
