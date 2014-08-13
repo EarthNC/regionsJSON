@@ -150,48 +150,48 @@
          "coordinates": [
            [[41.733355555556,-69.566936111111],[42.166666666667,-68.516666666667],[41.400247222222,-68.516666666667],[40.833463888889,-68.966852777778],[41.733355555556,-69.566936111111]]
            ]
-       }},{"id":"1292", "type":"SMA","name":"SFO North Inbound Lane", 
-  "information":"San Francisco TSS North Inbound Lane Voluntary Speed Reduction","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
+       }},{"id":"1292", "type":"SMA","name":"South-Eastbound Traffic Lane", 
+  "information":"The International Maritime Organization has designated official lanes for commercial shipping vessels entering and departing San Francisco Bay, with a 1 nautical mile Traffic Separation Scheme separating the lanes as a safety precaution. ","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
   "startDate":"2000-01-01","endDate":"2020-01-01",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
            [[37.794483333333,-122.8049],[37.960983333333,-123.17123333333],[38.134283333333,-123.3556],[38.11565,-123.36416666667],[37.948266666667,-123.18598333333],[37.778316666667,-122.81315],[37.794483333333,-122.8049]]
            ]
-       }},{"id":"1293", "type":"SMA","name":"SFO North Outbound Lane", 
-  "information":"San Francisco TSS North Outbound Lane Voluntary Speed Reduction","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
+       }},{"id":"1293", "type":"SMA","name":"North-Westbound Traffic Lane", 
+  "information":"The International Maritime Organization has designated official lanes for commercial shipping vessels entering and departing San Francisco Bay, with a 1 nautical mile Traffic Separation Scheme separating the lanes as a safety precaution. ","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
   "startDate":"2000-01-01","endDate":"2020-01-01",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
            [[37.821716666667,-122.77983333333],[37.9867,-123.14376666667],[38.169383333333,-123.33876666667],[38.151566666667,-123.34701666667],[37.973966666667,-123.15783333333],[37.808966666667,-122.79356666667],[37.821716666667,-122.77983333333]]
            ]
-       }},{"id":"1294", "type":"SMA","name":"SFO West Outbound Lane", 
-  "information":"San Francisco TSS West Outbound Lane Voluntary Speed Reduction","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
+       }},{"id":"1294", "type":"SMA","name":"South-Westbound Traffic Lane", 
+  "information":"The International Maritime Organization has designated official lanes for commercial shipping vessels entering and departing San Francisco Bay, with a 1 nautical mile Traffic Separation Scheme separating the lanes as a safety precaution. ","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
   "startDate":"2000-01-01","endDate":"2020-01-01",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
            [[37.713166666667,-122.80936666667],[37.573433333333,-123.07406666667],[37.559,-123.06341666667],[37.698483333333,-122.79975],[37.713166666667,-122.80936666667]]
            ]
-       }},{"id":"1295", "type":"SMA","name":"SFO West Inbound Lane", 
-  "information":"San Francisco TSS West Inbound Lane Voluntary Speed Reduction","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
+       }},{"id":"1295", "type":"SMA","name":"North-Eastbound Traffic Lane", 
+  "information":"The International Maritime Organization has designated official lanes for commercial shipping vessels entering and departing San Francisco Bay, with a 1 nautical mile Traffic Separation Scheme separating the lanes as a safety precaution. ","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
   "startDate":"2000-01-01","endDate":"2020-01-01",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
            [[37.68545,-122.7874],[37.54485,-123.05106666667],[37.530416666667,-123.04008333333],[37.67295,-122.77228333333],[37.68545,-122.7874]]
            ]
-       }},{"id":"1296", "type":"SMA","name":"SFO South Outbound Lane", 
-  "information":"San Francisco TSS South Outbound Lane Voluntary Speed Reduction","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
+       }},{"id":"1296", "type":"SMA","name":"Southern Traffic Lane", 
+  "information":"The International Maritime Organization has designated official lanes for commercial shipping vessels entering and departing San Francisco Bay, with a 1 nautical mile Traffic Separation Scheme separating the lanes as a safety precaution. ","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
   "startDate":"2000-01-01","endDate":"2020-01-01",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
            [[37.65665,-122.73761666667],[37.315016666667,-122.73761666667],[37.312016666667,-122.71666666667],[37.652016666667,-122.71666666667],[37.65665,-122.73761666667]]
            ]
-       }},{"id":"1297", "type":"SMA","name":"SFO South Inbound Lane", 
-  "information":"San Francisco TSS South Inbound Lane Voluntary Speed Reduction","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
+       }},{"id":"1297", "type":"SMA","name":"Northern Traffic Lane", 
+  "information":"The International Maritime Organization has designated official lanes for commercial shipping vessels entering and departing San Francisco Bay, with a 1 nautical mile Traffic Separation Scheme separating the lanes as a safety precaution. ","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
   "startDate":"2000-01-01","endDate":"2020-01-01",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
