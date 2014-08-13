@@ -97,7 +97,7 @@
 			"polygon" : [[[45.32060527319223,-66.93134658585886],[45.09920680787191,-67.06080613388882],[44.78349867295414,-66.92611683554671],[44.44343898829946,-67.03151408544986],[42.87188387835534,-67.25858978864565],[40.9881676176463,-65.5519867439256],[40.25547555083818,-60.05027546411843],[41.71416585008068,-56.76310659258767],[42.98352696872713,-55.21036549222095],[47.8294422301865,-59.90313688639553],[45.63239309310855,-61.39724186590166],[45.40127633184572,-62.81805455357546],[46.07069420915208,-64.70931795857159],[45.32060527319223,-66.93134658585886]]],
 			"variables" : [
 				{ "enc_action_required_right_number" : "(506) 529-5838 or XMARwhalesightings@dfo-mpo.gc.ca" },
-				{ "enc_action_required_entangled_number" : "1–866-567-6277" },
+				{ "enc_action_required_entangled_number" : "the Marine Animal Response Society at 1–866-567-6277" },
 				{ "enc_action_required_dead_injured_stranded_number" : "the Marine Animal Response Society at 1–866-567-6277" },
 				{ "enc_species_list": [ "unknown", "right", "humpback", "fin", "minke", "sei", "blue", "sperm", "orca", "beluga", "bowhead", "other" ], },
 				{ "enc_other_species_list": [ "Short Finned Pilot Whale", "Pygmy Sperm Whale", "Dwarf Sperm Whale",
