@@ -18,6 +18,7 @@
 			"variables" : [
 				{ "enc_action_required_right_number" : "1-866-767-6114" },
 				{ "enc_action_required_entangled_number" : "1-877-SOS-WHALE (1-877-767-9425) or hail the U.S. Coast Guard on VHF Ch. 16" },
+				{ "enc_action_required_entangled_warning": "US federal regulations prohibit approaching right whales within 500 yards (1500 feet)." },
 				{ "enc_action_required_dead_injured_stranded_number" : "1-866-767-6114" },
 				{ "enc_species_list": [ "unknown", "humpback", "gray", "blue", "orca", "minke", "fin", "other" ], },
 				{ "enc_other_species_list": [ "Short Finned Pilot Whale", "Sperm Whale", "Sei Whale", "Right Whale",
@@ -35,6 +36,7 @@
 			"variables" : [
 				{ "enc_action_required_right_number" : "1-866-755-NOAA (1-866-755-6622)" },
 				{ "enc_action_required_entangled_number" : "1-866-755-NOAA (1-866-755-6622)" },
+				{ "enc_action_required_entangled_warning": "US federal regulations prohibit approaching right whales within 500 yards (1500 feet)." },
 				{ "enc_action_required_dead_injured_stranded_number" : "1-866-755-NOAA (1-866-755-6622)" },
 				{ "enc_species_list": [ "unknown", "right", "humpback", "fin", "minke", "sei", "blue", "sperm", "orca", "beluga", "bowhead", "other" ], },
 				{ "enc_other_species_list": [ "Short Finned Pilot Whale", "Pygmy Sperm Whale", "Dwarf Sperm Whale",
@@ -50,6 +52,7 @@
 			"variables" : [
 				{ "enc_action_required_right_number" : "1-877-WHALE HELP (1-877-942-5343)" },
 				{ "enc_action_required_entangled_number" : "1-877-WHALE HELP (1-877-942-5343)" },
+				{ "enc_action_required_entangled_warning": "US federal regulations prohibit approaching right whales within 500 yards (1500 feet)." },
 				{ "enc_action_required_dead_injured_stranded_number" : "1-877-WHALE HELP (1-877-942-5343)" },
 				{ "enc_species_list": [ "unknown", "right", "humpback", "fin", "minke", "sei", "blue", "sperm", "orca", "beluga", "bowhead", "other" ], },
 				{ "enc_other_species_list": [ "Short Finned Pilot Whale", "Pygmy Sperm Whale", "Dwarf Sperm Whale",
