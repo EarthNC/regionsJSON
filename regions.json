@@ -84,8 +84,8 @@
 			"polygon" : [[[48.31864844051874,-63.37584339374902],[47.19305706324629,-62.75193456097719],[46.9037519142461,-62.14979505845632],[46.87841744809528,-61.39198388520613],[47.30845903628962,-61.34364611017268],[47.38256860891659,-60.67826640862613],[47.80780814662177,-60.10740674364153],[47.84251907203637,-59.90643323933897],[49.41896485122337,-59.89084097130637],[51.4264783025266,-57.07282235352613],[53.18869540315076,-61.80232908539188],[58.47575626196937,-64.0486332100016],[61.9539173822333,-64.98661424493163],[64.41797187085851,-72.69093554598955],[62.98867366640707,-78.3897832222698],[59.57686087463699,-80.94644044392598],[51.28758199691468,-79.50014103798399],[51.44364147062071,-73.2092405490263],[46.26400192347764,-72.52325587885572],[46.98634795363554,-70.52626448431015],[47.90390690961053,-67.78862026649807],[48.03174516144431,-66.43836947849604],[47.87135970261964,-65.45367037470511],[47.94370618001089,-64.91204223844069],[48.33574341857936,-63.88519334470329],[48.31864844051874,-63.37584339374902]]],
 			"variables" : [
 				{ "enc_action_required_right_number" : "(506) 529-5838 or XMARwhalesightings@dfo-mpo.gc.ca" },
-				{ "enc_action_required_entangled_number" : "Marine Mammal Emergencies/Urgences Mammifères Marins at 1–800-722-5346" },
-				{ "enc_action_required_dead_injured_stranded_number" : "Marine Mammal Emergencies/Urgences Mammifères Marins at 1–800-722-5346" },
+				{ "enc_action_required_entangled_number" : "Marine Mammal Emergencies/Urgences Mammifères Marins at 1–877-722-5346" },
+				{ "enc_action_required_dead_injured_stranded_number" : "Marine Mammal Emergencies/Urgences Mammifères Marins at 1–877-722-5346" },
 				{ "enc_species_list": [ "unknown", "right", "humpback", "fin", "minke", "sei", "blue", "sperm", "orca", "beluga", "bowhead", "other" ] },
 				{ "enc_other_species_list": [ "Short Finned Pilot Whale", "Pygmy Sperm Whale", "Dwarf Sperm Whale",
 					  "Sowerby’s Beaked Whale", "Cuvier's Beaked Whale", "Blainsville's Beaked Whale",
