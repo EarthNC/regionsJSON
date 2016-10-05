@@ -1,6 +1,6 @@
 [{"id":"1", "type":"SMA","name":"Block Island Sound",
   "desc":"Right Whale Seasonal Management Area, Reduce Speed to 10kts or Less","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2015-11-01","endDate":"2016-04-30",
+  "startDate":"2016-11-01","endDate":"2017-04-30",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -8,7 +8,7 @@
            ]
        }},{"id":"2", "type":"SMA","name":"Southeast Calving and Nursery Grounds",
   "desc":"Right Whale Seasonal Management Area, Reduce Speed to 10kts or Less","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2015-11-15","endDate":"2016-04-15",
+  "startDate":"2016-11-15","endDate":"2017-04-15",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -16,7 +16,7 @@
            ]
        }},{"id":"3", "type":"SMA","name":"Cape Cod Bay Seasonal Management",
   "desc":"Right Whale Seasonal Management Area, Reduce Speed to 10kts or Less","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2016-01-01","endDate":"2016-05-15",
+  "startDate":"2017-01-01","endDate":"2017-05-15",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -24,7 +24,7 @@
            ]
        }},{"id":"4", "type":"SMA","name":"Entrance to the Chesapeake Bay",
   "desc":"Right Whale Seasonal Management Area, Reduce Speed to 10kts or Less","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2015-11-01","endDate":"2016-04-30",
+  "startDate":"2016-11-01","endDate":"2017-04-30",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -32,7 +32,7 @@
            ]
        }},{"id":"5", "type":"SMA","name":"Great South Channel",
   "desc":"Right Whale Seasonal Management Area, Reduce Speed to 10kts or Less","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2016-04-01","endDate":"2016-07-31",
+  "startDate":"2017-04-01","endDate":"2017-07-31",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -40,7 +40,7 @@
            ]
        }},{"id":"6", "type":"SMA","name":"Mid-Atlantic",
   "desc":"Right Whale Seasonal Management Area, Reduce Speed to 10kts or Less","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2015-11-01","endDate":"2016-04-30",
+  "startDate":"2016-11-01","endDate":"2017-04-30",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -48,7 +48,7 @@
            ]
        }},{"id":"7", "type":"SMA","name":"Off Race Point Seasonal Management",
   "desc":"Right Whale Seasonal Management Area, Reduce Speed to 10kts or Less","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2016-03-01","endDate":"2016-04-30",
+  "startDate":"2017-03-01","endDate":"2017-04-30",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png", "lat":"42.4461", "lon":"-69.9761","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -56,7 +56,7 @@
            ]
        }},{"id":"8", "type":"SMA","name":"Port of New York and New Jersey",
   "desc":"Right Whale Seasonal Management Area, Reduce Speed to 10kts or Less","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2015-11-01","endDate":"2016-04-30",
+  "startDate":"2016-11-01","endDate":"2017-04-30",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -64,7 +64,7 @@
            ]
        }},{"id":"9", "type":"SMA","name":"Moorehead City and Beaufort",
   "desc":"Right Whale Seasonal Management Area, Reduce Speed to 10kts or Less","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2015-11-01","endDate":"2016-04-30",
+  "startDate":"2016-11-01","endDate":"2017-04-30",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -72,7 +72,7 @@
            ]
        }},{"id":"10", "type":"SMA","name":"Entrance to the Delaware Bay",
   "desc":"Right Whale Seasonal Management Area, Reduce Speed to 10kts or Less","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2015-11-01","endDate":"2016-04-30",
+  "startDate":"2016-11-01","endDate":"2017-04-30",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -144,7 +144,7 @@
            ]
        }},{"id":"16", "type":"ATBA","name":"Great South Channel",
   "desc":"Great South Channel - Area to Be Avoided","fillColor":"55FF0000", "lineColor":"FFFF0000",
-  "startDate":"2016-04-01","endDate":"2016-07-31",
+  "startDate":"2017-04-01","endDate":"2017-07-31",
   "link":"local://abta.pdf","banner":"local://abta.png","geometry": {
          "type": "Polygon",
          "coordinates": [
