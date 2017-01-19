@@ -376,7 +376,7 @@
            ]
        }},{"id":"1349", "type":"SMA","name":"Null Island",
   "information":"This is a test area only","fillColor":"4400AAAA", "lineColor":"FFAAAA00",
-  "startDate":"2015-05-10","endDate":"2015-05-15",
+  "startDate":"2017-01-10","endDate":"2017-05-15",
   "link":"","banner":"","geometry": {
          "type": "Polygon",
          "coordinates": [
