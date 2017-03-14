@@ -5,8 +5,8 @@
 			"form" : "whale-alert",
 			"map-sources" : ["marine-charts"],
 			"feeds" : [
-				{ "name" : "sma", "url" : "https://github.com/EarthNC/regionsJSON/blob/master/smaJson.json" },
-				{ "name" : "mpa", "url" : "https://github.com/EarthNC/regionsJSON/blob/master/mpaJson.json" }
+				{ "name" : "sma", "url" : "https://github.com/EarthNC/regionsJSON/master/smaJson.json" },
+				{ "name" : "mpa", "url" : "https://github.com/EarthNC/regionsJSON/master/mpaJson.json" }
 			],
 			"variables" : [
 				{ "enc_noaa_port_codes" : ["ch", "cp", "cn", "cs",	"db", "hg", "hb", "jx", "ll", "cr", "mb", "nb", "nh", "nl", "ny", "ak", "sn", "sf", "sl", "ta", "tb", "ps", "lc", "lm"] }
