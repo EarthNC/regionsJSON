@@ -20,7 +20,7 @@
 			"polygon" : [[[48.99998555778296,-121.2451356204617],[49.0033632752206,-123.3267615908816],[48.83127937351549,-123.0141342344734],[48.76878218736331,-123.0130088623533],[48.68983381120115,-123.2728261475763],[48.52990615107099,-123.2160272607381],[48.44872833028571,-123.1696064168901],[48.42191155060676,-123.1216797095009],[48.28051626564827,-123.2539036923344],[48.22099567353587,-123.5510495689234],[48.2924056496832,-124.0063693462648],[48.49082904623533,-124.7239393413548],[48.20109203438585,-130.0415985086905],[33.20075687705109,-126.8375039251589],[32.49806986597333,-117.0654211146999],[32.63411499667305,-115.8662169996956],[48.99998555778296,-121.2451356204617]]],
 			"variables" : [
 				{ "enc_action_required_right_number" : "1-866-767-6114" },
-				{ "enc_action_required_entangled_number" : "1-877-SOS-WHALE (1-877-767-9425) or hail the U.S. Coast Guard on VHF Ch. 16" },
+				{ "enc_action_required_entangled_number" : "1-877-SOS-WHALE (1-877-767-9425) Ou communiquez avec la Garde côtière américaine sur la voie 16 de la radio VHF" },
 				{ "enc_action_required_entangled_warning": "La règlementation fédérale en vigueur aux États-Unis interdit l’approche d’une baleine noire à moins d’env. 460 m." },
 				{ "enc_action_required_dead_injured_stranded_number" : "1-866-767-6114" },
 				{ "enc_species_list": [ "unknown", "humpback", "gray", "blue", "orca", "minke", "fin", "other" ] },
