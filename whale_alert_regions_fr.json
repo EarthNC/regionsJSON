@@ -63,7 +63,7 @@
 				{ "enc_action_required_entangled_number" : "1-877-WHALE HELP (1-877-942-5343)" },
 				{ "enc_action_required_entangled_warning": "La règlementation fédérale en vigueur aux États-Unis interdit l’approche d’une baleine noire à moins d’env. 460 m." },
 				{ "enc_action_required_dead_injured_stranded_number" : "1-877-WHALE HELP (1-877-942-5343)" },
-				{ "enc_species_list": [ "unknown", "right", "humpback", "fin", "minke", "sei", "blue", "sperm", "orca", "beluga", "bowhead", "Autre" ] },
+				{ "enc_species_list": [ "unknown", "right", "humpback", "fin", "minke", "sei", "blue", "sperm", "orca", "beluga", "bowhead", "other" ] },
 				{ "enc_other_species_list": [ "Globicéphale du Pacifique", "Cachalot pygmée", "Cachalot nain",
 					  "Baleine à bec de Sowerby", "Baleine à bec de Cuvier", "Baleine à bec de Blainsville",
 					  "Baleine à bec commune", "Grand dauphin", "Dauphin à flancs blancs de l'Atlantique",
