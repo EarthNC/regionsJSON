@@ -71,7 +71,7 @@
 		},
 		{
 			"name" : "canada-west",
-			"whalewatchingguidelines": "canada_fr",
+			"whalewatchingguidelines": "canada",
       "feeds" : [
 				{ "name" : "sma", "url" : "https://github.com/EarthNC/regionsJSON/raw/master/smaJson_fr.json" }
 			],
@@ -90,7 +90,7 @@
 		},
 		{
 			"name" : "canada-quebec",
-			"whalewatchingguidelines": "canada_fr",
+			"whalewatchingguidelines": "canada",
       "feeds" : [
 				{ "name" : "sma", "url" : "https://github.com/EarthNC/regionsJSON/raw/master/smaJson_fr.json" }
 			],
@@ -109,7 +109,7 @@
 		},
 		{
 			"name" : "canada-maritimes",
-			"whalewatchingguidelines": "canada_fr",
+			"whalewatchingguidelines": "canada",
       "feeds" : [
 				{ "name" : "sma", "url" : "https://github.com/EarthNC/regionsJSON/raw/master/smaJson_fr.json" }
 			],
@@ -128,7 +128,7 @@
 		},
 		{
 			"name" : "canada-gulf",
-			"whalewatchingguidelines": "canada_fr",
+			"whalewatchingguidelines": "canada",
       "feeds" : [
 				{ "name" : "sma", "url" : "https://github.com/EarthNC/regionsJSON/raw/master/smaJson_fr.json" }
 			],
@@ -147,7 +147,7 @@
 		},
 		{
 			"name" : "canada-newfoundland",
-			"whalewatchingguidelines": "canada_fr",
+			"whalewatchingguidelines": "canada",
       "feeds" : [
 				{ "name" : "sma", "url" : "https://github.com/EarthNC/regionsJSON/raw/master/smaJson_fr.json" }
 			],
