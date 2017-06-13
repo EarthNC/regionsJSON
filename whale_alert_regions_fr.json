@@ -4,6 +4,7 @@
 			"name" : "default",
 			"form" : "whale-alert",
 			"map-sources" : ["marine-charts"],
+			"whalewatchingguidelines": "default",
 			"feeds" : [
 				{ "name" : "sma", "url" : "https://github.com/EarthNC/regionsJSON/raw/master/smaJson_fr.json" },
 				{ "name" : "mpa", "url" : "https://github.com/EarthNC/regionsJSON/raw/master/mpaJson.json" }
@@ -27,8 +28,7 @@
 				{ "enc_other_species_list": [ "Globicéphale du Pacifique", "Cachalot", "Rorqual boréal", "Baleine noire",
 					  "Cachalot pygmée", "Cachalot nain", "Baleine à bec de Cuvier", "Baleine à bec de Baird",
 					  "Baleine à bec de Hubb", "Baleine à bec de Blainsville", "Baleine à bec de Steineger",
-					  "Baleine boréale", "Marsouin commun", "Porpoise de Dall", "Dauphin à flancs blancs du Pacifique",
-					  "Baleine à bec commune", "Dauphin commun à long bec", "Dauphin dépouillé",
+					  "Baleine boréale", "Marsouin commun", "Porpoise de Dall", "Dauphin à flancs blancs du Pacifique", "Dauphin commun à long bec", "Dauphin dépouillé",
 					  "Dauphin de Risso", "Autre"]
 				}
 			]
@@ -44,10 +44,9 @@
 				{ "enc_action_required_entangled_number" : "1-866-755-NOAA (1-866-755-6622)" },
 				{ "enc_action_required_entangled_warning": "La règlementation fédérale en vigueur aux États-Unis interdit l’approche d’une baleine noire à moins d’env. 460 m." },
 				{ "enc_action_required_dead_injured_stranded_number" : "1-866-755-NOAA (1-866-755-6622)" },
-				{ "enc_species_list": [ "unknown", "right", "humpback", "fin", "minke", "sei", "blue", "sperm", "orca", "beluga", "bowhead", "other" ] },
+				{ "enc_species_list": [ "unknown", "right", "humpback", "fin", "minke", "sei", "blue", "sperm", "orca", "beluga", "bowhead","bottlenose_whale", "other" ] },
 				{ "enc_other_species_list": [ "Globicéphale du Pacifique", "Cachalot pygmée", "Cachalot nain",
-					  "Baleine à bec de Sowerby", "Baleine à bec de Cuvier", "Baleine à bec de Blainsville",
-					  "Baleine à bec commune", "Grand dauphin", "Dauphin à flancs blancs de l'Atlantique",
+					  "Baleine à bec de Sowerby", "Baleine à bec de Cuvier", "Baleine à bec de Blainsville", "Grand dauphin", "Dauphin à flancs blancs de l'Atlantique",
 					  "Dauphin commun", "Dauphin à nez blanc", "Dauphin de Risso", "Marsouin commun", "Autre"]
 				}
 			]
@@ -63,16 +62,16 @@
 				{ "enc_action_required_entangled_number" : "1-877-WHALE HELP (1-877-942-5343)" },
 				{ "enc_action_required_entangled_warning": "La règlementation fédérale en vigueur aux États-Unis interdit l’approche d’une baleine noire à moins d’env. 460 m." },
 				{ "enc_action_required_dead_injured_stranded_number" : "1-877-WHALE HELP (1-877-942-5343)" },
-				{ "enc_species_list": [ "unknown", "right", "humpback", "fin", "minke", "sei", "blue", "sperm", "orca", "beluga", "bowhead", "other" ] },
+				{ "enc_species_list": [ "unknown", "right", "humpback", "fin", "minke", "sei", "blue", "sperm", "orca", "beluga", "bowhead","bottlenose_whale", "Autre" ] },
 				{ "enc_other_species_list": [ "Globicéphale du Pacifique", "Cachalot pygmée", "Cachalot nain",
-					  "Baleine à bec de Sowerby", "Baleine à bec de Cuvier", "Baleine à bec de Blainsville",
-					  "Baleine à bec commune", "Grand dauphin", "Dauphin à flancs blancs de l'Atlantique",
+					  "Baleine à bec de Sowerby", "Baleine à bec de Cuvier", "Baleine à bec de Blainsville","Grand dauphin", "Dauphin à flancs blancs de l'Atlantique",
 					  "Dauphin commun", "Dauphin à nez blanc", "Dauphin de Risso", "Marsouin commun", "Autre"]
 				}
 			]
 		},
 		{
 			"name" : "canada-west",
+			"whalewatchingguidelines": "canada_fr",
       "feeds" : [
 				{ "name" : "sma", "url" : "https://github.com/EarthNC/regionsJSON/raw/master/smaJson_fr.json" }
 			],
@@ -82,16 +81,16 @@
 				{ "enc_action_required_right_number" : "BC Urgences Mammifères Marins 1-800-465-4336" },
 				{ "enc_action_required_entangled_number" : "BC Urgences Mammifères Marins 1-800-465-4336" },
 				{ "enc_action_required_dead_injured_stranded_number" : "BC Urgences Mammifères Marins 1-800-465-4336" },
-				{ "enc_species_list": [ "unknown", "right", "humpback", "fin", "minke", "sei", "blue", "sperm", "orca", "beluga", "bowhead", "other" ] },
+				{ "enc_species_list": [ "unknown", "right", "humpback", "fin", "minke", "sei", "blue", "sperm", "orca", "beluga", "bowhead","bottlenose_whale", "other" ] },
 				{ "enc_other_species_list": [ "Globicéphale du Pacifique", "Cachalot pygmée", "Cachalot nain",
-					  "Baleine à bec de Sowerby", "Baleine à bec de Cuvier", "Baleine à bec de Blainsville",
-					  "Baleine à bec commune", "Grand dauphin", "Dauphin à flancs blancs de l'Atlantique",
+					  "Baleine à bec de Sowerby", "Baleine à bec de Cuvier", "Baleine à bec de Blainsville", "Grand dauphin", "Dauphin à flancs blancs de l'Atlantique",
 					  "Dauphin commun", "Dauphin à nez blanc", "Dauphin de Risso", "Marsouin commun", "Autre"]
 				}
 			]
 		},
 		{
 			"name" : "canada-quebec",
+			"whalewatchingguidelines": "canada_fr",
       "feeds" : [
 				{ "name" : "sma", "url" : "https://github.com/EarthNC/regionsJSON/raw/master/smaJson_fr.json" }
 			],
@@ -101,16 +100,16 @@
 				{ "enc_action_required_right_number" : "(506) 529-5838 or XMARwhalesightings@dfo-mpo.gc.ca" },
 				{ "enc_action_required_entangled_number" : "Urgences Mammifères Marins 1-877-722-5346" },
 				{ "enc_action_required_dead_injured_stranded_number" : "Urgences Mammifères Marins 1-877-722-5346" },
-				{ "enc_species_list": [ "unknown", "right", "humpback", "fin", "minke", "sei", "blue", "sperm", "orca", "beluga", "bowhead", "other" ] },
+				{ "enc_species_list": [ "unknown", "right", "humpback", "fin", "minke", "sei", "blue", "sperm", "orca", "beluga", "bowhead", "bottlenose_whale","other" ] },
 				{ "enc_other_species_list": [ "Globicéphale du Pacifique", "Cachalot pygmée", "Cachalot nain",
-					  "Baleine à bec de Sowerby", "Baleine à bec de Cuvier", "Baleine à bec de Blainsville",
-					  "Baleine à bec commune", "Grand dauphin", "Dauphin à flancs blancs de l'Atlantique",
+					  "Baleine à bec de Sowerby", "Baleine à bec de Cuvier", "Baleine à bec de Blainsville","Grand dauphin", "Dauphin à flancs blancs de l'Atlantique",
 					  "Dauphin commun", "Dauphin à nez blanc", "Dauphin de Risso", "Marsouin commun", "Autre"]
 				}
 			]
 		},
 		{
 			"name" : "canada-maritimes",
+			"whalewatchingguidelines": "canada_fr",
       "feeds" : [
 				{ "name" : "sma", "url" : "https://github.com/EarthNC/regionsJSON/raw/master/smaJson_fr.json" }
 			],
@@ -120,16 +119,16 @@
 				{ "enc_action_required_right_number" : "(506) 529-5838 or XMARwhalesightings@dfo-mpo.gc.ca" },
 				{ "enc_action_required_entangled_number" : "Urgences Mammifères Marins 1-866-567-6277" },
 				{ "enc_action_required_dead_injured_stranded_number" : "Urgences Mammifères Marins 1-866-567-6277" },
-				{ "enc_species_list": [ "unknown", "right", "humpback", "fin", "minke", "sei", "blue", "sperm", "orca", "beluga", "bowhead", "other" ] },
+				{ "enc_species_list": [ "unknown", "right", "humpback", "fin", "minke", "sei", "blue", "sperm", "orca", "beluga", "bowhead","bottlenose_whale", "other" ] },
 				{ "enc_other_species_list": [ "Globicéphale du Pacifique", "Cachalot pygmée", "Cachalot nain",
-					  "Baleine à bec de Sowerby", "Baleine à bec de Cuvier", "Baleine à bec de Blainsville",
-					  "Baleine à bec commune", "Grand dauphin", "Dauphin à flancs blancs de l'Atlantique",
+					  "Baleine à bec de Sowerby", "Baleine à bec de Cuvier", "Baleine à bec de Blainsville", "Grand dauphin", "Dauphin à flancs blancs de l'Atlantique",
 					  "Dauphin commun", "Dauphin à nez blanc", "Dauphin de Risso", "Marsouin commun", "Autre"]
 				}
 			]
 		},
 		{
 			"name" : "canada-gulf",
+			"whalewatchingguidelines": "canada_fr",
       "feeds" : [
 				{ "name" : "sma", "url" : "https://github.com/EarthNC/regionsJSON/raw/master/smaJson_fr.json" }
 			],
@@ -139,16 +138,16 @@
 				{ "enc_action_required_right_number" : "(506) 529-5838 or XMARwhalesightings@dfo-mpo.gc.ca" },
 				{ "enc_action_required_entangled_number" : "Urgences Mammifères Marins 1-866-567-6277" },
 				{ "enc_action_required_dead_injured_stranded_number" : "Urgences Mammifères Marins 1-866-567-6277" },
-				{ "enc_species_list": [ "unknown", "right", "humpback", "fin", "minke", "sei", "blue", "sperm", "orca", "beluga", "bowhead", "other" ] },
+				{ "enc_species_list": [ "unknown", "right", "humpback", "fin", "minke", "sei", "blue", "sperm", "orca", "beluga", "bowhead","bottlenose_whale", "other" ] },
 				{ "enc_other_species_list": [ "Globicéphale du Pacifique", "Cachalot pygmée", "Cachalot nain",
-					  "Baleine à bec de Sowerby", "Baleine à bec de Cuvier", "Baleine à bec de Blainsville",
-					  "Baleine à bec commune", "Grand dauphin", "Dauphin à flancs blancs de l'Atlantique",
+					  "Baleine à bec de Sowerby", "Baleine à bec de Cuvier", "Baleine à bec de Blainsville", "Grand dauphin", "Dauphin à flancs blancs de l'Atlantique",
 					  "Dauphin commun", "Dauphin à nez blanc", "Dauphin de Risso", "Marsouin commun", "Autre"]
 				}
 			]
 		},
 		{
 			"name" : "canada-newfoundland",
+			"whalewatchingguidelines": "canada_fr",
       "feeds" : [
 				{ "name" : "sma", "url" : "https://github.com/EarthNC/regionsJSON/raw/master/smaJson_fr.json" }
 			],
@@ -158,10 +157,9 @@
 				{ "enc_action_required_right_number" : "(506) 529-5838 or XMARwhalesightings@dfo-mpo.gc.ca" },
 				{ "enc_action_required_entangled_number" : "Urgences Mammifères Marins 1-888-895-3003" },
 				{ "enc_action_required_dead_injured_stranded_number" : "Urgences Mammifères Marins 1-888-895-3003" },
-				{ "enc_species_list": [ "unknown", "right", "humpback", "fin", "minke", "sei", "blue", "sperm", "orca", "beluga", "bowhead", "other" ] },
+				{ "enc_species_list": [ "unknown", "right", "humpback", "fin", "minke", "sei", "blue", "sperm", "orca", "beluga", "bowhead", "bottlenose_whale","other" ] },
 				{ "enc_other_species_list": [ "Globicéphale du Pacifique", "Cachalot pygmée", "Cachalot nain",
-					  "Baleine à bec de Sowerby", "Baleine à bec de Cuvier", "Baleine à bec de Blainsville",
-					  "Baleine à bec commune", "Grand dauphin", "Dauphin à flancs blancs de l'Atlantique",
+					  "Baleine à bec de Sowerby", "Baleine à bec de Cuvier", "Baleine à bec de Blainsville", "Grand dauphin", "Dauphin à flancs blancs de l'Atlantique",
 					  "Dauphin commun", "Dauphin à nez blanc", "Dauphin de Risso", "Marsouin commun", "Autre"]
 				}
 			]
@@ -177,10 +175,9 @@
 				{ "enc_action_required_right_number" : "(506) 529-5838 or XMARwhalesightings@dfo-mpo.gc.ca" },
 				{ "enc_action_required_entangled_number" : "Urgences Mammifères Marins 1-888-895-3003" },
 				{ "enc_action_required_dead_injured_stranded_number" : "Urgences Mammifères Marins 1-888-895-3003" },
-				{ "enc_species_list": [ "unknown", "right", "humpback", "fin", "minke", "sei", "blue", "sperm", "orca", "beluga", "bowhead", "other" ] },
+				{ "enc_species_list": [ "unknown", "right", "humpback", "fin", "minke", "sei", "blue", "sperm", "orca", "beluga", "bowhead","bottlenose_whale", "other" ] },
 				{ "enc_other_species_list": [ "Globicéphale du Pacifique", "Cachalot pygmée", "Cachalot nain",
-					  "Baleine à bec de Sowerby", "Baleine à bec de Cuvier", "Baleine à bec de Blainsville",
-					  "Baleine à bec commune", "Grand dauphin", "Dauphin à flancs blancs de l'Atlantique",
+					  "Baleine à bec de Sowerby", "Baleine à bec de Cuvier", "Baleine à bec de Blainsville", "Grand dauphin", "Dauphin à flancs blancs de l'Atlantique",
 					  "Dauphin commun", "Dauphin à nez blanc", "Dauphin de Risso", "Marsouin commun", "Autre"]
 				}
 			]
