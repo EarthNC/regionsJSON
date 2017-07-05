@@ -1,5 +1,5 @@
 [{"id":"4901", "type":"SMA","name":"Gulf of Alaska Right Whale Critical Habitat",
-  "information":"North Pacific Right Whale Critical Habitat Area. Report sightings to (907) 271-1937 <tel:(907) 271-1937>","fillColor":"00000000", "lineColor":"FF000000",
+  "information":"North Pacific Right Whale Critical Habitat Area. Report sightings to (907) 271-1937 <tel:(907) 271-1937> or via this App","fillColor":"00000000", "lineColor":"FF000000",
   "startDate":"2000-01-01","endDate":"2020-01-01",
   "link":"","banner":"","geometry": {
          "type": "Polygon",
@@ -7,13 +7,13 @@
            [[56.750000001072,-153.0000000009],[57.050000001236,-153.00000000043],[57.300000004502,-151.4999999977],[57.000000002147,-151.50000000359],[56.750000001072,-153.0000000009]]
          ]
        }},{"id":"4902", "type":"SMA","name":"Eastern Bering Sea Right Whale Critical Habitat",
-  "information":"North Pacific Right Whale Critical Habitat Area. Report sightings to (907) 271-1937 <tel:(907) 271-1937>","fillColor":"00000000", "lineColor":"FF000000",
+  "information":"North Pacific Right Whale Critical Habitat Area. Report sightings to (907) 271-1937 <tel:(907) 271-1937> or via this App","fillColor":"00000000", "lineColor":"FF000000",
   "startDate":"2000-01-01","endDate":"2020-01-01",
   "link":"","banner":"","geometry": {
          "type": "Polygon",
          "coordinates": [[[58.000000004299,-163.00000000534],[56.500000001449,-161.75000000177],[55.000000000559,-166.00000000016],[56.000000000623,-168.00000000014],[58.000000000698,-168.00000000069],[58.004150968841,-167.02761872756],[58.000617443055,-165.99410888263],[58.008179076068,-165.0030629936],[58.000000004299,-163.00000000534]]]
-       }},{"id":"4903", "type":"SMA","name":"Barrow Native Fishing Area","information":"Active Subsistence Hunting. Contact (907) XXX-XXXX and monitor VHF-FM channel XX","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2027-05-01","endDate":"2027-12-31",
+       }},{"id":"4903", "type":"SMA","name":"Barrow Native Fishing Area","information":"Test - Active Subsistence Hunting. Contact (907) XXX-XXXX and monitor VHF-FM channel XX","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
+  "startDate":"2017-05-01","endDate":"2027-12-31",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
