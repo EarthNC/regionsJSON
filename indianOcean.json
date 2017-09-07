@@ -30,7 +30,7 @@
          "coordinates": [
            [[12.48898465774,43.470530376931],[12.135866314154,43.430160097981],[12.135866314154,43.405354263928],[12.483634379807,43.282784260369],[12.48898465774,43.470530376931]]
            ]
-       }},{"id":"5", "type":"MPA","name":"Port of Duqm",
+       }},{"id":"5", "type":"SMA","name":"Port of Duqm",
   "information":"<strong>Port of Duqm Alert Number:<\/strong> 24342800 ext 888<br \/><strong>Port VHF Channel:<\/strong> 14<br \/><strong>Oman Stranding Alert Number:<\/strong> 24696333<br \/><img src=\"https:\/\/maplify.com\/waseak\/assets\/img\/port_of_duqm.png\" \/>",
   "fillColor":"00000000", "lineColor":"FF000000",
   "startDate":"2000-01-01","endDate":"2020-01-01",
