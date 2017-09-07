@@ -1,0 +1,42 @@
+[{"id":"1", "type":"MPA","name":"Arta MPA",
+  "fillColor":"55FF0000", "lineColor":"FFFF0000",
+  "startDate":"2000-01-01","endDate":"2020-01-01",
+  "geometry": {
+         "type": "Polygon",
+         "coordinates": [
+           [[11.557306063051,42.686212840429],[11.602942770456,42.855565383896],[11.586799173279,42.860687871462],[11.538989289331,42.691956235579],[11.557306063051,42.686212840429]]
+           ]
+       }},{"id":"2", "type":"MPA","name":"Haramous MPA",
+  "fillColor":"55FF0000", "lineColor":"FFFF0000",
+  "startDate":"2000-01-01","endDate":"2020-01-01",
+  "geometry": {
+         "type": "Polygon",
+         "coordinates": [
+           [[11.55386640263,43.172082651832],[11.562660329016,43.243617860702],[11.495775754292,43.230088743185],[11.506599048305,43.199563671788],[11.55386640263,43.172082651832]]
+           ]
+       }},{"id":"3", "type":"MPA","name":"Moucha Maskali MPA",
+  "fillColor":"55FF0000", "lineColor":"FFFF0000",
+  "startDate":"2000-01-01","endDate":"2020-01-01",
+  "geometry": {
+         "type": "Polygon",
+         "coordinates": [
+           [[11.707586934833,43.154773151976],[11.748794272064,43.166732163611],[11.729796527868,43.227073919456],[11.693509469709,43.219625163639],[11.707586934833,43.154773151976]]
+           ]
+       }},{"id":"4", "type":"MPA","name":"Sept Freres MPA",
+  "fillColor":"55FF0000", "lineColor":"FFFF0000",
+  "startDate":"2000-01-01","endDate":"2020-01-01",
+  "geometry": {
+         "type": "Polygon",
+         "coordinates": [
+           [[12.48898465774,43.470530376931],[12.135866314154,43.430160097981],[12.135866314154,43.405354263928],[12.483634379807,43.282784260369],[12.48898465774,43.470530376931]]
+           ]
+       }},{"id":"5", "type":"MPA","name":"Port of Duqm",
+  "desc":"<strong>Port of Duqm Alert Number:</strong> 24342800 ext 888<br /><strong>Port VHF Channel:</strong> 14<br /><strong>Oman Stranding Alert Number:</strong> 24696333<br /><img src=\"https://maplify.com/waseak/assets/img/port_of_duqm.png\" />",
+  "fillColor":"00000000", "lineColor":"FF000000",
+  "startDate":"2000-01-01","endDate":"2020-01-01",
+  "geometry": {
+         "type": "Polygon",
+         "coordinates": [
+           [[19.94,57.71],[19.94,59.14],[20.71,59.14],[20.71,57.71],[19.94,57.71]]
+           ]
+       }}]
