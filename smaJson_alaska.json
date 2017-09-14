@@ -13,7 +13,7 @@
          "type": "Polygon",
          "coordinates": [[[58.000000004299,-163.00000000534],[56.500000001449,-161.75000000177],[55.000000000559,-166.00000000016],[56.000000000623,-168.00000000014],[58.000000000698,-168.00000000069],[58.004150968841,-167.02761872756],[58.000617443055,-165.99410888263],[58.008179076068,-165.0030629936],[58.000000004299,-163.00000000534]]]
        }},{"id":"4903", "type":"SMA","name":"Barrow Native Fishing Area","information":"Test - Active Subsistence Hunting. Contact (907) XXX-XXXX and monitor VHF-FM channel XX","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2027-05-01","endDate":"2027-12-31",
+  "startDate":"2017-05-01","endDate":"2027-12-31",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
