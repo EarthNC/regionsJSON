@@ -36,9 +36,8 @@
   "startDate":"2000-01-01","endDate":"2020-01-01",
   "geometry": {
          "type": "Polygon",
-         "coordinates": [
+         "coordinates": 
            [[[19.699552427994,57.673956713087,0],[19.68490770293,57.671168048298,0],[19.656539248324,57.668971271362,0],[19.635048133959,57.699765726609,0],[19.632090867621,57.71731679858,0],[19.631782347918,57.820168488119,0],[19.729716566176,57.820500727782,0],[19.730323505533,57.717118572286,0],[19.717438419988,57.678042367606,0],[19.699552427994,57.673956713087,0]]]
-           ]
        }},{"id":"6", "type":"SMA","name":"Port Basin",
   "information":"<strong>Port of Duqm Alert Number:<\/strong> 24342800 ext 888<br><strong>Port VHF Channel:<\/strong> 14<br><strong>Oman Stranding Alert Number:<\/strong> 24696333<br><img src=\"https:\/\/maplify.com\/waseak\/assets\/img\/port_of_duqm.png\">",
   "fillColor":"00000000", "lineColor":"FFFFFF00",
