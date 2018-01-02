@@ -1,6 +1,6 @@
 [{"id":"1", "type":"SMA","name":"Détroit de Block Island",
   "desc":"Zone saisonnière de gestion des baleines noires, veuillez réduire la vitesse à 10 nœuds ou moins.","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2016-11-01","endDate":"2017-04-30",
+  "startDate":"2017-11-01","endDate":"2018-04-30",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -24,7 +24,7 @@
            ]
        }},{"id":"4", "type":"SMA","name":"Entrée de la baie de Chesapeake",
   "desc":"Zone saisonnière de gestion des baleines noires, veuillez réduire la vitesse à 10 nœuds ou moins.","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2016-11-01","endDate":"2017-04-30",
+  "startDate":"2017-11-01","endDate":"2018-04-30",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -136,7 +136,7 @@
            ]
        }},{"id":"15", "type":"ATBA","name":"Bassin de Roseway",
   "desc":"Roseway Basin - Zones à éviter","fillColor":"55FF0000", "lineColor":"FFFF0000",
-  "startDate":"2017-06-01","endDate":"2017-12-31",
+  "startDate":"2018-06-01","endDate":"2018-12-31",
   "link":"local://abta.pdf","banner":"local://abta.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -152,7 +152,7 @@
            ]
        }},{"id":"1292", "type":"SMA","name":"Voies de circulation du sud-est",
   "information":"Les sanctuaires sous la juridiction de la NOAA demandent une réduction volontaire de la vitesse des navires entre le 1er mai et le 15 novembre à l’intérieur des limites des dispositifs de séparation du trafic. Les navires de 300 tonnes de jauge brute ou plus transitant au large du dispositif de séparation du trafic de San Francisco (33 CFR 167.400) sont encouragés à transiter à des vitesses qui n’excèdent pas 10 nœuds. Ces zones abritent des concentrations de rorquals bleus, de rorquals à bosse et de rorquals communs, espèces en péril protégées en vertu de la Loi fédérale sur les espèces en péril (16 U.S.C. 1538 et seq.), de la Loi sur la protection des mammifères marins (16 U.S.C. 1361 et seq.) et de la Loi sur les sanctuaires marins nationaux (16 U.S.C. 1431 et seq.). Merci de rapporter toute collision avec des baleines ou toute observation de baleines blessées ou mortes à la NOAA par le biais du numéro 877-SOS- WHALe / 1-877-767-9425 ou à la garde côtière américaine sur le canal VHF 16. La NOAA demande l’aide du public pour effectuer le suivi des baleines. Ainsi, si vous faites des observations de baleines, veuillez enregistrer la date, le lieu, le nombre d’individus et l’espèce (si connue). Veuillez signaler vos observations à <a href=\"mailto:whales@noaa.gov\">whales@noaa.gov </a> ou par le biais de l’application Whale Alert. De l’information additionnelle se trouve à l’adresse  <a href=\"http://farallones.noaa.gov/eco/vesselstrikes/welcome.html\">http://farallones.noaa.gov/eco/vesselstrikes/welcome.html</a>.","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2017-05-01","endDate":"2017-11-15",
+  "startDate":"2018-05-01","endDate":"2018-11-15",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -160,7 +160,7 @@
            ]
        }},{"id":"1293", "type":"SMA","name":"Voies de circulation du nord-ouest",
   "information":"Les sanctuaires sous la juridiction de la NOAA demandent une réduction volontaire de la vitesse des navires entre le 1er mai et le 15 novembre à l’intérieur des limites des dispositifs de séparation du trafic. Les navires de 300 tonnes de jauge brute ou plus transitant au large du dispositif de séparation du trafic de San Francisco (33 CFR 167.400) sont encouragés à transiter à des vitesses qui n’excèdent pas 10 nœuds. Ces zones abritent des concentrations de rorquals bleus, de rorquals à bosse et de rorquals communs, espèces en péril protégées en vertu de la Loi fédérale sur les espèces en péril (16 U.S.C. 1538 et seq.), de la Loi sur la protection des mammifères marins (16 U.S.C. 1361 et seq.) et de la Loi sur les sanctuaires marins nationaux (16 U.S.C. 1431 et seq.). Merci de rapporter toute collision avec des baleines ou toute observation de baleines blessées ou mortes à la NOAA par le biais du numéro 877-SOS- WHALe / 1-877-767-9425 ou à la garde côtière américaine sur le canal VHF 16. La NOAA demande l’aide du public pour effectuer le suivi des baleines. Ainsi, si vous faites des observations de baleines, veuillez enregistrer la date, le lieu, le nombre d’individus et l’espèce (si connue). Veuillez signaler vos observations à <a href=\"mailto:whales@noaa.gov\">whales@noaa.gov </a> ou par le biais de l’application Whale Alert. De l’information additionnelle se trouve à l’adresse  <a href=\"http://farallones.noaa.gov/eco/vesselstrikes/welcome.html\">http://farallones.noaa.gov/eco/vesselstrikes/welcome.html</a>.","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2017-05-01","endDate":"2017-11-15",
+  "startDate":"2018-05-01","endDate":"2018-11-15",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -168,7 +168,7 @@
            ]
        }},{"id":"1294", "type":"SMA","name":"Voies de circulation du sud-ouest",
   "information":"Les sanctuaires sous la juridiction de la NOAA demandent une réduction volontaire de la vitesse des navires entre le 1er mai et le 15 novembre à l’intérieur des limites des dispositifs de séparation du trafic. Les navires de 300 tonnes de jauge brute ou plus transitant au large du dispositif de séparation du trafic de San Francisco (33 CFR 167.400) sont encouragés à transiter à des vitesses qui n’excèdent pas 10 nœuds. Ces zones abritent des concentrations de rorquals bleus, de rorquals à bosse et de rorquals communs, espèces en péril protégées en vertu de la Loi fédérale sur les espèces en péril (16 U.S.C. 1538 et seq.), de la Loi sur la protection des mammifères marins (16 U.S.C. 1361 et seq.) et de la Loi sur les sanctuaires marins nationaux (16 U.S.C. 1431 et seq.). Merci de rapporter toute collision avec des baleines ou toute observation de baleines blessées ou mortes à la NOAA par le biais du numéro 877-SOS- WHALe / 1-877-767-9425 ou à la garde côtière américaine sur le canal VHF 16. La NOAA demande l’aide du public pour effectuer le suivi des baleines. Ainsi, si vous faites des observations de baleines, veuillez enregistrer la date, le lieu, le nombre d’individus et l’espèce (si connue). Veuillez signaler vos observations à <a href=\"mailto:whales@noaa.gov\">whales@noaa.gov </a> ou par le biais de l’application Whale Alert. De l’information additionnelle se trouve à l’adresse  <a href=\"http://farallones.noaa.gov/eco/vesselstrikes/welcome.html\">http://farallones.noaa.gov/eco/vesselstrikes/welcome.html</a>.","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2017-05-01","endDate":"2017-11-15",
+  "startDate":"2018-05-01","endDate":"2018-11-15",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -176,7 +176,7 @@
            ]
        }},{"id":"1295", "type":"SMA","name":"Voies de circulation du nord-est",
   "information":"Les sanctuaires sous la juridiction de la NOAA demandent une réduction volontaire de la vitesse des navires entre le 1er mai et le 15 novembre à l’intérieur des limites des dispositifs de séparation du trafic. Les navires de 300 tonnes de jauge brute ou plus transitant au large du dispositif de séparation du trafic de San Francisco (33 CFR 167.400) sont encouragés à transiter à des vitesses qui n’excèdent pas 10 nœuds. Ces zones abritent des concentrations de rorquals bleus, de rorquals à bosse et de rorquals communs, espèces en péril protégées en vertu de la Loi fédérale sur les espèces en péril (16 U.S.C. 1538 et seq.), de la Loi sur la protection des mammifères marins (16 U.S.C. 1361 et seq.) et de la Loi sur les sanctuaires marins nationaux (16 U.S.C. 1431 et seq.). Merci de rapporter toute collision avec des baleines ou toute observation de baleines blessées ou mortes à la NOAA par le biais du numéro 877-SOS- WHALe / 1-877-767-9425 ou à la garde côtière américaine sur le canal VHF 16. La NOAA demande l’aide du public pour effectuer le suivi des baleines. Ainsi, si vous faites des observations de baleines, veuillez enregistrer la date, le lieu, le nombre d’individus et l’espèce (si connue). Veuillez signaler vos observations à <a href=\"mailto:whales@noaa.gov\">whales@noaa.gov </a> ou par le biais de l’application Whale Alert. De l’information additionnelle se trouve à l’adresse  <a href=\"http://farallones.noaa.gov/eco/vesselstrikes/welcome.html\">http://farallones.noaa.gov/eco/vesselstrikes/welcome.html</a>.","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2017-05-01","endDate":"2017-11-15",
+  "startDate":"2018-05-01","endDate":"2018-11-15",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -184,7 +184,7 @@
            ]
        }},{"id":"1296", "type":"SMA","name":"Voies de circulation vers le sud",
   "information":"Les sanctuaires sous la juridiction de la NOAA demandent une réduction volontaire de la vitesse des navires entre le 1er mai et le 15 novembre à l’intérieur des limites des dispositifs de séparation du trafic. Les navires de 300 tonnes de jauge brute ou plus transitant au large du dispositif de séparation du trafic de San Francisco (33 CFR 167.400) sont encouragés à transiter à des vitesses qui n’excèdent pas 10 nœuds. Ces zones abritent des concentrations de rorquals bleus, de rorquals à bosse et de rorquals communs, espèces en péril protégées en vertu de la Loi fédérale sur les espèces en péril (16 U.S.C. 1538 et seq.), de la Loi sur la protection des mammifères marins (16 U.S.C. 1361 et seq.) et de la Loi sur les sanctuaires marins nationaux (16 U.S.C. 1431 et seq.). Merci de rapporter toute collision avec des baleines ou toute observation de baleines blessées ou mortes à la NOAA par le biais du numéro 877-SOS- WHALe / 1-877-767-9425 ou à la garde côtière américaine sur le canal VHF 16. La NOAA demande l’aide du public pour effectuer le suivi des baleines. Ainsi, si vous faites des observations de baleines, veuillez enregistrer la date, le lieu, le nombre d’individus et l’espèce (si connue). Veuillez signaler vos observations à <a href=\"mailto:whales@noaa.gov\">whales@noaa.gov </a> ou par le biais de l’application Whale Alert. De l’information additionnelle se trouve à l’adresse  <a href=\"http://farallones.noaa.gov/eco/vesselstrikes/welcome.html\">http://farallones.noaa.gov/eco/vesselstrikes/welcome.html</a>.","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2017-05-01","endDate":"2017-11-15",
+  "startDate":"2018-05-01","endDate":"2018-11-15",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -192,7 +192,7 @@
            ]
        }},{"id":"1297", "type":"SMA","name":"Voies de circulation vers le nord",
   "information":"Les sanctuaires sous la juridiction de la NOAA demandent une réduction volontaire de la vitesse des navires entre le 1er mai et le 15 novembre à l’intérieur des limites des dispositifs de séparation du trafic. Les navires de 300 tonnes de jauge brute ou plus transitant au large du dispositif de séparation du trafic de San Francisco (33 CFR 167.400) sont encouragés à transiter à des vitesses qui n’excèdent pas 10 nœuds. Ces zones abritent des concentrations de rorquals bleus, de rorquals à bosse et de rorquals communs, espèces en péril protégées en vertu de la Loi fédérale sur les espèces en péril (16 U.S.C. 1538 et seq.), de la Loi sur la protection des mammifères marins (16 U.S.C. 1361 et seq.) et de la Loi sur les sanctuaires marins nationaux (16 U.S.C. 1431 et seq.). Merci de rapporter toute collision avec des baleines ou toute observation de baleines blessées ou mortes à la NOAA par le biais du numéro 877-SOS- WHALe / 1-877-767-9425 ou à la garde côtière américaine sur le canal VHF 16. La NOAA demande l’aide du public pour effectuer le suivi des baleines. Ainsi, si vous faites des observations de baleines, veuillez enregistrer la date, le lieu, le nombre d’individus et l’espèce (si connue). Veuillez signaler vos observations à <a href=\"mailto:whales@noaa.gov\">whales@noaa.gov </a> ou par le biais de l’application Whale Alert. De l’information additionnelle se trouve à l’adresse  <a href=\"http://farallones.noaa.gov/eco/vesselstrikes/welcome.html\">http://farallones.noaa.gov/eco/vesselstrikes/welcome.html</a>.","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2017-05-01","endDate":"2017-11-15",
+  "startDate":"2018-05-01","endDate":"2018-11-15",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -384,7 +384,7 @@
            ]
        }},{"id":"1350", "type":"SMA","name":"Zone de réduction volontaire de vitesse des navires",
   "information":"NOAA recommande fortement que les navires de 300 tonneaux de jauge brute ou plus transitent par le détroit de Santa Barbara dans le dispositif de séparation du trafic entre Point Conception et San Pedro Point, tel que près de l’île de Santa Cruz à des vitesses qui n’excèdent pas 10 nœuds. Ce lieu constitue une aire de distribution de certaines populations en péril de mammifères marins, telles que le rorqual bleu, le rorqual à bosse et le rorqual commun, protégés en vertu de la Loi sur les espèces en péril (16 U.S.C. 1538 et seq.), la Loi sur la protection des mammifères marins (16 U.S.C. 1361 et seq.), et la Loi sur les sanctuaires marins nationaux (16 U.S.C. 1431 et seq.). Pour plus d’information : <a href=\"http://channelislands.noaa.gov/management/resource/ship_strikes.html\">http://channelislands.noaa.gov/management/resource/ship_strikes.html</a><br><br>Merci de bien vouloir rapporter toute collision avec une baleine ou toute observation de baleine morte ou blessée à NOAA au 877-SOS-WHALe (877-767-9425) ou à la Garde côtière américaine sur la voie VHF 16. NOAA demande l’aide du public pour aider à suivre le déplacement des baleines. Si vous êtes témoin d’une observation, merci de bien vouloir noter la date et le lieu, le nombre d’individus, l’espèce (si connue), et une description de l’animal. Merci d’envoyer cette information via courriel à l’adresse whales@noaa.gov ou de faire votre rapport via l’application Whale Alert.","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2017-05-01","endDate":"2017-11-15",
+  "startDate":"2018-05-01","endDate":"2018-11-15",
   "link":"","banner":"","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -392,7 +392,7 @@
            ]
        }},{"id":"1353", "type":"SMA","name":"Zone de vigilance accrue",
   "information":"De mai à novembre, tous les navires voyageant dans la zone comprise entre Point Arguello et Dana Point, incluant les dispositifs de séparation du trafic dans le détroit de Santa Barbara et le détroit de San Pedro, devraient faire preuve de vigilance et réduire la vitesse. Ce lieu constitue une aire de distribution de certaines populations en péril de mammifères marins, telles que le rorqual bleu, le rorqual à bosse et le rorqual commun, protégés en vertu de la Loi sur les espèces en péril (16 U.S.C. 1538 et seq.), la Loi sur la protection des mammifères marins (16 U.S.C. 1361 et seq.), et la Loi sur les sanctuaires marins nationaux (16 U.S.C. 1431 et seq.). Pour plus d’information : <a href=\"http://channelislands.noaa.gov/management/resource/ship_strikes.html\">http://channelislands.noaa.gov/management/resource/ship_strikes.html</a><br><br>Merci de bien vouloir rapporter toute collision avec une baleine ou toute observation de baleine morte ou blessée à NOAA au 877-SOS-WHALe (877-767-9425) ou à la Garde côtière américaine sur la voie VHF 16. NOAA demande l’aide du public pour aider à suivre le déplacement des baleines. Si vous êtes témoin d’une observation, merci de bien vouloir noter la date et le lieu, le nombre d’individus, l’espèce (si connue), et une description de l’animal. Merci d’envoyer cette information via courriel à l’adresse whales@noaa.gov ou de faire votre rapport via l’application Whale Alert.","fillColor":"22AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2017-05-01","endDate":"2017-11-15",
+  "startDate":"2018-05-01","endDate":"2018-11-15",
   "link":"","banner":"","geometry": {
          "type": "Polygon",
          "coordinates": [

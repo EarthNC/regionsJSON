@@ -16,7 +16,7 @@
            ]
        }},{"id":"3", "type":"SMA","name":"Cape Cod Bay Seasonal Management",
   "desc":"Right Whale Seasonal Management Area, Reduce Speed to 10kts or Less","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2017-01-01","endDate":"2017-05-15",
+  "startDate":"2018-01-01","endDate":"2018-05-15",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -48,7 +48,7 @@
            ]
        }},{"id":"7", "type":"SMA","name":"Off Race Point Seasonal Management",
   "desc":"Right Whale Seasonal Management Area, Reduce Speed to 10kts or Less","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2017-03-01","endDate":"2017-04-30",
+  "startDate":"2018-03-01","endDate":"2018-04-30",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png", "lat":"42.4461", "lon":"-69.9761","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -136,7 +136,7 @@
            ]
        }},{"id":"15", "type":"ATBA","name":"Roseway Basin",
   "desc":"Roseway Basin - Area to Be Avoided","fillColor":"55FF0000", "lineColor":"FFFF0000",
-  "startDate":"2017-06-01","endDate":"2017-12-31",
+  "startDate":"2018-06-01","endDate":"2018-12-31",
   "link":"local://abta.pdf","banner":"local://abta.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -144,7 +144,7 @@
            ]
        }},{"id":"16", "type":"ATBA","name":"Great South Channel",
   "desc":"Great South Channel - Area to Be Avoided","fillColor":"55FF0000", "lineColor":"FFFF0000",
-  "startDate":"2017-04-01","endDate":"2017-07-31",
+  "startDate":"2018-04-01","endDate":"2018-07-31",
   "link":"local://abta.pdf","banner":"local://abta.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -152,7 +152,7 @@
            ]
        }},{"id":"1292", "type":"SMA","name":"South-Eastbound Traffic Lane",
   "information":"NOAA Sanctuaries request a voluntary Vessel Speed Reduction from May 1-November 15 within the SF TSS. Vessels 300 gross registered tons or larger transiting the Off San Francisco Traffic Separation Scheme (33 CFR 167.400) are encouraged to transit at speeds not in excess of 10 knots.  These areas contain concentrations of endangered blue, humpback and fin whales that are protected under the federal Endangered Species Act (16 U.S.C. 1538 et seq.), the Marine Mammal Protection Act (16 U.S.C. 1361 et seq.), and the National Marine Sanctuaries Act (16 U.S.C. 1431 et seq.).<br><br> Please report any collisions with whales or any observed injured or dead whales to NOAA at 877-SOS- WHALe 877-767-9425 or to the U.S. Coast Guard on VHF Channel 16.<br><br> NOAA is asking for the public's help in tracking whales. If you see whales, please record the date and location, the number of whales, the species (if known). Please report sightings to <a href=\"mailto:whales@noaa.gov\">whales@noaa.gov</a>, or through WhaleAlert. Additional information can be found at <a href=\"http://farallones.noaa.gov/eco/vesselstrikes/welcome.html\">http://farallones.noaa.gov/eco/vesselstrikes/welcome.html</a>","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2017-05-01","endDate":"2017-12-31",
+  "startDate":"2018-05-01","endDate":"2018-12-31",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -160,7 +160,7 @@
            ]
        }},{"id":"1293", "type":"SMA","name":"North-Westbound Traffic Lane",
   "information":"NOAA Sanctuaries request a voluntary Vessel Speed Reduction from May 1-November 15 within the SF TSS. Vessels 300 gross registered tons or larger transiting the Off San Francisco Traffic Separation Scheme (33 CFR 167.400) are encouraged to transit at speeds not in excess of 10 knots.  These areas contain concentrations of endangered blue, humpback and fin whales that are protected under the federal Endangered Species Act (16 U.S.C. 1538 et seq.), the Marine Mammal Protection Act (16 U.S.C. 1361 et seq.), and the National Marine Sanctuaries Act (16 U.S.C. 1431 et seq.).<br><br> Please report any collisions with whales or any observed injured or dead whales to NOAA at 877-SOS- WHALe 877-767-9425 or to the U.S. Coast Guard on VHF Channel 16.<br><br> NOAA is asking for the public's help in tracking whales. If you see whales, please record the date and location, the number of whales, the species (if known). Please report sightings to <a href=\"mailto:whales@noaa.gov\">whales@noaa.gov</a>, or through WhaleAlert. Additional information can be found at <a href=\"http://farallones.noaa.gov/eco/vesselstrikes/welcome.html\">http://farallones.noaa.gov/eco/vesselstrikes/welcome.html</a>","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2017-05-01","endDate":"2017-12-31",
+  "startDate":"2018-05-01","endDate":"2018-12-31",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -168,7 +168,7 @@
            ]
        }},{"id":"1294", "type":"SMA","name":"South-Westbound Traffic Lane",
   "information":"NOAA Sanctuaries request a voluntary Vessel Speed Reduction from May 1-November 15 within the SF TSS. Vessels 300 gross registered tons or larger transiting the Off San Francisco Traffic Separation Scheme (33 CFR 167.400) are encouraged to transit at speeds not in excess of 10 knots.  These areas contain concentrations of endangered blue, humpback and fin whales that are protected under the federal Endangered Species Act (16 U.S.C. 1538 et seq.), the Marine Mammal Protection Act (16 U.S.C. 1361 et seq.), and the National Marine Sanctuaries Act (16 U.S.C. 1431 et seq.).<br><br> Please report any collisions with whales or any observed injured or dead whales to NOAA at 877-SOS- WHALe 877-767-9425 or to the U.S. Coast Guard on VHF Channel 16.<br><br> NOAA is asking for the public's help in tracking whales. If you see whales, please record the date and location, the number of whales, the species (if known). Please report sightings to <a href=\"mailto:whales@noaa.gov\">whales@noaa.gov</a>, or through WhaleAlert. Additional information can be found at <a href=\"http://farallones.noaa.gov/eco/vesselstrikes/welcome.html\">http://farallones.noaa.gov/eco/vesselstrikes/welcome.html</a>","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2017-05-01","endDate":"2017-12-31",
+  "startDate":"2018-05-01","endDate":"2018-12-31",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -176,7 +176,7 @@
            ]
        }},{"id":"1295", "type":"SMA","name":"North-Eastbound Traffic Lane",
   "information":"NOAA Sanctuaries request a voluntary Vessel Speed Reduction from May 1-November 15 within the SF TSS. Vessels 300 gross registered tons or larger transiting the Off San Francisco Traffic Separation Scheme (33 CFR 167.400) are encouraged to transit at speeds not in excess of 10 knots.  These areas contain concentrations of endangered blue, humpback and fin whales that are protected under the federal Endangered Species Act (16 U.S.C. 1538 et seq.), the Marine Mammal Protection Act (16 U.S.C. 1361 et seq.), and the National Marine Sanctuaries Act (16 U.S.C. 1431 et seq.).<br><br> Please report any collisions with whales or any observed injured or dead whales to NOAA at 877-SOS- WHALe 877-767-9425 or to the U.S. Coast Guard on VHF Channel 16.<br><br> NOAA is asking for the public's help in tracking whales. If you see whales, please record the date and location, the number of whales, the species (if known). Please report sightings to <a href=\"mailto:whales@noaa.gov\">whales@noaa.gov</a>, or through WhaleAlert. Additional information can be found at <a href=\"http://farallones.noaa.gov/eco/vesselstrikes/welcome.html\">http://farallones.noaa.gov/eco/vesselstrikes/welcome.html</a>","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2017-05-01","endDate":"2017-12-31",
+  "startDate":"2018-05-01","endDate":"2018-12-31",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -184,7 +184,7 @@
            ]
        }},{"id":"1296", "type":"SMA","name":"Southern Traffic Lane",
   "information":"NOAA Sanctuaries request a voluntary Vessel Speed Reduction from May 1-November 15 within the SF TSS. Vessels 300 gross registered tons or larger transiting the Off San Francisco Traffic Separation Scheme (33 CFR 167.400) are encouraged to transit at speeds not in excess of 10 knots.  These areas contain concentrations of endangered blue, humpback and fin whales that are protected under the federal Endangered Species Act (16 U.S.C. 1538 et seq.), the Marine Mammal Protection Act (16 U.S.C. 1361 et seq.), and the National Marine Sanctuaries Act (16 U.S.C. 1431 et seq.).<br><br> Please report any collisions with whales or any observed injured or dead whales to NOAA at 877-SOS- WHALe 877-767-9425 or to the U.S. Coast Guard on VHF Channel 16.<br><br> NOAA is asking for the public's help in tracking whales. If you see whales, please record the date and location, the number of whales, the species (if known). Please report sightings to <a href=\"mailto:whales@noaa.gov\">whales@noaa.gov</a>, or through WhaleAlert. Additional information can be found at <a href=\"http://farallones.noaa.gov/eco/vesselstrikes/welcome.html\">http://farallones.noaa.gov/eco/vesselstrikes/welcome.html</a>","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2017-05-01","endDate":"2017-12-31",
+  "startDate":"2018-05-01","endDate":"2018-12-31",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -192,7 +192,7 @@
            ]
        }},{"id":"1297", "type":"SMA","name":"Northern Traffic Lane",
   "information":"NOAA Sanctuaries request a voluntary Vessel Speed Reduction from May 1-November 15 within the SF TSS. Vessels 300 gross registered tons or larger transiting the Off San Francisco Traffic Separation Scheme (33 CFR 167.400) are encouraged to transit at speeds not in excess of 10 knots.  These areas contain concentrations of endangered blue, humpback and fin whales that are protected under the federal Endangered Species Act (16 U.S.C. 1538 et seq.), the Marine Mammal Protection Act (16 U.S.C. 1361 et seq.), and the National Marine Sanctuaries Act (16 U.S.C. 1431 et seq.).<br><br> Please report any collisions with whales or any observed injured or dead whales to NOAA at 877-SOS- WHALe 877-767-9425 or to the U.S. Coast Guard on VHF Channel 16.<br><br> NOAA is asking for the public's help in tracking whales. If you see whales, please record the date and location, the number of whales, the species (if known). Please report sightings to <a href=\"mailto:whales@noaa.gov\">whales@noaa.gov</a>, or through WhaleAlert. Additional information can be found at <a href=\"http://farallones.noaa.gov/eco/vesselstrikes/welcome.html\">http://farallones.noaa.gov/eco/vesselstrikes/welcome.html</a>","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2017-05-01","endDate":"2017-12-31",
+  "startDate":"2018-05-01","endDate":"2018-12-31",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -384,7 +384,7 @@
            ]
        }},{"id":"1350", "type":"SMA","name":"Voluntary Vessel Speed Reduction Zone",
   "information":"NOAA strongly recommends that vessels 300 gross registered tons or larger transiting the Santa Barbara Channel traffic separation scheme in the area between Point Conception and San Pedro Point, Santa Cruz Island do so at speeds not in excess of 10 knots. This area contains populations of endangered blue, humpback and fin whales that are federally protected under the Endangered Species Act (16 U.S.C. 1538 et seq.), the Marine Mammal Protection Act (16 U.S.C. 1361 et seq.), and the National Marine Sanctuaries Act (16 U.S.C. 1431 et seq.).<br><br>Additional information can be found at: <a href=\"http://channelislands.noaa.gov/management/resource/ship_strikes.html\">http://channelislands.noaa.gov/management/resource/ship_strikes.html</a><br><br>Please report any collisions with whales or any observed injured or dead whales to NOAA at 877-SOS-WHALe (877-767-9425) or to the U.S. Coast Guard on VHF Channel 16.<br><br>NOAA is asking for public help in tracking whales.  If you see whales, please record the date and location, the number of whales, the species (if known) and a description of the animals. Please email whales@noaa.gov or report through WhaleAlert.","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2016-05-01","endDate":"2016-11-15",
+  "startDate":"2018-05-01","endDate":"2018-11-15",
   "link":"","banner":"","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -392,7 +392,7 @@
            ]
        }},{"id":"1353", "type":"SMA","name":"Whale Advisory Zone",
   "information":"Vessels transiting the area between Point Arguello and Dana Point, including the Traffic Separation Schemes in the Santa Barbara Channel and San Pedro Channel, from May through November, should exercise caution and reduce speed.  These areas contain populations of endangered blue, humpback and fin whales that are federally protected under the Endangered Species Act (16 U.S.C. 1538 et seq.), the Marine Mammal Protection Act (16 U.S.C. 1361 et seq.), and the National Marine Sanctuaries Act (16 U.S.C. 1431 et seq.).<br><br>Additional information can be found at: <a href=\"http://channelislands.noaa.gov/management/resource/ship_strikes.html\">http://channelislands.noaa.gov/management/resource/ship_strikes.html</a><br><br>Please report any collisions with whales or any observed injured or dead whales to NOAA at 877-SOS-WHALe (877-767-9425) or to the U.S. Coast Guard on VHF Channel 16.<br><br>NOAA is asking for publics help in tracking whales.  If you see whales, please record the date and location, the number of whales, the species (if known) and a description of the animals.   Please email whales@noaa.gov or report through WhaleAlert.","fillColor":"22AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2016-05-01","endDate":"2016-11-15",
+  "startDate":"2018-05-01","endDate":"2018-11-15",
   "link":"","banner":"","geometry": {
          "type": "Polygon",
          "coordinates": [
