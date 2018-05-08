@@ -429,37 +429,33 @@
          "coordinates": [
            [[50.333333333333,-65],[50.333333333333,-63],[49.7167,-63],[49.0667,-62],[47.166666666667,-62],[47.166666666667,-65],[50.333333333333,-65]]
          ]
-       }},{"id":"1401", "type":"SMA","name":"Secteur A",
-  "information":"
-Les navires peuvent avancer à la vitesse normale de sécurité dans cette zone si aucune présence de baleine n'a été détectée. VEUILLEZ RAPPORTER TOUTES OBSERVATIONS DE MAMMIFÈRES MARINS VIVANTS, MORTS OU BLESSÉS À LA GARDE CÔTIÈRE CANADIENNE SUR LA VOIE 16 VHF OU AU RÉSEAU QUÉBÉCOIS D'URGENCES POUR LES MAMMIFÈRES MARINS AU  1-877-722-5346. L'UTILISATION DE L'APPLICATION WHALE ALERT (WWW.WHALEALERT.ORG) EST ÉGALEMENT ENCOURAGÉE AFIN DE SIGNALER LES OBSERVATIONS DE BALEINES.","fillColor":"22AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2017-04-28","endDate":"2020-10-31",
+       }},{"id":"1401", "type":"SMA","name":"Aire de vitesse réduite à 10 noeuds ou moins - Secteur A",
+  "information":"les navires ne doivent pas dépasser une vitesse sur le fond de 10,0 noeuds. VEUILLEZ RAPPORTER TOUTES OBSERVATIONS DE MAMMIFÈRES MARINS VIVANTS, MORTS OU BLESSÉS À LA GARDE CÔTIÈRE CANADIENNE SUR LA VOIE 16 VHF OU AU RÉSEAU QUÉBÉCOIS D'URGENCES POUR LES MAMMIFÈRES MARINS AU  1-877-722-5346. L'UTILISATION DE L'APPLICATION WHALE ALERT (WWW.WHALEALERT.ORG) EST ÉGALEMENT ENCOURAGÉE AFIN DE SIGNALER LES OBSERVATIONS DE BALEINES.","fillColor":"22AAAA00", "lineColor":"FFAAAA00",
+  "startDate":"2018-05-08","endDate":"2020-10-31",
   "link":"","banner":"","geometry": {
          "type": "Polygon",
          "coordinates": [
            [[49.6833,-65],[49.333333333333,-65],[49.183333,-64],[49.3667,-64],[49.6833,-65]]
          ]
-       }},{"id":"1402", "type":"SMA","name":"Secteur B",
-  "information":"
-Les navires peuvent avancer à la vitesse normale de sécurité dans cette zone si aucune présence de baleine n'a été détectée. VEUILLEZ RAPPORTER TOUTES OBSERVATIONS DE MAMMIFÈRES MARINS VIVANTS, MORTS OU BLESSÉS À LA GARDE CÔTIÈRE CANADIENNE SUR LA VOIE 16 VHF OU AU RÉSEAU QUÉBÉCOIS D'URGENCES POUR LES MAMMIFÈRES MARINS AU  1-877-722-5346. L'UTILISATION DE L'APPLICATION WHALE ALERT (WWW.WHALEALERT.ORG) EST ÉGALEMENT ENCOURAGÉE AFIN DE SIGNALER LES OBSERVATIONS DE BALEINES.","fillColor":"22AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2017-04-28","endDate":"2020-10-31",
+       }},{"id":"1402", "type":"SMA","name":"Aire de vitesse réduite à 10 noeuds ou moins - Secteur B",
+  "information":"les navires ne doivent pas dépasser une vitesse sur le fond de 10,0 noeuds. VEUILLEZ RAPPORTER TOUTES OBSERVATIONS DE MAMMIFÈRES MARINS VIVANTS, MORTS OU BLESSÉS À LA GARDE CÔTIÈRE CANADIENNE SUR LA VOIE 16 VHF OU AU RÉSEAU QUÉBÉCOIS D'URGENCES POUR LES MAMMIFÈRES MARINS AU  1-877-722-5346. L'UTILISATION DE L'APPLICATION WHALE ALERT (WWW.WHALEALERT.ORG) EST ÉGALEMENT ENCOURAGÉE AFIN DE SIGNALER LES OBSERVATIONS DE BALEINES.","fillColor":"22AAAA00", "lineColor":"FFAAAA00",
+  "startDate":"2018-05-08","endDate":"2020-10-31",
   "link":"","banner":"","geometry": {
          "type": "Polygon",
          "coordinates": [
            [[49.3667,-64],[49.183333,-64],[48.8,-63],[49,-63],[49.3667,-64]]
          ]
-       }},{"id":"1403", "type":"SMA","name":"Secteur C",
-  "information":"
-Les navires peuvent avancer à la vitesse normale de sécurité dans cette zone si aucune présence de baleine n'a été détectée. VEUILLEZ RAPPORTER TOUTES OBSERVATIONS DE MAMMIFÈRES MARINS VIVANTS, MORTS OU BLESSÉS À LA GARDE CÔTIÈRE CANADIENNE SUR LA VOIE 16 VHF OU AU RÉSEAU QUÉBÉCOIS D'URGENCES POUR LES MAMMIFÈRES MARINS AU  1-877-722-5346. L'UTILISATION DE L'APPLICATION WHALE ALERT (WWW.WHALEALERT.ORG) EST ÉGALEMENT ENCOURAGÉE AFIN DE SIGNALER LES OBSERVATIONS DE BALEINES.","fillColor":"22AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2017-04-28","endDate":"2020-10-31",
+       }},{"id":"1403", "type":"SMA","name":"Aire de vitesse réduite à 10 noeuds ou moins - Secteur C",
+         "information":"les navires ne doivent pas dépasser une vitesse sur le fond de 10,0 noeuds. VEUILLEZ RAPPORTER TOUTES OBSERVATIONS DE MAMMIFÈRES MARINS VIVANTS, MORTS OU BLESSÉS À LA GARDE CÔTIÈRE CANADIENNE SUR LA VOIE 16 VHF OU AU RÉSEAU QUÉBÉCOIS D'URGENCES POUR LES MAMMIFÈRES MARINS AU  1-877-722-5346. L'UTILISATION DE L'APPLICATION WHALE ALERT (WWW.WHALEALERT.ORG) EST ÉGALEMENT ENCOURAGÉE AFIN DE SIGNALER LES OBSERVATIONS DE BALEINES.","fillColor":"22AAAA00", "lineColor":"FFAAAA00",
+         "startDate":"2018-05-28","endDate":"2020-10-31",
   "link":"","banner":"","geometry": {
          "type": "Polygon",
          "coordinates": [
            [[49,-63],[48.8,-63],[48.4,-62],[48.5833,-62]]
          ]
-       }},{"id":"1404", "type":"SMA","name":"Secteur D",
-  "information":"
-Les navires peuvent avancer à la vitesse normale de sécurité dans cette zone si aucune présence de baleine n'a été détectée. VEUILLEZ RAPPORTER TOUTES OBSERVATIONS DE MAMMIFÈRES MARINS VIVANTS, MORTS OU BLESSÉS À LA GARDE CÔTIÈRE CANADIENNE SUR LA VOIE 16 VHF OU AU RÉSEAU QUÉBÉCOIS D'URGENCES POUR LES MAMMIFÈRES MARINS AU  1-877-722-5346. L'UTILISATION DE L'APPLICATION WHALE ALERT (WWW.WHALEALERT.ORG) EST ÉGALEMENT ENCOURAGÉE AFIN DE SIGNALER LES OBSERVATIONS DE BALEINES.","fillColor":"22AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2017-04-28","endDate":"2020-10-31",
+       }},{"id":"1404", "type":"SMA","name":"Aire de vitesse réduite à 10 noeuds ou moins - Secteur D",
+  "information":"les navires ne doivent pas dépasser une vitesse sur le fond de 10,0 noeuds. VEUILLEZ RAPPORTER TOUTES OBSERVATIONS DE MAMMIFÈRES MARINS VIVANTS, MORTS OU BLESSÉS À LA GARDE CÔTIÈRE CANADIENNE SUR LA VOIE 16 VHF OU AU RÉSEAU QUÉBÉCOIS D'URGENCES POUR LES MAMMIFÈRES MARINS AU  1-877-722-5346. L'UTILISATION DE L'APPLICATION WHALE ALERT (WWW.WHALEALERT.ORG) EST ÉGALEMENT ENCOURAGÉE AFIN DE SIGNALER LES OBSERVATIONS DE BALEINES.","fillColor":"22AAAA00", "lineColor":"FFAAAA00",
+  "startDate":"2018-05-08","endDate":"2020-10-31",
   "link":"","banner":"","geometry": {
          "type": "Polygon",
          "coordinates": [
