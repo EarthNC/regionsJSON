@@ -1,4 +1,4 @@
-{"id":"1", "type":"SMA","name":"Block Island Sound",
+[{"id":"1", "type":"SMA","name":"Block Island Sound",
   "desc":"Right Whale Seasonal Management Area, Reduce Speed to 10kts or Less","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
   "startDate":"2018-11-01","endDate":"2019-04-30",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
