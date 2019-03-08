@@ -79,7 +79,7 @@
 			],
 			"variables" : [
 				{ "enc_action_required_right_number" : "1-866-767-6114" },
-				{ "enc_action_required_entangled_number" : "1-877-SOS-WHALE (1-877-767-9425) or hail the U.S. Coast Guard on VHF Ch. 16" },
+				{ "enc_action_required_entangled_number" : "1-877-925-7773 or hail the U.S. Coast Guard on VHF Ch. 16" },
 				{ "enc_action_required_entangled_warning": "US federal regulations prohibit approaching right whales within 500 yards (1500 feet)." },
 				{ "enc_action_required_dead_injured_stranded_number" : "1-877-925-7773" },
 				{ "enc_species_list": [ "unknown", "humpback", "gray", "blue", "orca", "minke", "fin", "other" ] },
