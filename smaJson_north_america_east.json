@@ -245,7 +245,7 @@
          "coordinates": [
            [[50.333333333333,-65],[50.333333333333,-63],[49.7167,-63],[49.0667,-62],[47.166666666667,-62],[47.166666666667,-65],[50.333333333333,-65]]
          ]
-       }},{"id":"1401", "type":"SMA","name":"Slow Zone (10knt) Active - Notice to Shippers - Sector A",
+       }},{"id":"1401", "type":"SMA","name":"Dynamic Slow Zone (10knt) - Notice to Shippers - Sector A",
   "information":"Dynamic Sector A: Vessels are instructed to proceed at a speed not exceeding 10.0kts over the ground WHEN ACTIVE. REPORT ALL OBSERVATIONS OF LIVE, DEAD OR INJURED WHALES TO THE CANADIAN COAST GUARD ON VHF CH.16 OR TO “MARINE ANIMAL RESPONSE” AT  1-866-567-6277. THE REPORTING OF LIVE WHALE SIGHTINGS USING WHALE ALERT IS ALSO ENCOURAGED. WWW.WHALEALERT.ORG","fillColor":"22AAAA00", "lineColor":"FFAAAA00",
   "startDate":"2019-05-08","endDate":"2019-12-31",
   "link":"","banner":"","geometry": {
@@ -253,7 +253,7 @@
          "coordinates": [
            [[49.6833,-65],[49.333333333333,-65],[49.183333,-64],[49.3667,-64],[49.6833,-65]]
          ]
-       }},{"id":"1402", "type":"SMA","name":"Slow Zone (10knt) Active - Notice to Shippers - Sector B",
+       }},{"id":"1402", "type":"SMA","name":"Dynamic Slow Zone (10knt) - Notice to Shippers - Sector B",
   "information":"Dynamic Sector B: Vessels are instructed to proceed at a speed not exceeding 10.0kts over the ground WHEN ACTIVE. REPORT ALL OBSERVATIONS OF LIVE, DEAD OR INJURED WHALES TO THE CANADIAN COAST GUARD ON VHF CH.16 OR TO “MARINE ANIMAL RESPONSE” AT  1-866-567-6277. THE REPORTING OF LIVE WHALE SIGHTINGS USING WHALE ALERT IS ALSO ENCOURAGED. WWW.WHALEALERT.ORG","fillColor":"22AAAA00", "lineColor":"FFAAAA00",
   "startDate":"2019-05-08","endDate":"2019-12-31",
   "link":"","banner":"","geometry": {
@@ -261,7 +261,7 @@
          "coordinates": [
            [[49.3667,-64],[49.183333,-64],[48.8,-63],[49,-63],[49.3667,-64]]
          ]
-       }},{"id":"1403", "type":"SMA","name":"Slow Zone (10knt) Active - Notice to Shippers - Sector C",
+       }},{"id":"1403", "type":"SMA","name":"Dynamic Slow Zone (10knt) - Notice to Shippers - Sector C",
   "information":"Dynamic Sector C: Vessels are instructed to proceed at a speed not exceeding 10.0kts over the ground WHEN ACTIVE. REPORT ALL OBSERVATIONS OF LIVE, DEAD OR INJURED WHALES TO THE CANADIAN COAST GUARD ON VHF CH.16 OR TO “MARINE ANIMAL RESPONSE” AT  1-866-567-6277. THE REPORTING OF LIVE WHALE SIGHTINGS USING WHALE ALERT IS ALSO ENCOURAGED. WWW.WHALEALERT.ORG","fillColor":"22AAAA00", "lineColor":"FFAAAA00",
   "startDate":"2019-05-08","endDate":"2019-12-31",
   "link":"","banner":"","geometry": {
@@ -269,7 +269,7 @@
          "coordinates": [
            [[49,-63],[48.8,-63],[48.4,-62],[48.5833,-62]]
          ]
-       }},{"id":"1404", "type":"SMA","name":"Slow Zone (10knt) Active - Notice to Shippers - Sector D",
+       }},{"id":"1404", "type":"SMA","name":"Dynamic Slow Zone (10knt) - Notice to Shippers - Sector D",
   "information":"Dynamic Sector D: Vessels are instructed to proceed at a speed not exceeding 10.0kts over the ground WHEN ACTIVE. REPORT ALL OBSERVATIONS OF LIVE, DEAD OR INJURED WHALES TO THE CANADIAN COAST GUARD ON VHF CH.16 OR TO “MARINE ANIMAL RESPONSE” AT  1-866-567-6277. THE REPORTING OF LIVE WHALE SIGHTINGS USING WHALE ALERT IS ALSO ENCOURAGED. WWW.WHALEALERT.ORG","fillColor":"22AAAA00", "lineColor":"FFAAAA00",
   "startDate":"2019-05-08","endDate":"2019-12-31",
   "link":"","banner":"","geometry": {
