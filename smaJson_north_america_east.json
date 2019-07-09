@@ -277,7 +277,7 @@
          "coordinates": [
            [[50.2667,-64],[50,-64],[49.9333,-63],[50.2667,-63],[50.2667,-64]]
          ]
-       }},{"id":"1404", "type":"SMA","name":"Dynamic Slow Zone (10knt) - Notice to Shippers - Sector E",
+       }},{"id":"1405", "type":"SMA","name":"Dynamic Slow Zone (10knt) - Notice to Shippers - Sector E",
   "information":"Dynamic Sector E: Vessels are instructed to proceed at a speed not exceeding 10.0kts over the ground WHEN ACTIVE. REPORT ALL OBSERVATIONS OF LIVE, DEAD OR INJURED WHALES TO THE CANADIAN COAST GUARD ON VHF CH.16 OR TO “MARINE ANIMAL RESPONSE” AT  1-866-567-6277. THE REPORTING OF LIVE WHALE SIGHTINGS USING WHALE ALERT IS ALSO ENCOURAGED. WWW.WHALEALERT.ORG","fillColor":"22AAAA00", "lineColor":"FFAAAA00",
   "startDate":"2019-05-08","endDate":"2019-12-31",
   "link":"","banner":"","geometry": {
