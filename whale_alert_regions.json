@@ -45,7 +45,7 @@
 				{ "enc_action_required_entangled_number" : "1-866-755-NOAA (1-866-755-6622)" },
 				{ "enc_action_required_entangled_warning": "US federal regulations prohibit approaching right whales within 500 yards (1500 feet)." },
 				{ "enc_action_required_dead_injured_stranded_number" : "1-866-755-NOAA (1-866-755-6622)" },
-				{ "enc_species_list": [ "unknown", "right", "humpback", "fin", "minke", "sei", "blue", "sperm", "orca", "beluga", "bowhead","bottlenose_whale", "other" ] },
+				{ "enc_species_list": [ "unknown", "right", "humpback", "fin", "minke", "sei", "blue", "sperm", "orca", "beluga", "bowhead","bottlenose_whale", "gray", "other" ] },
 				{ "enc_other_species_list": [ "Short Finned Pilot Whale", "Pygmy Sperm Whale", "Dwarf Sperm Whale",
 					  "Sowerby's Beaked Whale", "Cuvier's Beaked Whale", "Blainsville's Beaked Whale", "Bottlenose Dolphin", "Atlantic White-sided Dolphin",
 					  "Common Dolphin", "White-Beaked Dolphin", "Risso's Dolphin", "Harbor Porpoise", "Other (Specify in comments)"]
@@ -63,7 +63,7 @@
 				{ "enc_action_required_entangled_number" : "1-877-WHALE HELP (1-877-942-5343)" },
 				{ "enc_action_required_entangled_warning": "US federal regulations prohibit approaching right whales within 500 yards (1500 feet)." },
 				{ "enc_action_required_dead_injured_stranded_number" : "1-877-WHALE HELP (1-877-942-5343)" },
-				{ "enc_species_list": [ "unknown", "right", "humpback", "fin", "minke", "sei", "blue", "sperm", "orca", "beluga", "bowhead", "bottlenose_whale","other" ] },
+				{ "enc_species_list": [ "unknown", "right", "humpback", "fin", "minke", "sei", "blue", "sperm", "orca", "beluga", "bowhead", "bottlenose_whale","gray", "other" ] },
 				{ "enc_other_species_list": [ "Short Finned Pilot Whale", "Pygmy Sperm Whale", "Dwarf Sperm Whale",
 					  "Sowerby's Beaked Whale", "Cuvier's Beaked Whale", "Blainsville's Beaked Whale", "Bottlenose Dolphin", "Atlantic White-sided Dolphin",
 					  "Common Dolphin", "White-Beaked Dolphin", "Risso's Dolphin", "Harbor Porpoise", "Other"]
@@ -104,7 +104,7 @@
 				{ "enc_action_required_right_number" : "BC Marine Mammal Response Network at 1-800-465-4336" },
 				{ "enc_action_required_entangled_number" : "BC Marine Mammal Response Network at 1-800-465-4336" },
 				{ "enc_action_required_dead_injured_stranded_number" : "BC Marine Mammal Response Network at 1-800-465-4336" },
-				{ "enc_species_list": [ "unknown", "right", "humpback", "fin", "minke", "sei", "blue", "sperm", "orca", "beluga", "bowhead","bottlenose_whale", "other" ] },
+				{ "enc_species_list": [ "unknown", "humpback", "gray", "blue", "orca", "minke", "fin", "other" ] },
 				{ "enc_other_species_list": [ "Short Finned Pilot Whale", "Pygmy Sperm Whale", "Dwarf Sperm Whale",
 					  "Sowerby's Beaked Whale", "Cuvier's Beaked Whale", "Blainsville's Beaked Whale", "Bottlenose Dolphin", "Atlantic White-sided Dolphin",
 					  "Common Dolphin", "White-Beaked Dolphin", "Risso's Dolphin", "Harbor Porpoise", "Other"]
