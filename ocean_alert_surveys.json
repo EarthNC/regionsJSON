@@ -1,0 +1,11 @@
+[{
+		"name": "Whale Alert",
+		"label": "Whale or Marine Mammal",
+		"spotter_project": 7
+	},
+	{
+		"name": "Ocean Alert",
+		"label": "Other Marine Animal",
+		"spotter_project": 25
+	}
+]
