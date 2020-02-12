@@ -1,6 +1,6 @@
 [{"id":"1", "type":"SMA","name":"Block Island Sound",
   "desc":"Right Whale Seasonal Management Area, Reduce Speed to 10kts or Less","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2018-11-01","endDate":"2019-04-30",
+  "startDate":"2019-11-01","endDate":"2020-04-30",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -8,7 +8,7 @@
            ]
        }},{"id":"2", "type":"SMA","name":"Southeast Calving and Nursery Grounds",
   "desc":"Right Whale Seasonal Management Area, Reduce Speed to 10kts or Less","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2018-11-15","endDate":"2019-04-15",
+  "startDate":"2019-11-15","endDate":"2020-04-15",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -16,7 +16,7 @@
            ]
        }},{"id":"3", "type":"SMA","name":"Cape Cod Bay Seasonal Management",
   "desc":"Right Whale Seasonal Management Area, Reduce Speed to 10kts or Less","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2019-01-01","endDate":"2019-05-15",
+  "startDate":"2020-01-01","endDate":"2020-05-15",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -24,7 +24,7 @@
            ]
        }},{"id":"4", "type":"SMA","name":"Entrance to the Chesapeake Bay",
   "desc":"Right Whale Seasonal Management Area, Reduce Speed to 10kts or Less","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2018-11-01","endDate":"2019-04-30",
+  "startDate":"2019-11-01","endDate":"2020-04-30",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -32,7 +32,7 @@
            ]
        }},{"id":"5", "type":"SMA","name":"Great South Channel",
   "desc":"Right Whale Seasonal Management Area, Reduce Speed to 10kts or Less","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2019-04-01","endDate":"2019-07-31",
+  "startDate":"2020-04-01","endDate":"2020-07-31",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -40,7 +40,7 @@
            ]
        }},{"id":"6", "type":"SMA","name":"Mid-Atlantic",
   "desc":"Right Whale Seasonal Management Area, Reduce Speed to 10kts or Less","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2018-11-01","endDate":"2019-04-30",
+  "startDate":"2019-11-01","endDate":"2020-04-30",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -48,7 +48,7 @@
            ]
        }},{"id":"7", "type":"SMA","name":"Off Race Point Seasonal Management",
   "desc":"Right Whale Seasonal Management Area, Reduce Speed to 10kts or Less","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2019-03-01","endDate":"2019-04-30",
+  "startDate":"2020-03-01","endDate":"2020-04-30",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png", "lat":"42.4461", "lon":"-69.9761","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -56,7 +56,7 @@
            ]
        }},{"id":"8", "type":"SMA","name":"Port of New York and New Jersey",
   "desc":"Right Whale Seasonal Management Area, Reduce Speed to 10kts or Less","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2018-11-01","endDate":"2019-04-30",
+  "startDate":"2019-11-01","endDate":"2020-04-30",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -64,7 +64,7 @@
            ]
        }},{"id":"9", "type":"SMA","name":"Moorehead City and Beaufort",
   "desc":"Right Whale Seasonal Management Area, Reduce Speed to 10kts or Less","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2018-11-01","endDate":"2019-04-30",
+  "startDate":"2019-11-01","endDate":"2020-04-30",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -72,7 +72,7 @@
            ]
        }},{"id":"10", "type":"SMA","name":"Entrance to the Delaware Bay",
   "desc":"Right Whale Seasonal Management Area, Reduce Speed to 10kts or Less","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2018-11-01","endDate":"2019-04-30",
+  "startDate":"2019-11-01","endDate":"2020-04-30",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -136,7 +136,7 @@
            ]
        }},{"id":"15", "type":"ATBA","name":"Roseway Basin",
   "desc":"Roseway Basin - Area to Be Avoided","fillColor":"55FF0000", "lineColor":"FFFF0000",
-  "startDate":"2018-06-01","endDate":"2018-12-31",
+  "startDate":"2020-06-01","endDate":"2020-12-31",
   "link":"local://abta.pdf","banner":"local://abta.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -144,7 +144,7 @@
            ]
        }},{"id":"16", "type":"ATBA","name":"Great South Channel",
   "desc":"Great South Channel - Area to Be Avoided","fillColor":"55FF0000", "lineColor":"FFFF0000",
-  "startDate":"2019-04-01","endDate":"2019-07-31",
+  "startDate":"2020-04-01","endDate":"2020-07-31",
   "link":"local://abta.pdf","banner":"local://abta.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -152,7 +152,7 @@
            ]
        }},{"id":"1292", "type":"SMA","name":"South-Eastbound Traffic Lane",
   "information":"NOAA Sanctuaries request a voluntary Vessel Speed Reduction from May 1-November 15 within the SF TSS. Vessels 300 gross registered tons or larger transiting the Off San Francisco Traffic Separation Scheme (33 CFR 167.400) are encouraged to transit at speeds not in excess of 10 knots.  These areas contain concentrations of endangered blue, humpback and fin whales that are protected under the federal Endangered Species Act (16 U.S.C. 1538 et seq.), the Marine Mammal Protection Act (16 U.S.C. 1361 et seq.), and the National Marine Sanctuaries Act (16 U.S.C. 1431 et seq.).<br><br> Please report any collisions with whales or any observed injured or dead whales to NOAA at 877-SOS- WHALe 877-767-9425 or to the U.S. Coast Guard on VHF Channel 16.<br><br> NOAA is asking for the public's help in tracking whales. If you see whales, please record the date and location, the number of whales, the species (if known). Please report sightings to <a href=\"mailto:whales@noaa.gov\">whales@noaa.gov</a>, or through WhaleAlert. Additional information can be found at <a href=\"http://farallones.noaa.gov/eco/vesselstrikes/welcome.html\">http://farallones.noaa.gov/eco/vesselstrikes/welcome.html</a>","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2018-05-01","endDate":"2018-12-31",
+  "startDate":"2020-05-01","endDate":"2020-12-31",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -160,7 +160,7 @@
            ]
        }},{"id":"1293", "type":"SMA","name":"North-Westbound Traffic Lane",
   "information":"NOAA Sanctuaries request a voluntary Vessel Speed Reduction from May 1-November 15 within the SF TSS. Vessels 300 gross registered tons or larger transiting the Off San Francisco Traffic Separation Scheme (33 CFR 167.400) are encouraged to transit at speeds not in excess of 10 knots.  These areas contain concentrations of endangered blue, humpback and fin whales that are protected under the federal Endangered Species Act (16 U.S.C. 1538 et seq.), the Marine Mammal Protection Act (16 U.S.C. 1361 et seq.), and the National Marine Sanctuaries Act (16 U.S.C. 1431 et seq.).<br><br> Please report any collisions with whales or any observed injured or dead whales to NOAA at 877-SOS- WHALe 877-767-9425 or to the U.S. Coast Guard on VHF Channel 16.<br><br> NOAA is asking for the public's help in tracking whales. If you see whales, please record the date and location, the number of whales, the species (if known). Please report sightings to <a href=\"mailto:whales@noaa.gov\">whales@noaa.gov</a>, or through WhaleAlert. Additional information can be found at <a href=\"http://farallones.noaa.gov/eco/vesselstrikes/welcome.html\">http://farallones.noaa.gov/eco/vesselstrikes/welcome.html</a>","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2018-05-01","endDate":"2018-12-31",
+  "startDate":"2020-05-01","endDate":"2020-12-31",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -168,7 +168,7 @@
            ]
        }},{"id":"1294", "type":"SMA","name":"South-Westbound Traffic Lane",
   "information":"NOAA Sanctuaries request a voluntary Vessel Speed Reduction from May 1-November 15 within the SF TSS. Vessels 300 gross registered tons or larger transiting the Off San Francisco Traffic Separation Scheme (33 CFR 167.400) are encouraged to transit at speeds not in excess of 10 knots.  These areas contain concentrations of endangered blue, humpback and fin whales that are protected under the federal Endangered Species Act (16 U.S.C. 1538 et seq.), the Marine Mammal Protection Act (16 U.S.C. 1361 et seq.), and the National Marine Sanctuaries Act (16 U.S.C. 1431 et seq.).<br><br> Please report any collisions with whales or any observed injured or dead whales to NOAA at 877-SOS- WHALe 877-767-9425 or to the U.S. Coast Guard on VHF Channel 16.<br><br> NOAA is asking for the public's help in tracking whales. If you see whales, please record the date and location, the number of whales, the species (if known). Please report sightings to <a href=\"mailto:whales@noaa.gov\">whales@noaa.gov</a>, or through WhaleAlert. Additional information can be found at <a href=\"http://farallones.noaa.gov/eco/vesselstrikes/welcome.html\">http://farallones.noaa.gov/eco/vesselstrikes/welcome.html</a>","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2018-05-01","endDate":"2018-12-31",
+  "startDate":"2020-05-01","endDate":"2020-12-31",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -176,7 +176,7 @@
            ]
        }},{"id":"1295", "type":"SMA","name":"North-Eastbound Traffic Lane",
   "information":"NOAA Sanctuaries request a voluntary Vessel Speed Reduction from May 1-November 15 within the SF TSS. Vessels 300 gross registered tons or larger transiting the Off San Francisco Traffic Separation Scheme (33 CFR 167.400) are encouraged to transit at speeds not in excess of 10 knots.  These areas contain concentrations of endangered blue, humpback and fin whales that are protected under the federal Endangered Species Act (16 U.S.C. 1538 et seq.), the Marine Mammal Protection Act (16 U.S.C. 1361 et seq.), and the National Marine Sanctuaries Act (16 U.S.C. 1431 et seq.).<br><br> Please report any collisions with whales or any observed injured or dead whales to NOAA at 877-SOS- WHALe 877-767-9425 or to the U.S. Coast Guard on VHF Channel 16.<br><br> NOAA is asking for the public's help in tracking whales. If you see whales, please record the date and location, the number of whales, the species (if known). Please report sightings to <a href=\"mailto:whales@noaa.gov\">whales@noaa.gov</a>, or through WhaleAlert. Additional information can be found at <a href=\"http://farallones.noaa.gov/eco/vesselstrikes/welcome.html\">http://farallones.noaa.gov/eco/vesselstrikes/welcome.html</a>","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2018-05-01","endDate":"2018-12-31",
+  "startDate":"2020-05-01","endDate":"2020-12-31",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -184,7 +184,7 @@
            ]
        }},{"id":"1296", "type":"SMA","name":"Southern Traffic Lane",
   "information":"NOAA Sanctuaries request a voluntary Vessel Speed Reduction from May 1-November 15 within the SF TSS. Vessels 300 gross registered tons or larger transiting the Off San Francisco Traffic Separation Scheme (33 CFR 167.400) are encouraged to transit at speeds not in excess of 10 knots.  These areas contain concentrations of endangered blue, humpback and fin whales that are protected under the federal Endangered Species Act (16 U.S.C. 1538 et seq.), the Marine Mammal Protection Act (16 U.S.C. 1361 et seq.), and the National Marine Sanctuaries Act (16 U.S.C. 1431 et seq.).<br><br> Please report any collisions with whales or any observed injured or dead whales to NOAA at 877-SOS- WHALe 877-767-9425 or to the U.S. Coast Guard on VHF Channel 16.<br><br> NOAA is asking for the public's help in tracking whales. If you see whales, please record the date and location, the number of whales, the species (if known). Please report sightings to <a href=\"mailto:whales@noaa.gov\">whales@noaa.gov</a>, or through WhaleAlert. Additional information can be found at <a href=\"http://farallones.noaa.gov/eco/vesselstrikes/welcome.html\">http://farallones.noaa.gov/eco/vesselstrikes/welcome.html</a>","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2018-05-01","endDate":"2018-12-31",
+  "startDate":"2020-05-01","endDate":"2020-12-31",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -192,7 +192,7 @@
            ]
        }},{"id":"1297", "type":"SMA","name":"Northern Traffic Lane",
   "information":"NOAA Sanctuaries request a voluntary Vessel Speed Reduction from May 1-November 15 within the SF TSS. Vessels 300 gross registered tons or larger transiting the Off San Francisco Traffic Separation Scheme (33 CFR 167.400) are encouraged to transit at speeds not in excess of 10 knots.  These areas contain concentrations of endangered blue, humpback and fin whales that are protected under the federal Endangered Species Act (16 U.S.C. 1538 et seq.), the Marine Mammal Protection Act (16 U.S.C. 1361 et seq.), and the National Marine Sanctuaries Act (16 U.S.C. 1431 et seq.).<br><br> Please report any collisions with whales or any observed injured or dead whales to NOAA at 877-SOS- WHALe 877-767-9425 or to the U.S. Coast Guard on VHF Channel 16.<br><br> NOAA is asking for the public's help in tracking whales. If you see whales, please record the date and location, the number of whales, the species (if known). Please report sightings to <a href=\"mailto:whales@noaa.gov\">whales@noaa.gov</a>, or through WhaleAlert. Additional information can be found at <a href=\"http://farallones.noaa.gov/eco/vesselstrikes/welcome.html\">http://farallones.noaa.gov/eco/vesselstrikes/welcome.html</a>","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2018-05-01","endDate":"2018-12-31",
+  "startDate":"2020-05-01","endDate":"2020-12-31",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -216,7 +216,7 @@
            ]
        }},{"id":"1300", "type":"CBNMS","name":"Cordell Bank National Marine Sanctuary",
   "desc":"","fillColor":"00000000", "lineColor":"FF000000",
-  "startDate":"2000-01-01","endDate":"2020-01-01",
+  "startDate":"2000-01-01","endDate":"2050-01-01",
   "link":"","banner":"","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -224,7 +224,7 @@
            ]
        }},{"id":"1301", "type":"CINMS","name":"Channel Islands National Marine Sanctuary ",
   "desc":"Santa Barbara Section","fillColor":"00000000", "lineColor":"FF000000",
-  "startDate":"2000-01-01","endDate":"2020-01-01",
+  "startDate":"2000-01-01","endDate":"2050-01-01",
   "link":"","banner":"","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -232,7 +232,7 @@
            ]
        }},{"id":"1302", "type":"CINMS","name":"Channel Islands National Marine Sanctuary ",
   "desc":"Northern Section","fillColor":"00000000", "lineColor":"FF000000",
-  "startDate":"2000-01-01","endDate":"2020-01-01",
+  "startDate":"2000-01-01","endDate":"2050-01-01",
   "link":"","banner":"","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -240,7 +240,7 @@
            ]
        }},{"id":"1303", "type":"FGNMS","name":"Flower Garden Banks National Marine Sanctuary",
   "desc":"Stetson Bank","fillColor":"00000000", "lineColor":"FF000000",
-  "startDate":"2000-01-01","endDate":"2020-01-01",
+  "startDate":"2000-01-01","endDate":"2050-01-01",
   "link":"","banner":"","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -248,7 +248,7 @@
            ]
        }},{"id":"1304", "type":"FGNMS","name":"Flower Garden Banks National Marine Sanctuary",
   "desc":"West Flower","fillColor":"00000000", "lineColor":"FF000000",
-  "startDate":"2000-01-01","endDate":"2020-01-01",
+  "startDate":"2000-01-01","endDate":"2050-01-01",
   "link":"","banner":"","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -256,7 +256,7 @@
            ]
        }},{"id":"1305", "type":"FGNMS","name":"Flower Garden Banks National Marine Sanctuary",
   "desc":"East Flower","fillColor":"00000000", "lineColor":"FF000000",
-  "startDate":"2000-01-01","endDate":"2020-01-01",
+  "startDate":"2000-01-01","endDate":"2050-01-01",
   "link":"","banner":"","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -264,7 +264,7 @@
            ]
        }},{"id":"1306", "type":"FKNMS","name":"Florida Keys National Marine Sanctuary ",
   "desc":"","fillColor":"00000000", "lineColor":"FF000000",
-  "startDate":"2000-01-01","endDate":"2020-01-01",
+  "startDate":"2000-01-01","endDate":"2050-01-01",
   "link":"","banner":"","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -272,7 +272,7 @@
            ]
        }},{"id":"1307", "type":"GOFNMS","name":"Gulf of the Farallones National Marine Sanctuary",
   "desc":" ","fillColor":"00000000", "lineColor":"FF000000",
-  "startDate":"2000-01-01","endDate":"2020-01-01",
+  "startDate":"2000-01-01","endDate":"2050-01-01",
   "link":"","banner":"","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -280,7 +280,7 @@
            ]
        }},{"id":"1308", "type":"GRNMS","name":"Gray's Reef National Marine Sanctuary",
   "desc":" ","fillColor":"00000000", "lineColor":"FF000000",
-  "startDate":"2000-01-01","endDate":"2020-01-01",
+  "startDate":"2000-01-01","endDate":"2050-01-01",
   "link":"","banner":"","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -288,7 +288,7 @@
            ]
        }},{"id":"1309", "type":"HIHWNMS","name":"Hawaiian Islands Humpback Whale National Marine Sanctuary ",
   "desc":"Lanai","fillColor":"00000000", "lineColor":"FF000000",
-  "startDate":"2000-01-01","endDate":"2020-01-01",
+  "startDate":"2000-01-01","endDate":"2050-01-01",
   "link":"","banner":"","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -296,7 +296,7 @@
            ]
        }},{"id":"1310", "type":"HIHWNMS","name":"Hawaiian Islands Humpback Whale National Marine Sanctuary ",
   "desc":"Kauai","fillColor":"00000000", "lineColor":"FF000000",
-  "startDate":"2000-01-01","endDate":"2020-01-01",
+  "startDate":"2000-01-01","endDate":"2050-01-01",
   "link":"","banner":"","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -304,7 +304,7 @@
            ]
        }},{"id":"1311", "type":"HIHWNMS","name":"Hawaiian Islands Humpback Whale National Marine Sanctuary ",
   "desc":"North Oahu","fillColor":"00000000", "lineColor":"FF000000",
-  "startDate":"2000-01-01","endDate":"2020-01-01",
+  "startDate":"2000-01-01","endDate":"2050-01-01",
   "link":"","banner":"","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -312,7 +312,7 @@
            ]
        }},{"id":"1312", "type":"HIHWNMS","name":"Hawaiian Islands Humpback Whale National Marine Sanctuary ",
   "desc":"South Oahu","fillColor":"00000000", "lineColor":"FF000000",
-  "startDate":"2000-01-01","endDate":"2020-01-01",
+  "startDate":"2000-01-01","endDate":"2050-01-01",
   "link":"","banner":"","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -320,7 +320,7 @@
            ]
        }},{"id":"1313", "type":"HIHWNMS","name":"Hawaiian Islands Humpback Whale National Marine Sanctuary ",
   "desc":"Big Island","fillColor":"00000000", "lineColor":"FF000000",
-  "startDate":"2000-01-01","endDate":"2020-01-01",
+  "startDate":"2000-01-01","endDate":"2050-01-01",
   "link":"","banner":"","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -328,7 +328,7 @@
            ]
        }},{"id":"1314", "type":"MBNMS","name":"Monterey Bay National Marine Sanctuary",
   "desc":"","fillColor":"00000000", "lineColor":"FF000000",
-  "startDate":"2000-01-01","endDate":"2020-01-01",
+  "startDate":"2000-01-01","endDate":"2050-01-01",
   "link":"","banner":"","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -336,7 +336,7 @@
            ]
        }},{"id":"1315", "type":"MBNMS.D","name":"Monterey Bay National Marine Sanctuary",
   "desc":"","fillColor":"00000000", "lineColor":"FF000000",
-  "startDate":"2000-01-01","endDate":"2020-01-01",
+  "startDate":"2000-01-01","endDate":"2050-01-01",
   "link":"","banner":"","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -344,7 +344,7 @@
            ]
        }},{"id":"1316", "type":"MNMS","name":"Monitor National Marine Sanctuary ",
   "desc":"","fillColor":"00000000", "lineColor":"FF000000",
-  "startDate":"2000-01-01","endDate":"2020-01-01",
+  "startDate":"2000-01-01","endDate":"2050-01-01",
   "link":"","banner":"","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -352,7 +352,7 @@
            ]
        }},{"id":"1317", "type":"NWHIMNM","name":"Northwestern Hawaiian Islands Marine National Monument ",
   "desc":"","fillColor":"00000000", "lineColor":"FF000000",
-  "startDate":"2000-01-01","endDate":"2020-01-01",
+  "startDate":"2000-01-01","endDate":"2050-01-01",
   "link":"","banner":"","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -360,7 +360,7 @@
            ]
        }},{"id":"1318", "type":"OCNMS","name":"Olympic Coast National Marine Sanctuary ",
   "desc":"","fillColor":"00000000", "lineColor":"FF000000",
-  "startDate":"2000-01-01","endDate":"2020-01-01",
+  "startDate":"2000-01-01","endDate":"2050-01-01",
   "link":"","banner":"","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -368,7 +368,7 @@
            ]
        }},{"id":"1319", "type":"TBNMS","name":"Thunder Bay National Marine Sanctuary ",
   "desc":"","fillColor":"00000000", "lineColor":"FF000000",
-  "startDate":"2000-01-01","endDate":"2020-01-01",
+  "startDate":"2000-01-01","endDate":"2050-01-01",
   "link":"","banner":"","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -384,7 +384,7 @@
            ]
        }},{"id":"1350", "type":"SMA","name":"Voluntary Vessel Speed Reduction Zone",
   "information":"NOAA strongly recommends that vessels 300 gross registered tons or larger transiting the Santa Barbara Channel traffic separation scheme in the area between Point Conception and San Pedro Point, Santa Cruz Island do so at speeds not in excess of 10 knots. This area contains populations of endangered blue, humpback and fin whales that are federally protected under the Endangered Species Act (16 U.S.C. 1538 et seq.), the Marine Mammal Protection Act (16 U.S.C. 1361 et seq.), and the National Marine Sanctuaries Act (16 U.S.C. 1431 et seq.).<br><br>Additional information can be found at: <a href=\"http://channelislands.noaa.gov/management/resource/ship_strikes.html\">http://channelislands.noaa.gov/management/resource/ship_strikes.html</a><br><br>Please report any collisions with whales or any observed injured or dead whales to NOAA at 877-SOS-WHALe (877-767-9425) or to the U.S. Coast Guard on VHF Channel 16.<br><br>NOAA is asking for public help in tracking whales.  If you see whales, please record the date and location, the number of whales, the species (if known) and a description of the animals. Please email whales@noaa.gov or report through WhaleAlert.","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2018-05-01","endDate":"2018-11-15",
+  "startDate":"2020-05-01","endDate":"2020-11-15",
   "link":"","banner":"","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -392,7 +392,7 @@
            ]
        }},{"id":"1353", "type":"SMA","name":"Whale Advisory Zone",
   "information":"Vessels transiting the area between Point Arguello and Dana Point, including the Traffic Separation Schemes in the Santa Barbara Channel and San Pedro Channel, from May through November, should exercise caution and reduce speed.  These areas contain populations of endangered blue, humpback and fin whales that are federally protected under the Endangered Species Act (16 U.S.C. 1538 et seq.), the Marine Mammal Protection Act (16 U.S.C. 1361 et seq.), and the National Marine Sanctuaries Act (16 U.S.C. 1431 et seq.).<br><br>Additional information can be found at: <a href=\"http://channelislands.noaa.gov/management/resource/ship_strikes.html\">http://channelislands.noaa.gov/management/resource/ship_strikes.html</a><br><br>Please report any collisions with whales or any observed injured or dead whales to NOAA at 877-SOS-WHALe (877-767-9425) or to the U.S. Coast Guard on VHF Channel 16.<br><br>NOAA is asking for publics help in tracking whales.  If you see whales, please record the date and location, the number of whales, the species (if known) and a description of the animals.   Please email whales@noaa.gov or report through WhaleAlert.","fillColor":"22AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2018-05-01","endDate":"2018-11-15",
+  "startDate":"2020-05-01","endDate":"2020-11-15",
   "link":"","banner":"","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -400,7 +400,7 @@
            ]
        }},{"id":"1400", "type":"SMA","name":"Notice to Shippers - Slow Zone",
   "information":"IN ORDER TO PROMOTE NAVIGATION SAFETY AND PROTECTION OF THE MARINE ENVIRONMENT DUE TO AN INCREASED PRESENCE OF NORTH ATLANTIC RIGHT WHALES IN THE GULF OF ST. LAWRENCE, ALL VESSELS OF 65 FEET (19.8 M) OR LONGER ARE INSTRUCTED TO PROCEED AT A SPEED NOT EXCEEDING 10 KNOTS OVER THE GROUND IN THE ST. LAWRENCE AND THE GULF OF ST. LAWRENCE BETWEEN THE FOLLOWING COORDINATES: 47 10 N 62 00 W; 47 10 N 65 00 W; 50 20 N 65 00 W; 50 20 N 62 00 W. FAILURE TO COMPLY WITH THIS SPEED RESTRICTION COULD LEAD TO ENFORCEMENT ACTION UNDER SECTION 7 OF THE COLLISION REGULATIONS. REPORT ALL OBSERVATIONS OF LIVE, DEAD OR INJURED WHALES TO THE CANADIAN COAST GUARD ON VHF CH.16 OR TO “MARINE ANIMAL RESPONSE” AT  1-866-567-6277. THE REPORTING OF LIVE WHALE SIGHTINGS USING WHALE ALERT IS ALSO ENCOURAGED. WWW.WHALEALERT.ORG","fillColor":"22AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2017-07-24","endDate":"2018-01-01",
+  "startDate":"2020-07-24","endDate":"2021-01-01",
   "link":"","banner":"","geometry": {
          "type": "Polygon",
          "coordinates": [
