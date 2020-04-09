@@ -18,13 +18,33 @@
       "feeds" : [
 				{ "name" : "sma", "url" : "https://github.com/EarthNC/regionsJSON/raw/master/smaJson_north_america_west.json" }
 			],
-			"polygon" : [[[48.99998555778296,-121.2451356204617],[49.0033632752206,-123.3267615908816],[48.83127937351549,-123.0141342344734],[48.76878218736331,-123.0130088623533],[48.68983381120115,-123.2728261475763],[48.52990615107099,-123.2160272607381],[48.44872833028571,-123.1696064168901],[48.42191155060676,-123.1216797095009],[48.28051626564827,-123.2539036923344],[48.22099567353587,-123.5510495689234],[48.2924056496832,-124.0063693462648],[48.49082904623533,-124.7239393413548],[48.20109203438585,-130.0415985086905],[33.20075687705109,-126.8375039251589],[32.49806986597333,-117.0654211146999],[32.63411499667305,-115.8662169996956],[48.99998555778296,-121.2451356204617]]],
+			"polygon" : [[[42,-126.8375039251589],[33.20075687705109,-126.8375039251589],[32.49806986597333,-117.0654211146999],[32.63411499667305,-115.8662169996956],[42,-115.8662169996956],[42,-126.8375039251589]]],
 			"variables" : [
 				{ "enc_action_required_right_number" : "1-866-767-6114" },
 				{ "enc_action_required_entangled_number" : "1-877-SOS-WHALE (1-877-767-9425) or hail the U.S. Coast Guard on VHF Ch. 16" },
 				{ "enc_action_required_entangled_warning": "US federal regulations prohibit approaching right whales within 500 yards (1500 feet)." },
 				{ "enc_action_required_dead_injured_stranded_number" : "1-866-767-6114" },
 				{ "enc_species_list": [ "unknown", "humpback", "gray", "blue", "orca", "minke", "fin", "other" ] },
+				{ "enc_other_species_list": [ "Gray Whale", "Short Finned Pilot Whale", "Sperm Whale", "Sei Whale", "Right Whale",
+					  "Pygmy Sperm Whale", "Dwarf Sperm Whale", "Cuvier's Beaked Whale", "Baird's Beaked Whale",
+					  "Hubb's Beaked Whale", "Blainsville's Beaked Whale", "Steineger's Beaked Whale",
+					  "Bowhead Whale", "Harbor Porpoise", "Dall's Porpoise", "Pacific White-sided Dolphin",
+					  "Northern Right Whale Dolphin", "Long-beaked Common Dolphin", "Striped Dolphin",
+					  "Risso's Dolphin", "Other (Specify in comments)"]
+				}
+			]
+		},{
+			"name" : "usa-northwest",
+      "feeds" : [
+				{ "name" : "sma", "url" : "https://github.com/EarthNC/regionsJSON/raw/master/smaJson_north_america_west.json" }
+			],
+			"polygon" : [[[48.99998555778296,-121.2451356204617],[49.0033632752206,-123.3267615908816],[48.83127937351549,-123.0141342344734],[48.76878218736331,-123.0130088623533],[48.68983381120115,-123.2728261475763],[48.52990615107099,-123.2160272607381],[48.44872833028571,-123.1696064168901],[48.42191155060676,-123.1216797095009],[48.28051626564827,-123.2539036923344],[48.22099567353587,-123.5510495689234],[48.2924056496832,-124.0063693462648],[48.49082904623533,-124.7239393413548],[48.20109203438585,-130.0415985086905],[42,-126.8375039251589],[42,-115.8662169996956][48.99998555778296,-121.2451356204617]]],
+			"variables" : [
+				{ "enc_action_required_right_number" : "1-866-767-6114" },
+				{ "enc_action_required_entangled_number" : "1-877-SOS-WHALE (1-877-767-9425) or hail the U.S. Coast Guard on VHF Ch. 16" },
+				{ "enc_action_required_entangled_warning": "US federal regulations prohibit approaching orcas within 300 yards (900 feet) either side or 400 yards (1200 feet) behind. Maintain 7kts or less when within 1/2 mile of orcas.  For more info see https://bewhalewise.org" },
+				{ "enc_action_required_dead_injured_stranded_number" : "1-866-767-6114" },
+				{ "enc_species_list": [ "unknown", "orca", "humpback", "gray", "blue", "minke", "fin", "other" ] },
 				{ "enc_other_species_list": [ "Gray Whale", "Short Finned Pilot Whale", "Sperm Whale", "Sei Whale", "Right Whale",
 					  "Pygmy Sperm Whale", "Dwarf Sperm Whale", "Cuvier's Beaked Whale", "Baird's Beaked Whale",
 					  "Hubb's Beaked Whale", "Blainsville's Beaked Whale", "Steineger's Beaked Whale",
