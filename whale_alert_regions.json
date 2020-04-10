@@ -42,7 +42,7 @@
 			"variables" : [
 				{ "enc_action_required_right_number" : "1-866-767-6114" },
 				{ "enc_action_required_entangled_number" : "1-877-SOS-WHALE (1-877-767-9425) or hail the U.S. Coast Guard on VHF Ch. 16" },
-				{ "enc_action_required_entangled_warning": "US federal regulations prohibit approaching orcas within 300 yards (900 feet) either side or 400 yards (1200 feet) behind. Maintain 7kts or less when within 1/2 mile of orcas.  For more info see https://bewhalewise.org" },
+				{ "enc_action_required_entangled_warning": "US federal regulations prohibit approaching orcas within 300 yards (900 feet) either side or 400 yards (1200 feet) behind. Maintain 7kts or less when within 1/2 mile of orcas.  For more information see https://bewhalewise.org" },
 				{ "enc_action_required_dead_injured_stranded_number" : "1-866-767-6114" },
 				{ "enc_species_list": [ "unknown", "orca", "humpback", "gray", "blue", "minke", "fin", "other" ] },
 				{ "enc_other_species_list": [ "Gray Whale", "Short Finned Pilot Whale", "Sperm Whale", "Sei Whale", "Right Whale",
