@@ -75,7 +75,8 @@
 		{
 			"name" : "usa-southeast",
       "feeds" : [
-				{ "name" : "sma", "url" : "https://github.com/EarthNC/regionsJSON/raw/master/smaJson_north_america_east.json" }
+				{ "name" : "sma", "url" : "https://github.com/EarthNC/regionsJSON/raw/master/smaJson_north_america_east.json" },
+	      { "name" : "mpa", "url" : "https://github.com/EarthNC/regionsJSON/raw/master/mpa_usa_gom.json" }
 			],
 			"polygon" : [[[33.89009659256899,-66.67675721438023],[33.84657427833283,-85.84805720410155],[33.45041467924182,-100.5807372715207],[25.18781097503029,-99.72159889989665],[18.30293462621363,-91.35248555387388],[23.32384993509926,-80.40381552541049],[22.45186255302146,-68.85844675689499],[33.89009659256899,-66.67675721438023]]],
 			"variables" : [
