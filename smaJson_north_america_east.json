@@ -332,4 +332,11 @@
          "coordinates": [
             [[35.633,-75.46],[35.633,-74.8],[34.95,-74.8],[34.95,-75.633],[35.216,-75.633],[35.216,-75.528],[35.633,-75.46]]
          ]
+       }},{"id":"1412", "type":"SMA","name":"24nm E Virginia Beach VA DMA","fillColor":"22AAAAAA", "lineColor":"FFAAAAAA",
+  "startDate":"2021-01-13","endDate":"2021-01-29","information":"Avoid these areas or reduce speeds to 10 knots or less<br><br>Voluntary Dynamic Management Areas (DMAs) may also be established by NOAA Fisheries Service. Mariners are encouraged to avoid these areas or reduce speeds to 10 knots or less while transiting through these areas. NOAA Fisheries Service will announce DMAs to mariners through its customary maritime communication media.","fillColor":"22AAAA00", "lineColor":"FFAAAA00",
+  "link":"","banner":"","geometry": {
+         "type": "Polygon",
+         "coordinates": [
+            [[37.15,-75.87],[37.15,-75.04],[36.49,-75.05],[36.49,-75.86],[37.15,-75.87]]
+         ]
        }}]
