@@ -325,8 +325,8 @@
          "coordinates": [
             [[48.175,-61],[48,-61],[47.9683,-61.0583],[47.0333,-60.395],[47.62,-59.3083],[48.175,-61]]
          ]
-       }},{"id":"1411", "type":"DMA","name":"Outer Banks, NC",
-  "startDate":"2021-01-11","endDate":"2021-01-21",
+       }},{"id":"1411", "type":"dma","name":"Outer Banks, NC DMA",
+  "startDate":"2021-01-11","endDate":"2021-01-21","information":"Avoid these areas or reduce speeds to 10 knots or less<br><br>Voluntary Dynamic Management Areas (DMAs) may also be established by NOAA Fisheries Service. Mariners are encouraged to avoid these areas or reduce speeds to 10 knots or less while transiting through these areas. NOAA Fisheries Service will announce DMAs to mariners through its customary maritime communication media.","fillColor":"22AAAA00", "lineColor":"FFAAAA00",
   "link":"","banner":"","geometry": {
          "type": "Polygon",
          "coordinates": [
