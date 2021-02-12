@@ -325,34 +325,6 @@
          "coordinates": [
             [[48.175,-61],[48,-61],[47.9683,-61.0583],[47.0333,-60.395],[47.62,-59.3083],[48.175,-61]]
          ]
-       }},{"id":"1411", "type":"SMA","name":"Outer Banks, NC DMA","fillColor":"44AAAAAA", "lineColor":"FFAAAAAA",
-  "startDate":"2021-01-11","endDate":"2021-01-21","information":"Avoid these areas or reduce speeds to 10 knots or less<br><br>Voluntary Dynamic Management Areas (DMAs) may also be established by NOAA Fisheries Service. Mariners are encouraged to avoid these areas or reduce speeds to 10 knots or less while transiting through these areas. NOAA Fisheries Service will announce DMAs to mariners through its customary maritime communication media.","fillColor":"22AAAA00", "lineColor":"FFAAAA00",
-  "link":"","banner":"","geometry": {
-         "type": "Polygon",
-         "coordinates": [
-            [[35.633,-75.46],[35.633,-74.8],[34.95,-74.8],[34.95,-75.633],[35.216,-75.633],[35.216,-75.528],[35.633,-75.46]]
-         ]
-       }},{"id":"1412", "type":"SMA","name":"24nm E Virginia Beach VA DMA","fillColor":"44AAAAAA", "lineColor":"FFAAAAAA",
-  "startDate":"2021-01-13","endDate":"2021-01-29","information":"Avoid these areas or reduce speeds to 10 knots or less<br><br>Voluntary Dynamic Management Areas (DMAs) may also be established by NOAA Fisheries Service. Mariners are encouraged to avoid these areas or reduce speeds to 10 knots or less while transiting through these areas. NOAA Fisheries Service will announce DMAs to mariners through its customary maritime communication media.","fillColor":"22AAAA00", "lineColor":"FFAAAA00",
-  "link":"","banner":"","geometry": {
-         "type": "Polygon",
-         "coordinates": [
-            [[37.15,-75.87],[37.15,-75.04],[36.49,-75.05],[36.49,-75.86],[37.15,-75.87]]
-         ]
-       }},{"id":"1413", "type":"SMA","name":"23nm E Atlantic City NJ DMA","fillColor":"44AAAAAA", "lineColor":"FFAAAAAA",
-  "startDate":"2021-01-14","endDate":"2021-01-30","information":"Avoid these areas or reduce speeds to 10 knots or less<br><br>Voluntary Dynamic Management Areas (DMAs) may also be established by NOAA Fisheries Service. Mariners are encouraged to avoid these areas or reduce speeds to 10 knots or less while transiting through these areas. NOAA Fisheries Service will announce DMAs to mariners through its customary maritime communication media.","fillColor":"22AAAA00", "lineColor":"FFAAAA00",
-  "link":"","banner":"","geometry": {
-         "type": "Polygon",
-         "coordinates": [
-            [[39.78,-74.37],[39.78,-73.51],[39.12,-73.52],[39.12,-74.36],[39.78,-74.37]]
-         ]
-       }},{"id":"1414", "type":"SMA","name":"15nm SE Nantucket MA DMA","fillColor":"44AAAAAA", "lineColor":"FFAAAAAA",
-  "startDate":"2021-01-15","endDate":"2021-01-31","information":"Avoid these areas or reduce speeds to 10 knots or less<br><br>Voluntary Dynamic Management Areas (DMAs) may also be established by NOAA Fisheries Service. Mariners are encouraged to avoid these areas or reduce speeds to 10 knots or less while transiting through these areas. NOAA Fisheries Service will announce DMAs to mariners through its customary maritime communication media.","fillColor":"22AAAA00", "lineColor":"FFAAAA00",
-  "link":"","banner":"","geometry": {
-         "type": "Polygon",
-         "coordinates": [
-            [[41.41,-70.35],[41.41,-69.46],[40.74,-69.46],[40.74,-70.34],[41.41,-70.35]]
-         ]
        }},{"id":"1415", "type":"SMA","name":"34nm SE New York NY DMA","fillColor":"44AAAAAA", "lineColor":"FFAAAAAA",
   "startDate":"2021-01-14","endDate":"2021-01-31","information":"Avoid these areas or reduce speeds to 10 knots or less<br><br>Voluntary Dynamic Management Areas (DMAs) may also be established by NOAA Fisheries Service. Mariners are encouraged to avoid these areas or reduce speeds to 10 knots or less while transiting through these areas. NOAA Fisheries Service will announce DMAs to mariners through its customary maritime communication media.","fillColor":"22AAAA00", "lineColor":"FFAAAA00",
   "link":"","banner":"","geometry": {
