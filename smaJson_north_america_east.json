@@ -96,7 +96,7 @@
            ]
        }},{"id":"13", "type":"MSR","name":"Whales South ",
   "desc":"Mandatory Ship Reporting Area","fillColor":"000000FF", "lineColor":"FF0000FF",
-  "startDate":"2012-01-01","endDate":"2099-12-31",
+  "startDate":"2021-11-15","endDate":"2022-04-16",
   "link":"local://msr_guide.pdf","banner":"msr_banner.png","geometry": {
          "type": "Polygon",
          "coordinates": [
