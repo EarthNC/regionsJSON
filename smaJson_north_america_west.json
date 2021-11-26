@@ -120,7 +120,7 @@
            ]
        }},{"id":"1350", "type":"SMA","name":"Voluntary Vessel Speed Reduction Zone",
   "information":"NOAA strongly recommends that vessels 300 gross registered tons or larger transiting the Santa Barbara Channel traffic separation scheme in the area between Point Conception and San Pedro Point, Santa Cruz Island do so at speeds not in excess of 10 knots. This area contains populations of endangered blue, humpback and fin whales that are federally protected under the Endangered Species Act (16 U.S.C. 1538 et seq.), the Marine Mammal Protection Act (16 U.S.C. 1361 et seq.), and the National Marine Sanctuaries Act (16 U.S.C. 1431 et seq.).<br><br>Additional information can be found at: <a href=\"http://channelislands.noaa.gov/management/resource/ship_strikes.html\">http://channelislands.noaa.gov/management/resource/ship_strikes.html</a><br><br>Please report any collisions with whales or any observed injured or dead whales to NOAA at 877-SOS-WHALe (877-767-9425) or to the U.S. Coast Guard on VHF Channel 16.<br><br>NOAA is asking for public help in tracking whales.  If you see whales, please record the date and location, the number of whales, the species (if known) and a description of the animals. Please email whales@noaa.gov or report through WhaleAlert.","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2020-06-01","endDate":"2020-12-15",
+  "startDate":"2021-06-01","endDate":"2021-12-15",
   "link":"","banner":"","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -128,7 +128,7 @@
          ]
        }},{"id":"1353", "type":"SMA","name":"Whale Advisory Zone",
   "information":"Vessels transiting the area between Point Arguello and Dana Point, including the Traffic Separation Schemes in the Santa Barbara Channel and San Pedro Channel, from May through November, should exercise caution and reduce speed.  These areas contain populations of endangered blue, humpback and fin whales that are federally protected under the Endangered Species Act (16 U.S.C. 1538 et seq.), the Marine Mammal Protection Act (16 U.S.C. 1361 et seq.), and the National Marine Sanctuaries Act (16 U.S.C. 1431 et seq.).<br><br>Additional information can be found at: <a href=\"http://channelislands.noaa.gov/management/resource/ship_strikes.html\">http://channelislands.noaa.gov/management/resource/ship_strikes.html</a><br><br>Please report any collisions with whales or any observed injured or dead whales to NOAA at 877-SOS-WHALe (877-767-9425) or to the U.S. Coast Guard on VHF Channel 16.<br><br>NOAA is asking for publics help in tracking whales.  If you see whales, please record the date and location, the number of whales, the species (if known) and a description of the animals.   Please email whales@noaa.gov or report through WhaleAlert.","fillColor":"22AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2020-06-01","endDate":"2020-12-15",
+  "startDate":"2021-06-01","endDate":"2021-12-15",
   "link":"","banner":"","geometry": {
          "type": "Polygon",
          "coordinates": [
