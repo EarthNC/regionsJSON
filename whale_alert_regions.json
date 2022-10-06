@@ -18,7 +18,47 @@
       "feeds" : [
 				{ "name" : "sma", "url" : "https://github.com/EarthNC/regionsJSON/raw/master/smaJson_north_america_west.json" }
 			],
-			"polygon" : [[[42,-126.8375039251589],[33.20075687705109,-126.8375039251589],[32.49806986597333,-117.0654211146999],[32.63411499667305,-115.8662169996956],[42,-115.8662169996956],[42,-126.8375039251589]]],
+			"polygon" : [[[42,-126.8375039251589],[40,-126.8375039251589],[40,-115.8662169996956],[42,-115.8662169996956],[42,-126.8375039251589]]],
+			"variables" : [
+				{ "enc_action_required_right_number" : "1-866-767-6114" },
+				{ "enc_action_required_entangled_number" : "1-877-SOS-WHALE (1-877-767-9425) or hail the U.S. Coast Guard on VHF Ch. 16" },
+				{ "enc_action_required_entangled_warning": "US federal regulations prohibit approaching right whales within 500 yards (1500 feet)." },
+				{ "enc_action_required_dead_injured_stranded_number" : "1-866-767-6114" },
+				{ "enc_species_list": [ "unknown", "humpback", "gray", "grey", "blue", "orca", "minke", "fin", "other" ] },
+				{ "enc_other_species_list": [ "Gray Whale", "Short Finned Pilot Whale", "Sperm Whale", "Sei Whale", "Right Whale",
+					  "Pygmy Sperm Whale", "Dwarf Sperm Whale", "Cuvier's Beaked Whale", "Baird's Beaked Whale",
+					  "Hubb's Beaked Whale", "Blainsville's Beaked Whale", "Steineger's Beaked Whale",
+					  "Bowhead Whale", "Harbor Porpoise", "Dall's Porpoise", "Pacific White-sided Dolphin",
+					  "Northern Right Whale Dolphin", "Long-beaked Common Dolphin", "Striped Dolphin",
+					  "Risso's Dolphin", "Other (Specify in comments)"]
+				}
+			]
+		},{
+			"name" : "usa-west-central",
+      "feeds" : [
+				{ "name" : "sma", "url" : "https://github.com/EarthNC/regionsJSON/raw/master/smaJson_north_america_west.json" }
+			],
+			"polygon" : [[[40,-126.8375039251589],[34.95,-126.8375039251589],[34.45,-115.8662169996956],[40,-115.8662169996956],[40,-126.8375039251589]]],
+			"variables" : [
+				{ "enc_action_required_right_number" : "The Marine Mammal Center's 24-hour hotline: 1-415-289-7325 (SEAL)" },
+				{ "enc_action_required_entangled_number" : "The Marine Mammal Center's 24-hour hotline: 1-415-289-7325 (SEAL) or hail the U.S. Coast Guard on VHF Ch. 16" },
+				{ "enc_action_required_entangled_warning": "Do not approach an entangled whale, call for help!" },
+				{ "enc_action_required_dead_injured_stranded_number" : "The Marine Mammal Center's 24-hour hotline: 1-415-289-7325 (SEAL)" },
+				{ "enc_species_list": [ "unknown", "humpback", "gray", "grey", "blue", "orca", "minke", "fin", "other" ] },
+				{ "enc_other_species_list": [ "Gray Whale", "Short Finned Pilot Whale", "Sperm Whale", "Sei Whale", "Right Whale",
+					  "Pygmy Sperm Whale", "Dwarf Sperm Whale", "Cuvier's Beaked Whale", "Baird's Beaked Whale",
+					  "Hubb's Beaked Whale", "Blainsville's Beaked Whale", "Steineger's Beaked Whale",
+					  "Bowhead Whale", "Harbor Porpoise", "Dall's Porpoise", "Pacific White-sided Dolphin",
+					  "Northern Right Whale Dolphin", "Long-beaked Common Dolphin", "Striped Dolphin",
+					  "Risso's Dolphin", "Other (Specify in comments)"]
+				}
+			]
+		},{
+			"name" : "usa-west-south",
+      "feeds" : [
+				{ "name" : "sma", "url" : "https://github.com/EarthNC/regionsJSON/raw/master/smaJson_north_america_west.json" }
+			],
+			"polygon" : [[[34.95,-126.8375039251589],[33.20075687705109,-126.8375039251589],[32.49806986597333,-117.0654211146999],[32.63411499667305,-115.8662169996956],[34.45,-115.8662169996956],[34.95,-126.8375039251589]]],
 			"variables" : [
 				{ "enc_action_required_right_number" : "1-866-767-6114" },
 				{ "enc_action_required_entangled_number" : "1-877-SOS-WHALE (1-877-767-9425) or hail the U.S. Coast Guard on VHF Ch. 16" },
