@@ -305,6 +305,25 @@
 					  "Longman's beaked whale", "Unidentifed Beaked whale", "Common dolphin", "Pygmy killer whale","Short finned pilot whale","Risso's dolphin","Melon headed whale","False killer whale","Humpback dolphin","Spotted dolphin","Striped dolphin","Spinner dolphin","Rough toothed dolphin","Common bottlenose dolphin (Lrg)","Indian Ocean Bottlenose Dolphin (Smll)","Unidentifed bottlenose dolphin","Unidentified Dolphin species", "Other"]
 				}
 			]
+		},
+		{
+			"name" : "belize",
+			"whalewatchingguidelines": "default",
+      "feeds" : [
+				{ "name" : "sma", "url" : "https://github.com/EarthNC/regionsJSON/raw/master/belize.json" }
+			],
+			"map-sources" : ["earthnc-bathymetry"],
+			"polygon" : [[[18.466,-88.28],[18.22,-87.47],[17.798,-86.166],[16.082,-87.83],[15.897,-89.18],[18.466,-88.28]]],
+			"variables" : [
+				{ "enc_action_required_right_number" : "(501) 615-3838 or jgalves@cmaquarium.org" },
+				{ "enc_action_required_entangled_number" : "Clearwater Marine Aquarium Research Institute-Belize at (501) 615-3838" },
+				{ "enc_action_required_dead_injured_stranded_number" : "Clearwater Marine Aquarium Research Institute-Belize at (501) 615-3838" },
+				{ "enc_species_list": [ "unknown", "right", "humpback", "fin", "minke", "sei", "blue", "sperm", "orca", "beluga", "bowhead","bottlenose_whale", "other" ] },
+				{ "enc_other_species_list": [ "Manatee", "Sea Turtle", "Crocodile", "Sea Birds", "Short Finned Pilot Whale", "Pygmy Sperm Whale", "Dwarf Sperm Whale",
+					  "Sowerby's Beaked Whale", "Cuvier's Beaked Whale", "Blainsville's Beaked Whale", "Bottlenose Dolphin", "Atlantic White-sided Dolphin",
+					  "Common Dolphin", "White-Beaked Dolphin", "Risso's Dolphin", "Harbor Porpoise", "Other"]
+				}
+			]
 		}
 	]
 }
