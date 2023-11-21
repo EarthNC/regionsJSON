@@ -313,7 +313,7 @@
 				{ "name" : "sma", "url" : "https://github.com/EarthNC/regionsJSON/raw/master/belize.json" }
 			],
 			"map-sources" : ["earthnc-bathymetry"],
-			"polygon" : [[[18.466,-88.28],[18.22,-87.47],[17.798,-86.166],[16.082,-87.83],[15.897,-89.18],[18.466,-88.28]]],
+			"polygon" : [[[18.466,-90.28],[18.22,-87.47],[17.798,-86.166],[16.082,-87.83],[15.897,-90.18],[18.466,-90.28]]],
 			"variables" : [
 				{ "enc_action_required_right_number" : "(501) 615-3838 or jgalves@cmaquarium.org" },
 				{ "enc_action_required_entangled_number" : "Clearwater Marine Aquarium Research Institute-Belize at (501) 615-3838" },
