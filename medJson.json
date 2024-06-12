@@ -160,7 +160,7 @@
            ]
        }},{"id":"23", "type":"MPA","name":"Akamas and Chrysochou Bay EBSA", 
   "fillColor":"55FF0000", "lineColor":"FFFF0000",
-  "startDate":"2000-01-01","endDate":"2021-01-01",
+  "startDate":"2000-01-01","endDate":"2121-01-01",
   "geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -168,7 +168,7 @@
            ]
        }},{"id":"24", "type":"MPA","name":"Hellenic Trench EBSA", 
   "fillColor":"55FF0000", "lineColor":"FFFF0000",
-  "startDate":"2000-01-01","endDate":"2021-01-01",
+  "startDate":"2000-01-01","endDate":"2121-01-01",
   "geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -176,7 +176,7 @@
            ]
        }},{"id":"29", "type":"MPA","name":"Central Aegean Sea EBSA", 
   "fillColor":"55FF0000", "lineColor":"FFFF0000",
-  "startDate":"2000-01-01","endDate":"2021-01-01",
+  "startDate":"2000-01-01","endDate":"2121-01-01",
   "geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -184,7 +184,7 @@
            ]
        }},{"id":"31", "type":"MPA","name":"North Western Mediterranean Benthic Ecosystem EBSA", 
   "fillColor":"55FF0000", "lineColor":"FFFF0000",
-  "startDate":"2000-01-01","endDate":"2021-01-01",
+  "startDate":"2000-01-01","endDate":"2121-01-01",
   "geometry": {
          "type": "Polygon",
          "coordinates": [
