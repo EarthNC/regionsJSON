@@ -1,6 +1,6 @@
 [{"id":"1", "type":"MPA","name":"Gibraltar", 
   "fillColor":"55FF0000", "lineColor":"FFFF0000",
-  "startDate":"2000-01-01","endDate":"2020-01-01",
+  "startDate":"2000-01-01","endDate":"2120-01-01",
   "geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -8,7 +8,7 @@
            ]
        }},{"id":"2", "type":"MPA","name":"Estrecho Oriental (Gibralter) MPA", 
   "fillColor":"55FF0000", "lineColor":"FFFF0000",
-  "startDate":"2000-01-01","endDate":"2020-01-01",
+  "startDate":"2000-01-01","endDate":"2120-01-01",
   "geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -16,7 +16,7 @@
            ]
        }},{"id":"3", "type":"MPA","name":"Isla de Alboran MPA", 
   "fillColor":"55FF0000", "lineColor":"FFFF0000",
-  "startDate":"2000-01-01","endDate":"2020-01-01",
+  "startDate":"2000-01-01","endDate":"2120-01-01",
   "geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -24,7 +24,7 @@
            ]
        }},{"id":"4", "type":"MPA","name":"Isla de Alboran MPA", 
   "fillColor":"55FF0000", "lineColor":"FFFF0000",
-  "startDate":"2000-01-01","endDate":"2020-01-01",
+  "startDate":"2000-01-01","endDate":"2120-01-01",
   "geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -32,7 +32,7 @@
            ]
        }},{"id":"5", "type":"MPA","name":"Medio Marino Murcia MPA", 
   "fillColor":"55FF0000", "lineColor":"FFFF0000",
-  "startDate":"2000-01-01","endDate":"2020-01-01",
+  "startDate":"2000-01-01","endDate":"2120-01-01",
   "geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -40,7 +40,7 @@
            ]
        }},{"id":"6", "type":"MPA","name":"Sur de Almeria MPA", 
   "fillColor":"55FF0000", "lineColor":"FFFF0000",
-  "startDate":"2000-01-01","endDate":"2020-01-01",
+  "startDate":"2000-01-01","endDate":"2120-01-01",
   "geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -48,7 +48,7 @@
            ]
        }},{"id":"7", "type":"MPA","name":"Malta 25nm Fisheries Management Zone", 
   "fillColor":"55FF0000", "lineColor":"FFFF0000",
-  "startDate":"2000-01-01","endDate":"2020-01-01",
+  "startDate":"2000-01-01","endDate":"2120-01-01",
   "geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -56,7 +56,7 @@
            ]
        }},{"id":"8", "type":"MPA","name":"Arta MPA", 
   "fillColor":"55FF0000", "lineColor":"FFFF0000",
-  "startDate":"2000-01-01","endDate":"2020-01-01",
+  "startDate":"2000-01-01","endDate":"2120-01-01",
   "geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -64,7 +64,7 @@
            ]
        }},{"id":"9", "type":"MPA","name":"Haramous MPA", 
   "fillColor":"55FF0000", "lineColor":"FFFF0000",
-  "startDate":"2000-01-01","endDate":"2020-01-01",
+  "startDate":"2000-01-01","endDate":"2120-01-01",
   "geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -72,7 +72,7 @@
            ]
        }},{"id":"10", "type":"MPA","name":"Moucha Maskali MPA", 
   "fillColor":"55FF0000", "lineColor":"FFFF0000",
-  "startDate":"2000-01-01","endDate":"2020-01-01",
+  "startDate":"2000-01-01","endDate":"2120-01-01",
   "geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -80,7 +80,7 @@
            ]
        }},{"id":"11", "type":"MPA","name":"Sept Freres MPA", 
   "fillColor":"55FF0000", "lineColor":"FFFF0000",
-  "startDate":"2000-01-01","endDate":"2020-01-01",
+  "startDate":"2000-01-01","endDate":"2120-01-01",
   "geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -88,7 +88,7 @@
            ]
        }},{"id":"12", "type":"MPA","name":"Northern Adriatic EBSA", 
   "fillColor":"55FF0000", "lineColor":"FFFF0000",
-  "startDate":"2000-01-01","endDate":"2020-01-01",
+  "startDate":"2000-01-01","endDate":"2120-01-01",
   "geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -96,7 +96,7 @@
            ]
        }},{"id":"13", "type":"MPA","name":"Jabuka / Pomo Pit EBSA", 
   "fillColor":"55FF0000", "lineColor":"FFFF0000",
-  "startDate":"2000-01-01","endDate":"2020-01-01",
+  "startDate":"2000-01-01","endDate":"2120-01-01",
   "geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -104,7 +104,7 @@
            ]
        }},{"id":"14", "type":"MPA","name":"South Adriatic Ionian Strait EBSA", 
   "fillColor":"55FF0000", "lineColor":"FFFF0000",
-  "startDate":"2000-01-01","endDate":"2020-01-01",
+  "startDate":"2000-01-01","endDate":"2120-01-01",
   "geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -112,7 +112,7 @@
            ]
        }},{"id":"17", "type":"MPA","name":"Sicilian Channel EBSA", 
   "fillColor":"55FF0000", "lineColor":"FFFF0000",
-  "startDate":"2000-01-01","endDate":"2020-01-01",
+  "startDate":"2000-01-01","endDate":"2120-01-01",
   "geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -120,7 +120,7 @@
            ]
        }},{"id":"18", "type":"MPA","name":"Le Golfe de Gabes EBSA", 
   "fillColor":"55FF0000", "lineColor":"FFFF0000",
-  "startDate":"2000-01-01","endDate":"2020-01-01",
+  "startDate":"2000-01-01","endDate":"2120-01-01",
   "geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -128,7 +128,7 @@
            ]
        }},{"id":"19", "type":"MPA","name":"Gulf of Sirte EBSA", 
   "fillColor":"55FF0000", "lineColor":"FFFF0000",
-  "startDate":"2000-01-01","endDate":"2020-01-01",
+  "startDate":"2000-01-01","endDate":"2120-01-01",
   "geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -136,7 +136,7 @@
            ]
        }},{"id":"20", "type":"MPA","name":"Nile Delta Fan EBSA", 
   "fillColor":"55FF0000", "lineColor":"FFFF0000",
-  "startDate":"2000-01-01","endDate":"2020-01-01",
+  "startDate":"2000-01-01","endDate":"2120-01-01",
   "geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -144,7 +144,7 @@
            ]
        }},{"id":"21", "type":"MPA","name":"East Levantine Canyons (ELCA) EBSA", 
   "fillColor":"55FF0000", "lineColor":"FFFF0000",
-  "startDate":"2000-01-01","endDate":"2020-01-01",
+  "startDate":"2000-01-01","endDate":"2120-01-01",
   "geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -152,7 +152,7 @@
            ]
        }},{"id":"22", "type":"MPA","name":"North East Levantine Sea EBSA", 
   "fillColor":"55FF0000", "lineColor":"FFFF0000",
-  "startDate":"2000-01-01","endDate":"2020-01-01",
+  "startDate":"2000-01-01","endDate":"2120-01-01",
   "geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -160,7 +160,7 @@
            ]
        }},{"id":"23", "type":"MPA","name":"Akamas and Chrysochou Bay EBSA", 
   "fillColor":"55FF0000", "lineColor":"FFFF0000",
-  "startDate":"2000-01-01","endDate":"2020-01-01",
+  "startDate":"2000-01-01","endDate":"2021-01-01",
   "geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -168,7 +168,7 @@
            ]
        }},{"id":"24", "type":"MPA","name":"Hellenic Trench EBSA", 
   "fillColor":"55FF0000", "lineColor":"FFFF0000",
-  "startDate":"2000-01-01","endDate":"2020-01-01",
+  "startDate":"2000-01-01","endDate":"2021-01-01",
   "geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -176,7 +176,7 @@
            ]
        }},{"id":"29", "type":"MPA","name":"Central Aegean Sea EBSA", 
   "fillColor":"55FF0000", "lineColor":"FFFF0000",
-  "startDate":"2000-01-01","endDate":"2020-01-01",
+  "startDate":"2000-01-01","endDate":"2021-01-01",
   "geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -184,14 +184,14 @@
            ]
        }},{"id":"31", "type":"MPA","name":"North Western Mediterranean Benthic Ecosystem EBSA", 
   "fillColor":"55FF0000", "lineColor":"FFFF0000",
-  "startDate":"2000-01-01","endDate":"2020-01-01",
+  "startDate":"2000-01-01","endDate":"2021-01-01",
   "geometry": {
          "type": "Polygon",
          "coordinates": [
            [[42.2647879930789,3.16312147109565],[42.2647879930789,3.16406242354786],[42.2647858137841,3.16406242354797],[42.2647879930789,3.16312147109565]]
            ]
        }},
-{"id":"300100", "type":"MPA","name":"Pelagos Marine Mammal Sanctuary", 
+{"id":"300100", "type":"SMA","name":"Pelagos Marine Mammal Sanctuary", 
   "fillColor":"55FF0000", "lineColor":"FFFF0000",
   "startDate":"2000-01-01","endDate":"2120-01-01",
   "information":"<b>Various Restrictions Apply to Protect Marine Mammals</b><br><b>More Information:<\/b><p><a href=\"https:\/\/map.navigatormap.org\/site-detail?site_id=15133\" target=\"_blank\">French Waters<\/a><br><a href=\"https:\/\/map.navigatormap.org\/site-detail?site_id=16506\" target=\"_blank\">Italian Waters<\/a><\/p><b>MPA Information Provided By <a href=\"https:\/\/mpa.navigatormap.org\">ProtectedSeas Navigator<\/a><\/b>",
