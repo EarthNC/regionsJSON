@@ -271,20 +271,40 @@
 			]
 		},
 		{
-			"name" : "europe-mediterranean",
+			"name" : "z-europe-mediterranean",
       "feeds" : [
 				{ "name" : "mpa", "url" : "https://github.com/EarthNC/regionsJSON/raw/master/medJson.json" }
 			],
 			"map-sources" : ["earthnc-bathymetry"],
-			"polygon" : [[[29,9],[45,9],[45,39],[29,39],[29,9]]],
+			"polygon" : [[[37,-6],[52,10],[45,46],[31,35],[29,19],[35,-6],[37,-6]]],
 			"variables" : [
-				{ "enc_action_required_right_number" : "(506) 529-5838 or XMARwhalesightings@dfo-mpo.gc.ca" },
+				{ "enc_action_required_right_number" : "Please Call (112) and Report" },
 				{ "enc_action_required_entangled_number" : "Whale Release and Strandings (Mediterranean) at 1-888-895-3003" },
 				{ "enc_action_required_dead_injured_stranded_number" : "Whale Release and Strandings (Mediterranean) at 1-888-895-3003" },
-				{ "enc_species_list": [ "unknown", "right", "humpback", "fin", "minke", "sei", "blue", "sperm", "orca", "beluga", "bowhead","bottlenose_whale","other" ] },
-				{ "enc_other_species_list": [ "Short Finned Pilot Whale", "Pygmy Sperm Whale", "Dwarf Sperm Whale",
-					  "Sowerby's Beaked Whale", "Cuvier's Beaked Whale", "Blainsville's Beaked Whale", "Bottlenose Dolphin", "Atlantic White-sided Dolphin",
-					  "Common Dolphin", "White-Beaked Dolphin", "Risso's Dolphin", "Harbor Porpoise", "Other"]
+				{ "enc_species_list": [ "unknown", "right", "humpback", "fin", "minke", "gray", "sei", "blue", "sperm", "orca", "bowhead","bottlenose_whale","other" ] },
+				{ "enc_other_species_list": [ "Bryde's Whale", "Short Finned Pilot Whale","Long Finned Pilot Whale", "Pygmy Sperm Whale", "Dwarf Sperm Whale",
+					  "Blainsville's Beaked Whale","Cuvier's Beaked Whale", "Gervais' Beaked Whale","Sowerby's Beaked Whale","True's Beaked Whale" ,"Harbour Porpoise","Black Sea Harbour Porpoise", 
+					  "Common Bottlenose Dolphin", "Black Sea Bottlenose Dolphin", "Atlantic White-sided Dolphin", "Atlantic Spotted Dolphin", "Common Dolphin", "Black Sea Common Dolphin", "Fraser's Dolphin", "White-Beaked Dolphin", 
+					  "Roughtoothed Dolphin", "Risso's Dolphin", "Striped Dolpin", "False Killer Whale", "Other"]
+				}
+			]
+		},
+		{
+			"name" : "z-northeast-atlantic",
+      "feeds" : [
+				{ "name" : "mpa", "url" : "https://github.com/EarthNC/regionsJSON/raw/master/medJson.json" }
+			],
+			"map-sources" : ["earthnc-bathymetry"],
+			"polygon" : [[[35,-6],[35,-65],[80,-65],[80,46],[45,46],[52,10],[37,-6],[35,-6]]],
+			"variables" : [
+				{ "enc_action_required_right_number" : "Please Call (112) as Report " },
+				{ "enc_action_required_entangled_number" : "Please Call (112) and Report" },
+				{ "enc_action_required_dead_injured_stranded_number" : "Please Call (112) and Report" },
+				{ "enc_species_list": [ "unknown", "right", "humpback", "fin", "minke", "gray", "sei", "blue", "sperm", "orca", "beluga", "bowhead","bottlenose_whale","other" ] },
+				{ "enc_other_species_list": [ "Bryde's Whale", "Short Finned Pilot Whale","Long Finned Pilot Whale", "Pygmy Sperm Whale", "Dwarf Sperm Whale",
+					  "Blainsville's Beaked Whale","Cuvier's Beaked Whale", "Gervais' Beaked Whale","Sowerby's Beaked Whale","True's Beaked Whale" ,"Harbour Porpoise", 
+					  "Common Bottlenose Dolphin", "Atlantic White-sided Dolphin", "Atlantic Spotted Dolphin", "Common Dolphin", "Fraser's Dolphin", "White-Beaked Dolphin", 
+					  "Roughtoothed Dolphin", "Risso's Dolphin", "Striped Dolpin", "False Killer Whale", "Narwal", "Other"]
 				}
 			]
 		},{
