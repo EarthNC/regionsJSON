@@ -10,11 +10,11 @@
             "feeds": [
                 {
                     "name": "sma",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_flipped.json"
                 },
                 {
                     "name": "mpa",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/mpaJson.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/mpaJson_flipped.json"
                 }
             ],
             "variables": [
@@ -53,7 +53,7 @@
             "feeds": [
                 {
                     "name": "sma",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_north_america_west.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_north_america_west_flipped.json"
                 }
             ],
             "polygon": [
@@ -138,7 +138,7 @@
             "feeds": [
                 {
                     "name": "sma",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_north_america_west.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_north_america_west_flipped.json"
                 }
             ],
             "polygon": [
@@ -223,7 +223,7 @@
             "feeds": [
                 {
                     "name": "sma",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_north_america_west.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_north_america_west_flipped.json"
                 }
             ],
             "polygon": [
@@ -312,7 +312,7 @@
             "feeds": [
                 {
                     "name": "sma",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_north_america_west.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_north_america_west_flipped.json"
                 }
             ],
             "polygon": [
@@ -398,11 +398,11 @@
             "feeds": [
                 {
                     "name": "sma",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_north_america_west.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_north_america_west_flipped.json"
                 },
                 {
                     "name": "mpa",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/mpa_usa_pnw.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/mpa_usa_pnw_flipped.json"
                 }
             ],
             "polygon": [
@@ -532,7 +532,7 @@
             "feeds": [
                 {
                     "name": "sma",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_north_america_east.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_north_america_east_flipped.json"
                 }
             ],
             "polygon": [
@@ -652,7 +652,7 @@
             "feeds": [
                 {
                     "name": "sma",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_north_america_east.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_north_america_east_flipped.json"
                 }
             ],
             "polygon": [
@@ -750,11 +750,11 @@
             "feeds": [
                 {
                     "name": "sma",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_alaska.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_alaska_flipped.json"
                 },
                 {
                     "name": "mpa",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/mpa_usa_ak.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/mpa_usa_ak_flipped.json"
                 }
             ],
             "polygon": [
@@ -879,7 +879,7 @@
             "feeds": [
                 {
                     "name": "sma",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_north_america_west.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_north_america_west_flipped.json"
                 }
             ],
             "map-sources": [
@@ -1005,7 +1005,7 @@
             "feeds": [
                 {
                     "name": "sma",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_north_america_east.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_north_america_east_flipped.json"
                 }
             ],
             "map-sources": [
@@ -1171,7 +1171,7 @@
             "feeds": [
                 {
                     "name": "sma",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_north_america_east.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_north_america_east_flipped.json"
                 }
             ],
             "map-sources": [
@@ -1289,7 +1289,7 @@
             "feeds": [
                 {
                     "name": "sma",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_north_america_east.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_north_america_east_flipped.json"
                 }
             ],
             "map-sources": [
@@ -1423,7 +1423,7 @@
             "feeds": [
                 {
                     "name": "sma",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_north_america_east.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_north_america_east_flipped.json"
                 }
             ],
             "map-sources": [
@@ -1533,10 +1533,11 @@
         },
         {
             "name": "z-europe-mediterranean",
+            "whalewatchingguidelines": "mediterranean",
             "feeds": [
                 {
                     "name": "mpa",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson_flipped.json"
                 }
             ],
             "map-sources": [
@@ -1633,11 +1634,12 @@
             ]
         },
         {
-            "name": "z-northeast-atlantic",
+            "name": "z-northeast-atlantic",            
+            "whalewatchingguidelines": "northest-atlantic",
             "feeds": [
                 {
                     "name": "mpa",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson_flipped.json"
                 }
             ],
             "map-sources": [
@@ -1736,11 +1738,12 @@
                 }
             ]
         },{
-            "name": "norway jan mayen",
+            "name": "norway jan mayen",            
+            "whalewatchingguidelines": "norway",
             "feeds": [
                 {
                     "name": "mpa",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson_flipped.json"
                 }
             ],
             "map-sources": [
@@ -1804,11 +1807,12 @@
                 }
             ]
         },{
-            "name": "spain canaries",
+            "name": "spain canaries",            
+            "whalewatchingguidelines": "spain",
             "feeds": [
                 {
                     "name": "mpa",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson_flipped.json"
                 }
             ],
             "map-sources": [
@@ -1870,11 +1874,12 @@
                 }
             ]
         },{
-            "name": "spain med",
+            "name": "spain med",            
+            "whalewatchingguidelines": "spain",
             "feeds": [
                 {
                     "name": "mpa",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson_flipped.json"
                 }
             ],
             "map-sources": [
@@ -1936,11 +1941,12 @@
                 }
             ]
         },{
-            "name": "spain atlantic",
+            "name": "spain atlantic",            
+            "whalewatchingguidelines": "spain",
             "feeds": [
                 {
                     "name": "mpa",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson_flipped.json"
                 }
             ],
             "map-sources": [
@@ -2002,11 +2008,12 @@
                 }
             ]
         },{
-            "name": "portugal azores",
+            "name": "portugal azores",            
+            "whalewatchingguidelines": "portugal",
             "feeds": [
                 {
                     "name": "mpa",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson_flipped.json"
                 }
             ],
             "map-sources": [
@@ -2068,11 +2075,12 @@
                 }
             ]
         },{
-            "name": "portugal madeira",
+            "name": "portugal madeira",            
+            "whalewatchingguidelines": "portugal",
             "feeds": [
                 {
                     "name": "mpa",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson_flipped.json"
                 }
             ],
             "map-sources": [
@@ -2135,10 +2143,11 @@
             ]
         },{
             "name": "portugal atlantic",
+            "whalewatchingguidelines": "portugal",
             "feeds": [
                 {
                     "name": "mpa",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson_flipped.json"
                 }
             ],
             "map-sources": [
@@ -2201,10 +2210,11 @@
             ]
         },{
             "name": "france atlantic",
+            "whalewatchingguidelines": "france",
             "feeds": [
                 {
                     "name": "mpa",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson_flipped.json"
                 }
             ],
             "map-sources": [
@@ -2267,10 +2277,11 @@
             ]
         },{
             "name": "france med",
+            "whalewatchingguidelines": "france",
             "feeds": [
                 {
                     "name": "mpa",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson_flipped.json"
                 }
             ],
             "map-sources": [
@@ -2333,10 +2344,11 @@
             ]
         },{
             "name": "scotland",
+            "whalewatchingguidelines": "scotland",
             "feeds": [
                 {
                     "name": "mpa",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson_flipped.json"
                 }
             ],
             "map-sources": [
@@ -2399,10 +2411,11 @@
             ]
         },{
             "name": "ireland",
+            "whalewatchingguidelines": "ireland",
             "feeds": [
                 {
                     "name": "mpa",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson_flipped.json"
                 }
             ],
             "map-sources": [
@@ -2465,10 +2478,11 @@
             ]
         },{
             "name": "iceland",
+            "whalewatchingguidelines": "iceland",
             "feeds": [
                 {
                     "name": "mpa",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson_flipped.json"
                 }
             ],
             "map-sources": [
@@ -2531,10 +2545,11 @@
             ]
         },{
             "name": "norway",
+            "whalewatchingguidelines": "norway",
             "feeds": [
                 {
                     "name": "mpa",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson_flipped.json"
                 }
             ],
             "map-sources": [
@@ -2598,10 +2613,11 @@
         },
         {
             "name": "greenland",
+            "whalewatchingguidelines": "greenland",
             "feeds": [
                 {
                     "name": "mpa",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson_flipped.json"
                 }
             ],
             "map-sources": [
@@ -2671,7 +2687,7 @@
             "feeds": [
                 {
                     "name": "mpa",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/indianOcean.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/indianOcean_flipped.json"
                 }
             ],
             "map-sources": [
@@ -2759,7 +2775,7 @@
             "feeds": [
                 {
                     "name": "sma",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/belize.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/belize_flipped.json"
                 }
             ],
             "map-sources": [
