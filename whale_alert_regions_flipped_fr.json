@@ -10,11 +10,11 @@
             "feeds": [
                 {
                     "name": "sma",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_flipped.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_fr.json"
                 },
                 {
                     "name": "mpa",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/mpaJson_flipped.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/mpaJson.json"
                 }
             ],
             "variables": [
@@ -47,8 +47,7 @@
                     ]
                 }
             ]
-        },
-        {
+        },{
             "name": "usa-west",
             "whalewatchingguidelines": "EN_Guidelines_Default",
             "feeds": [
@@ -86,10 +85,10 @@
                     "enc_action_required_right_number": "1-866-767-6114"
                 },
                 {
-                    "enc_action_required_entangled_number": "1-877-SOS-WHALE (1-877-767-9425) or hail the U.S. Coast Guard on VHF Ch. 16"
+                    "enc_action_required_entangled_number": "1-877-SOS-WHALE (1-877-767-9425) Ou communiquez avec la Garde c\u00f4ti\u00e8re am\u00e9ricaine sur la voie 16 de la radio VHF"
                 },
                 {
-                    "enc_action_required_entangled_warning": "US federal regulations prohibit approaching right whales within 500 yards (1500 feet)."
+                    "enc_action_required_entangled_warning": "La r\u00e8glementation f\u00e9d\u00e9rale en vigueur aux \u00c9tats-Unis interdit l\u2019approche d\u2019une baleine noire \u00e0 moins d\u2019env. 460 m."
                 },
                 {
                     "enc_action_required_dead_injured_stranded_number": "1-866-767-6114"
@@ -99,7 +98,6 @@
                         "unknown",
                         "humpback",
                         "gray",
-                        "grey",
                         "blue",
                         "orca",
                         "minke",
@@ -109,27 +107,25 @@
                 },
                 {
                     "enc_other_species_list": [
-                        "Gray Whale",
-                        "Short Finned Pilot Whale",
-                        "Sperm Whale",
-                        "Sei Whale",
-                        "Right Whale",
-                        "Pygmy Sperm Whale",
-                        "Dwarf Sperm Whale",
-                        "Cuvier's Beaked Whale",
-                        "Baird's Beaked Whale",
-                        "Hubb's Beaked Whale",
-                        "Blainsville's Beaked Whale",
-                        "Steineger's Beaked Whale",
-                        "Bowhead Whale",
-                        "Harbor Porpoise",
-                        "Dall's Porpoise",
-                        "Pacific White-sided Dolphin",
-                        "Northern Right Whale Dolphin",
-                        "Long-beaked Common Dolphin",
-                        "Striped Dolphin",
-                        "Risso's Dolphin",
-                        "Other (Specify in comments)"
+                        "Globic\u00e9phale du Pacifique",
+                        "Cachalot",
+                        "Rorqual bor\u00e9al",
+                        "Baleine noire",
+                        "Cachalot pygm\u00e9e",
+                        "Cachalot nain",
+                        "Baleine \u00e0 bec de Cuvier",
+                        "Baleine \u00e0 bec de Baird",
+                        "Baleine \u00e0 bec de Hubb",
+                        "Baleine \u00e0 bec de Blainsville",
+                        "Baleine \u00e0 bec de Steineger",
+                        "Baleine bor\u00e9ale",
+                        "Marsouin commun",
+                        "Porpoise de Dall",
+                        "Dauphin \u00e0 flancs blancs du Pacifique",
+                        "Dauphin commun \u00e0 long bec",
+                        "Dauphin d\u00e9pouill\u00e9",
+                        "Dauphin de Risso",
+                        "Autre"
                     ]
                 }
             ]
@@ -169,23 +165,22 @@
             ],
             "variables": [
                 {
-                    "enc_action_required_right_number": "The Marine Mammal Center's 24-hour hotline: 1-415-289-7325 (SEAL)"
+                    "enc_action_required_right_number": "1-866-767-6114"
                 },
                 {
-                    "enc_action_required_entangled_number": "The Marine Mammal Center's 24-hour hotline: 1-415-289-7325 (SEAL) or hail the U.S. Coast Guard on VHF Ch. 16"
+                    "enc_action_required_entangled_number": "1-877-SOS-WHALE (1-877-767-9425) Ou communiquez avec la Garde c\u00f4ti\u00e8re am\u00e9ricaine sur la voie 16 de la radio VHF"
                 },
                 {
-                    "enc_action_required_entangled_warning": "Do not approach an entangled whale, call for help!"
+                    "enc_action_required_entangled_warning": "La r\u00e8glementation f\u00e9d\u00e9rale en vigueur aux \u00c9tats-Unis interdit l\u2019approche d\u2019une baleine noire \u00e0 moins d\u2019env. 460 m."
                 },
                 {
-                    "enc_action_required_dead_injured_stranded_number": "The Marine Mammal Center's 24-hour hotline: 1-415-289-7325 (SEAL)"
+                    "enc_action_required_dead_injured_stranded_number": "1-866-767-6114"
                 },
                 {
                     "enc_species_list": [
                         "unknown",
                         "humpback",
                         "gray",
-                        "grey",
                         "blue",
                         "orca",
                         "minke",
@@ -195,27 +190,25 @@
                 },
                 {
                     "enc_other_species_list": [
-                        "Gray Whale",
-                        "Short Finned Pilot Whale",
-                        "Sperm Whale",
-                        "Sei Whale",
-                        "Right Whale",
-                        "Pygmy Sperm Whale",
-                        "Dwarf Sperm Whale",
-                        "Cuvier's Beaked Whale",
-                        "Baird's Beaked Whale",
-                        "Hubb's Beaked Whale",
-                        "Blainsville's Beaked Whale",
-                        "Steineger's Beaked Whale",
-                        "Bowhead Whale",
-                        "Harbor Porpoise",
-                        "Dall's Porpoise",
-                        "Pacific White-sided Dolphin",
-                        "Northern Right Whale Dolphin",
-                        "Long-beaked Common Dolphin",
-                        "Striped Dolphin",
-                        "Risso's Dolphin",
-                        "Other (Specify in comments)"
+                        "Globic\u00e9phale du Pacifique",
+                        "Cachalot",
+                        "Rorqual bor\u00e9al",
+                        "Baleine noire",
+                        "Cachalot pygm\u00e9e",
+                        "Cachalot nain",
+                        "Baleine \u00e0 bec de Cuvier",
+                        "Baleine \u00e0 bec de Baird",
+                        "Baleine \u00e0 bec de Hubb",
+                        "Baleine \u00e0 bec de Blainsville",
+                        "Baleine \u00e0 bec de Steineger",
+                        "Baleine bor\u00e9ale",
+                        "Marsouin commun",
+                        "Porpoise de Dall",
+                        "Dauphin \u00e0 flancs blancs du Pacifique",
+                        "Dauphin commun \u00e0 long bec",
+                        "Dauphin d\u00e9pouill\u00e9",
+                        "Dauphin de Risso",
+                        "Autre"
                     ]
                 }
             ]
@@ -262,10 +255,10 @@
                     "enc_action_required_right_number": "1-866-767-6114"
                 },
                 {
-                    "enc_action_required_entangled_number": "1-877-SOS-WHALE (1-877-767-9425) or hail the U.S. Coast Guard on VHF Ch. 16"
+                    "enc_action_required_entangled_number": "1-877-SOS-WHALE (1-877-767-9425) Ou communiquez avec la Garde c\u00f4ti\u00e8re am\u00e9ricaine sur la voie 16 de la radio VHF"
                 },
                 {
-                    "enc_action_required_entangled_warning": "US federal regulations prohibit approaching right whales within 500 yards (1500 feet)."
+                    "enc_action_required_entangled_warning": "La r\u00e8glementation f\u00e9d\u00e9rale en vigueur aux \u00c9tats-Unis interdit l\u2019approche d\u2019une baleine noire \u00e0 moins d\u2019env. 460 m."
                 },
                 {
                     "enc_action_required_dead_injured_stranded_number": "1-866-767-6114"
@@ -275,7 +268,6 @@
                         "unknown",
                         "humpback",
                         "gray",
-                        "grey",
                         "blue",
                         "orca",
                         "minke",
@@ -285,27 +277,25 @@
                 },
                 {
                     "enc_other_species_list": [
-                        "Gray Whale",
-                        "Short Finned Pilot Whale",
-                        "Sperm Whale",
-                        "Sei Whale",
-                        "Right Whale",
-                        "Pygmy Sperm Whale",
-                        "Dwarf Sperm Whale",
-                        "Cuvier's Beaked Whale",
-                        "Baird's Beaked Whale",
-                        "Hubb's Beaked Whale",
-                        "Blainsville's Beaked Whale",
-                        "Steineger's Beaked Whale",
-                        "Bowhead Whale",
-                        "Harbor Porpoise",
-                        "Dall's Porpoise",
-                        "Pacific White-sided Dolphin",
-                        "Northern Right Whale Dolphin",
-                        "Long-beaked Common Dolphin",
-                        "Striped Dolphin",
-                        "Risso's Dolphin",
-                        "Other (Specify in comments)"
+                        "Globic\u00e9phale du Pacifique",
+                        "Cachalot",
+                        "Rorqual bor\u00e9al",
+                        "Baleine noire",
+                        "Cachalot pygm\u00e9e",
+                        "Cachalot nain",
+                        "Baleine \u00e0 bec de Cuvier",
+                        "Baleine \u00e0 bec de Baird",
+                        "Baleine \u00e0 bec de Hubb",
+                        "Baleine \u00e0 bec de Blainsville",
+                        "Baleine \u00e0 bec de Steineger",
+                        "Baleine bor\u00e9ale",
+                        "Marsouin commun",
+                        "Porpoise de Dall",
+                        "Dauphin \u00e0 flancs blancs du Pacifique",
+                        "Dauphin commun \u00e0 long bec",
+                        "Dauphin d\u00e9pouill\u00e9",
+                        "Dauphin de Risso",
+                        "Autre"
                     ]
                 }
             ]
@@ -348,10 +338,10 @@
                     "enc_action_required_right_number": "1-866-767-6114"
                 },
                 {
-                    "enc_action_required_entangled_number": "1-877-SOS-WHALE (1-877-767-9425) or hail the U.S. Coast Guard on VHF Ch. 16"
+                    "enc_action_required_entangled_number": "1-877-SOS-WHALE (1-877-767-9425) Ou communiquez avec la Garde c\u00f4ti\u00e8re am\u00e9ricaine sur la voie 16 de la radio VHF"
                 },
                 {
-                    "enc_action_required_entangled_warning": "US federal regulations prohibit approaching right whales within 500 yards (1500 feet)."
+                    "enc_action_required_entangled_warning": "La r\u00e8glementation f\u00e9d\u00e9rale en vigueur aux \u00c9tats-Unis interdit l\u2019approche d\u2019une baleine noire \u00e0 moins d\u2019env. 460 m."
                 },
                 {
                     "enc_action_required_dead_injured_stranded_number": "1-866-767-6114"
@@ -361,7 +351,6 @@
                         "unknown",
                         "humpback",
                         "gray",
-                        "grey",
                         "blue",
                         "orca",
                         "minke",
@@ -371,27 +360,25 @@
                 },
                 {
                     "enc_other_species_list": [
-                        "Gray Whale",
-                        "Short Finned Pilot Whale",
-                        "Sperm Whale",
-                        "Sei Whale",
-                        "Right Whale",
-                        "Pygmy Sperm Whale",
-                        "Dwarf Sperm Whale",
-                        "Cuvier's Beaked Whale",
-                        "Baird's Beaked Whale",
-                        "Hubb's Beaked Whale",
-                        "Blainsville's Beaked Whale",
-                        "Steineger's Beaked Whale",
-                        "Bowhead Whale",
-                        "Harbor Porpoise",
-                        "Dall's Porpoise",
-                        "Pacific White-sided Dolphin",
-                        "Northern Right Whale Dolphin",
-                        "Long-beaked Common Dolphin",
-                        "Striped Dolphin",
-                        "Risso's Dolphin",
-                        "Other (Specify in comments)"
+                        "Globic\u00e9phale du Pacifique",
+                        "Cachalot",
+                        "Rorqual bor\u00e9al",
+                        "Baleine noire",
+                        "Cachalot pygm\u00e9e",
+                        "Cachalot nain",
+                        "Baleine \u00e0 bec de Cuvier",
+                        "Baleine \u00e0 bec de Baird",
+                        "Baleine \u00e0 bec de Hubb",
+                        "Baleine \u00e0 bec de Blainsville",
+                        "Baleine \u00e0 bec de Steineger",
+                        "Baleine bor\u00e9ale",
+                        "Marsouin commun",
+                        "Porpoise de Dall",
+                        "Dauphin \u00e0 flancs blancs du Pacifique",
+                        "Dauphin commun \u00e0 long bec",
+                        "Dauphin d\u00e9pouill\u00e9",
+                        "Dauphin de Risso",
+                        "Autre"
                     ]
                 }
             ]
@@ -532,12 +519,11 @@
             ]
         },
         {
-            "name": "usa-northeast",
             "whalewatchingguidelines": "EN_Guidelines_Default",
             "feeds": [
                 {
                     "name": "sma",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_north_america_east_flipped.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_fr.json"
                 }
             ],
             "polygon": [
@@ -608,7 +594,7 @@
                     "enc_action_required_entangled_number": "1-866-755-NOAA (1-866-755-6622)"
                 },
                 {
-                    "enc_action_required_entangled_warning": "US federal regulations prohibit approaching right whales within 500 yards (1500 feet)."
+                    "enc_action_required_entangled_warning": "La r\u00e8glementation f\u00e9d\u00e9rale en vigueur aux \u00c9tats-Unis interdit l\u2019approche d\u2019une baleine noire \u00e0 moins d\u2019env. 460 m."
                 },
                 {
                     "enc_action_required_dead_injured_stranded_number": "1-866-755-NOAA (1-866-755-6622)"
@@ -627,27 +613,24 @@
                         "beluga",
                         "bowhead",
                         "bottlenose_whale",
-                        "gray",
-                        "grey",
                         "other"
                     ]
                 },
                 {
                     "enc_other_species_list": [
-                        "Short Finned Pilot Whale",
-                        "Pygmy Sperm Whale",
-                        "Dwarf Sperm Whale",
-                        "Sowerby's Beaked Whale",
-                        "Cuvier's Beaked Whale",
-                        "Blainsville's Beaked Whale",
-                        "Bottlenose Dolphin",
-                        "Atlantic White-sided Dolphin",
-                        "Common Dolphin",
-                        "White-Beaked Dolphin",
-                        "Risso's Dolphin",
-                        "Harbor Porpoise",
-                        "Manatee",
-                        "Other (Specify in comments)"
+                        "Globic\u00e9phale du Pacifique",
+                        "Cachalot pygm\u00e9e",
+                        "Cachalot nain",
+                        "Baleine \u00e0 bec de Sowerby",
+                        "Baleine \u00e0 bec de Cuvier",
+                        "Baleine \u00e0 bec de Blainsville",
+                        "Grand dauphin",
+                        "Dauphin \u00e0 flancs blancs de l'Atlantique",
+                        "Dauphin commun",
+                        "Dauphin \u00e0 nez blanc",
+                        "Dauphin de Risso",
+                        "Marsouin commun",
+                        "Autre"
                     ]
                 }
             ]
@@ -658,7 +641,7 @@
             "feeds": [
                 {
                     "name": "sma",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_north_america_east_flipped.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_fr.json"
                 }
             ],
             "polygon": [
@@ -705,7 +688,7 @@
                     "enc_action_required_entangled_number": "1-877-WHALE HELP (1-877-942-5343)"
                 },
                 {
-                    "enc_action_required_entangled_warning": "US federal regulations prohibit approaching right whales within 500 yards (1500 feet)."
+                    "enc_action_required_entangled_warning": "La r\u00e8glementation f\u00e9d\u00e9rale en vigueur aux \u00c9tats-Unis interdit l\u2019approche d\u2019une baleine noire \u00e0 moins d\u2019env. 460 m."
                 },
                 {
                     "enc_action_required_dead_injured_stranded_number": "1-877-WHALE HELP (1-877-942-5343)"
@@ -714,7 +697,6 @@
                     "enc_species_list": [
                         "unknown",
                         "right",
-                        "manatee",
                         "humpback",
                         "fin",
                         "minke",
@@ -725,33 +707,28 @@
                         "beluga",
                         "bowhead",
                         "bottlenose_whale",
-                        "gray",
-                        "grey",
-                        "other"
+                        "Autre"
                     ]
                 },
                 {
                     "enc_other_species_list": [
-                        "Manatee",
-                        "Gray Whale",
-                        "Short Finned Pilot Whale",
-                        "Pygmy Sperm Whale",
-                        "Dwarf Sperm Whale",
-                        "Sowerby's Beaked Whale",
-                        "Cuvier's Beaked Whale",
-                        "Blainsville's Beaked Whale",
-                        "Bottlenose Dolphin",
-                        "Atlantic White-sided Dolphin",
-                        "Common Dolphin",
-                        "White-Beaked Dolphin",
-                        "Risso's Dolphin",
-                        "Harbor Porpoise",
-                        "Other"
+                        "Globic\u00e9phale du Pacifique",
+                        "Cachalot pygm\u00e9e",
+                        "Cachalot nain",
+                        "Baleine \u00e0 bec de Sowerby",
+                        "Baleine \u00e0 bec de Cuvier",
+                        "Baleine \u00e0 bec de Blainsville",
+                        "Grand dauphin",
+                        "Dauphin \u00e0 flancs blancs de l'Atlantique",
+                        "Dauphin commun",
+                        "Dauphin \u00e0 nez blanc",
+                        "Dauphin de Risso",
+                        "Marsouin commun",
+                        "Autre"
                     ]
                 }
             ]
-        },
-        {
+        },{
             "name": "usa-alaska",
             "whalewatchingguidelines": "EN_Guidelines_Default",
             "feeds": [
@@ -882,11 +859,11 @@
         },
         {
             "name": "canada-west",
-            "whalewatchingguidelines": "EN_Guidelines_Canada",
+            "whalewatchingguidelines": "FR_Guidelines_Canada",
             "feeds": [
                 {
                     "name": "sma",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_north_america_west_flipped.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_fr.json"
                 }
             ],
             "map-sources": [
@@ -966,53 +943,57 @@
             ],
             "variables": [
                 {
-                    "enc_action_required_right_number": "BC Marine Mammal Response Network at 1-800-465-4336"
+                    "enc_action_required_right_number": "BC Urgences Mammif\u00e8res Marins 1-800-465-4336"
                 },
                 {
-                    "enc_action_required_entangled_number": "BC Marine Mammal Response Network at 1-800-465-4336"
+                    "enc_action_required_entangled_number": "BC Urgences Mammif\u00e8res Marins 1-800-465-4336"
                 },
                 {
-                    "enc_action_required_dead_injured_stranded_number": "BC Marine Mammal Response Network at 1-800-465-4336"
+                    "enc_action_required_dead_injured_stranded_number": "BC Urgences Mammif\u00e8res Marins 1-800-465-4336"
                 },
                 {
                     "enc_species_list": [
                         "unknown",
+                        "right",
                         "humpback",
-                        "gray",
-                        "grey",
-                        "blue",
-                        "orca",
-                        "minke",
                         "fin",
+                        "minke",
+                        "sei",
+                        "blue",
+                        "sperm",
+                        "orca",
+                        "beluga",
+                        "bowhead",
+                        "bottlenose_whale",
                         "other"
                     ]
                 },
                 {
                     "enc_other_species_list": [
-                        "Short Finned Pilot Whale",
-                        "Pygmy Sperm Whale",
-                        "Dwarf Sperm Whale",
-                        "Sowerby's Beaked Whale",
-                        "Cuvier's Beaked Whale",
-                        "Blainsville's Beaked Whale",
-                        "Bottlenose Dolphin",
-                        "Atlantic White-sided Dolphin",
-                        "Common Dolphin",
-                        "White-Beaked Dolphin",
-                        "Risso's Dolphin",
-                        "Harbor Porpoise",
-                        "Other"
+                        "Globic\u00e9phale du Pacifique",
+                        "Cachalot pygm\u00e9e",
+                        "Cachalot nain",
+                        "Baleine \u00e0 bec de Sowerby",
+                        "Baleine \u00e0 bec de Cuvier",
+                        "Baleine \u00e0 bec de Blainsville",
+                        "Grand dauphin",
+                        "Dauphin \u00e0 flancs blancs de l'Atlantique",
+                        "Dauphin commun",
+                        "Dauphin \u00e0 nez blanc",
+                        "Dauphin de Risso",
+                        "Marsouin commun",
+                        "Autre"
                     ]
                 }
             ]
         },
         {
             "name": "canada-quebec",
-            "whalewatchingguidelines": "EN_Guidelines_Canada",
+            "whalewatchingguidelines": "FR_Guidelines_Canada",
             "feeds": [
                 {
                     "name": "sma",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_north_america_east_flipped.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_fr.json"
                 }
             ],
             "map-sources": [
@@ -1131,10 +1112,10 @@
                     "enc_action_required_right_number": "(506) 529-5838 or XMARwhalesightings@dfo-mpo.gc.ca"
                 },
                 {
-                    "enc_action_required_entangled_number": "Marine Mammal Emergencies\/Urgences Mammif\u00e8res Marins at 1-877-722-5346"
+                    "enc_action_required_entangled_number": "Urgences Mammif\u00e8res Marins 1-877-722-5346"
                 },
                 {
-                    "enc_action_required_dead_injured_stranded_number": "Marine Mammal Emergencies\/Urgences Mammif\u00e8res Marins at 1-877-722-5346"
+                    "enc_action_required_dead_injured_stranded_number": "Urgences Mammif\u00e8res Marins 1-877-722-5346"
                 },
                 {
                     "enc_species_list": [
@@ -1155,30 +1136,30 @@
                 },
                 {
                     "enc_other_species_list": [
-                        "Short Finned Pilot Whale",
-                        "Pygmy Sperm Whale",
-                        "Dwarf Sperm Whale",
-                        "Sowerby's Beaked Whale",
-                        "Cuvier's Beaked Whale",
-                        "Blainsville's Beaked Whale",
-                        "Bottlenose Dolphin",
-                        "Atlantic White-sided Dolphin",
-                        "Common Dolphin",
-                        "White-Beaked Dolphin",
-                        "Risso's Dolphin",
-                        "Harbor Porpoise",
-                        "Other"
+                        "Globic\u00e9phale du Pacifique",
+                        "Cachalot pygm\u00e9e",
+                        "Cachalot nain",
+                        "Baleine \u00e0 bec de Sowerby",
+                        "Baleine \u00e0 bec de Cuvier",
+                        "Baleine \u00e0 bec de Blainsville",
+                        "Grand dauphin",
+                        "Dauphin \u00e0 flancs blancs de l'Atlantique",
+                        "Dauphin commun",
+                        "Dauphin \u00e0 nez blanc",
+                        "Dauphin de Risso",
+                        "Marsouin commun",
+                        "Autre"
                     ]
                 }
             ]
         },
         {
             "name": "canada-maritimes",
-            "whalewatchingguidelines": "EN_Guidelines_Canada",
+            "whalewatchingguidelines": "FR_Guidelines_Canada",
             "feeds": [
                 {
                     "name": "sma",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_north_america_east_flipped.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_fr.json"
                 }
             ],
             "map-sources": [
@@ -1249,10 +1230,10 @@
                     "enc_action_required_right_number": "(506) 529-5838 or XMARwhalesightings@dfo-mpo.gc.ca"
                 },
                 {
-                    "enc_action_required_entangled_number": "the Marine Animal Response Society at 1-866-567-6277"
+                    "enc_action_required_entangled_number": "Urgences Mammif\u00e8res Marins 1-866-567-6277"
                 },
                 {
-                    "enc_action_required_dead_injured_stranded_number": "the Marine Animal Response Society at 1-866-567-6277"
+                    "enc_action_required_dead_injured_stranded_number": "Urgences Mammif\u00e8res Marins 1-866-567-6277"
                 },
                 {
                     "enc_species_list": [
@@ -1273,30 +1254,30 @@
                 },
                 {
                     "enc_other_species_list": [
-                        "Short Finned Pilot Whale",
-                        "Pygmy Sperm Whale",
-                        "Dwarf Sperm Whale",
-                        "Sowerby's Beaked Whale",
-                        "Cuvier's Beaked Whale",
-                        "Blainsville's Beaked Whale",
-                        "Bottlenose Dolphin",
-                        "Atlantic White-sided Dolphin",
-                        "Common Dolphin",
-                        "White-Beaked Dolphin",
-                        "Risso's Dolphin",
-                        "Harbor Porpoise",
-                        "Other"
+                        "Globic\u00e9phale du Pacifique",
+                        "Cachalot pygm\u00e9e",
+                        "Cachalot nain",
+                        "Baleine \u00e0 bec de Sowerby",
+                        "Baleine \u00e0 bec de Cuvier",
+                        "Baleine \u00e0 bec de Blainsville",
+                        "Grand dauphin",
+                        "Dauphin \u00e0 flancs blancs de l'Atlantique",
+                        "Dauphin commun",
+                        "Dauphin \u00e0 nez blanc",
+                        "Dauphin de Risso",
+                        "Marsouin commun",
+                        "Autre"
                     ]
                 }
             ]
         },
         {
             "name": "canada-gulf",
-            "whalewatchingguidelines": "EN_Guidelines_Canada",
+            "whalewatchingguidelines": "FR_Guidelines_Canada",
             "feeds": [
                 {
                     "name": "sma",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_north_america_east_flipped.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_fr.json"
                 }
             ],
             "map-sources": [
@@ -1383,10 +1364,10 @@
                     "enc_action_required_right_number": "(506) 529-5838 or XMARwhalesightings@dfo-mpo.gc.ca"
                 },
                 {
-                    "enc_action_required_entangled_number": "the Marine Animal Response Society at 1-866-567-6277"
+                    "enc_action_required_entangled_number": "Urgences Mammif\u00e8res Marins 1-866-567-6277"
                 },
                 {
-                    "enc_action_required_dead_injured_stranded_number": "the Marine Animal Response Society at 1-866-567-6277"
+                    "enc_action_required_dead_injured_stranded_number": "Urgences Mammif\u00e8res Marins 1-866-567-6277"
                 },
                 {
                     "enc_species_list": [
@@ -1407,30 +1388,30 @@
                 },
                 {
                     "enc_other_species_list": [
-                        "Short Finned Pilot Whale",
-                        "Pygmy Sperm Whale",
-                        "Dwarf Sperm Whale",
-                        "Sowerby's Beaked Whale",
-                        "Cuvier's Beaked Whale",
-                        "Blainsville's Beaked Whale",
-                        "Bottlenose Dolphin",
-                        "Atlantic White-sided Dolphin",
-                        "Common Dolphin",
-                        "White-Beaked Dolphin",
-                        "Risso's Dolphin",
-                        "Harbor Porpoise",
-                        "Other"
+                        "Globic\u00e9phale du Pacifique",
+                        "Cachalot pygm\u00e9e",
+                        "Cachalot nain",
+                        "Baleine \u00e0 bec de Sowerby",
+                        "Baleine \u00e0 bec de Cuvier",
+                        "Baleine \u00e0 bec de Blainsville",
+                        "Grand dauphin",
+                        "Dauphin \u00e0 flancs blancs de l'Atlantique",
+                        "Dauphin commun",
+                        "Dauphin \u00e0 nez blanc",
+                        "Dauphin de Risso",
+                        "Marsouin commun",
+                        "Autre"
                     ]
                 }
             ]
         },
         {
             "name": "canada-newfoundland",
-            "whalewatchingguidelines": "EN_Guidelines_Canada",
+            "whalewatchingguidelines": "FR_Guidelines_Canada",
             "feeds": [
                 {
                     "name": "sma",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_north_america_east_flipped.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_fr.json"
                 }
             ],
             "map-sources": [
@@ -1497,10 +1478,10 @@
                     "enc_action_required_right_number": "(506) 529-5838 or XMARwhalesightings@dfo-mpo.gc.ca"
                 },
                 {
-                    "enc_action_required_entangled_number": "Whale Release and Strandings (Newfoundland and Labrador) at 1-888-895-3003"
+                    "enc_action_required_entangled_number": "Urgences Mammif\u00e8res Marins 1-888-895-3003"
                 },
                 {
-                    "enc_action_required_dead_injured_stranded_number": "Whale Release and Strandings (Newfoundland and Labrador) at 1-888-895-3003"
+                    "enc_action_required_dead_injured_stranded_number": "Urgences Mammif\u00e8res Marins 1-888-895-3003"
                 },
                 {
                     "enc_species_list": [
@@ -1521,19 +1502,19 @@
                 },
                 {
                     "enc_other_species_list": [
-                        "Short Finned Pilot Whale",
-                        "Pygmy Sperm Whale",
-                        "Dwarf Sperm Whale",
-                        "Sowerby's Beaked Whale",
-                        "Cuvier's Beaked Whale",
-                        "Blainsville's Beaked Whale",
-                        "Bottlenose Dolphin",
-                        "Atlantic White-sided Dolphin",
-                        "Common Dolphin",
-                        "White-Beaked Dolphin",
-                        "Risso's Dolphin",
-                        "Harbor Porpoise",
-                        "Other"
+                        "Globic\u00e9phale du Pacifique",
+                        "Cachalot pygm\u00e9e",
+                        "Cachalot nain",
+                        "Baleine \u00e0 bec de Sowerby",
+                        "Baleine \u00e0 bec de Cuvier",
+                        "Baleine \u00e0 bec de Blainsville",
+                        "Grand dauphin",
+                        "Dauphin \u00e0 flancs blancs de l'Atlantique",
+                        "Dauphin commun",
+                        "Dauphin \u00e0 nez blanc",
+                        "Dauphin de Risso",
+                        "Marsouin commun",
+                        "Autre"
                     ]
                 }
             ]
@@ -1544,7 +1525,7 @@
             "feeds": [
                 {
                     "name": "mpa",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson_flipped.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson.json"
                 }
             ],
             "map-sources": [
@@ -1579,112 +1560,6 @@
                     [
                         -6,
                         37
-                    ]
-                ]
-            ],
-            "variables": [
-                {
-                    "enc_action_required_right_number": "Please Call (112) and Report"
-                },
-                {
-                    "enc_action_required_entangled_number": "Whale Release and Strandings (Mediterranean) at 1-888-895-3003"
-                },
-                {
-                    "enc_action_required_dead_injured_stranded_number": "Whale Release and Strandings (Mediterranean) at 1-888-895-3003"
-                },
-                {
-                    "enc_species_list": [
-                        "unknown",
-                        "right",
-                        "humpback",
-                        "fin",
-                        "minke",
-                        "gray",
-                        "sei",
-                        "blue",
-                        "sperm",
-                        "orca",
-                        "bowhead",
-                        "bottlenose_whale",
-                        "other"
-                    ]
-                },
-                {
-                    "enc_other_species_list": [
-                        "Bryde's Whale",
-                        "Short Finned Pilot Whale",
-                        "Long Finned Pilot Whale",
-                        "Pygmy Sperm Whale",
-                        "Dwarf Sperm Whale",
-                        "Blainsville's Beaked Whale",
-                        "Cuvier's Beaked Whale",
-                        "Gervais' Beaked Whale",
-                        "Sowerby's Beaked Whale",
-                        "True's Beaked Whale",
-                        "Harbour Porpoise",
-                        "Black Sea Harbour Porpoise",
-                        "Common Bottlenose Dolphin",
-                        "Black Sea Bottlenose Dolphin",
-                        "Atlantic White-sided Dolphin",
-                        "Atlantic Spotted Dolphin",
-                        "Common Dolphin",
-                        "Black Sea Common Dolphin",
-                        "Fraser's Dolphin",
-                        "White-Beaked Dolphin",
-                        "Roughtoothed Dolphin",
-                        "Risso's Dolphin",
-                        "Striped Dolpin",
-                        "False Killer Whale",
-                        "Other"
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "z-northeast-atlantic",            
-            "whalewatchingguidelines": "EN_Guidelines_Mediterranean_Sea",
-            "feeds": [
-                {
-                    "name": "mpa",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson_flipped.json"
-                }
-            ],
-            "map-sources": [
-                "earthnc-bathymetry"
-            ],
-            "polygon": [
-                [
-                    [
-                        -6,
-                        35
-                    ],
-                    [
-                        -65,
-                        35
-                    ],
-                    [
-                        -65,
-                        80
-                    ],
-                    [
-                        46,
-                        80
-                    ],
-                    [
-                        46,
-                        45
-                    ],
-                    [
-                        10,
-                        52
-                    ],
-                    [
-                        -6,
-                        37
-                    ],
-                    [
-                        -6,
-                        35
                     ]
                 ]
             ],
@@ -2217,7 +2092,7 @@
             ]
         },{
             "name": "france atlantic",
-            "whalewatchingguidelines": "EN_Guidelines_France",
+            "whalewatchingguidelines": "FR_Guidelines_France",
             "feeds": [
                 {
                     "name": "mpa",
@@ -2284,7 +2159,7 @@
             ]
         },{
             "name": "france med",
-            "whalewatchingguidelines": "EN_Guidelines_France",
+            "whalewatchingguidelines": "FR_Guidelines_France",
             "feeds": [
                 {
                     "name": "mpa",
@@ -2295,7 +2170,7 @@
                 "earthnc-bathymetry"
             ],"polygon": [ [ [ 7.529865313736536, 43.783694191837412 ], [ 7.530848036035366, 43.769768249661311 ], [ 7.537500000162879, 43.752500000037799 ], [ 7.538055555587846, 43.744166668211619 ], [ 7.612222222150365, 43.64527777871217 ], [ 7.63055555567513, 43.57527777896189 ], [ 7.672222222000698, 43.425277779111809 ], [ 7.840277777887877, 43.123888889275065 ], [ 8.081666666974968, 43.123888889275065 ], [ 8.459722222112987, 43.253333331651561 ], [ 8.73722222192572, 43.461388889387536 ], [ 8.999444443905929, 43.636944440333707 ], [ 9.570555555625276, 43.275277778812153 ], [ 9.583888888975423, 43.193611110638187 ], [ 9.588086468449092, 43.175858045120606 ], [ 9.594426429835892, 43.176661708970755 ], [ 9.609625945481127, 43.133608739851582 ], [ 9.615624838115878, 43.111829901029239 ], [ 9.620957343007035, 43.087084974891752 ], [ 9.637186148921785, 42.955385437787811 ], [ 9.645433787339527, 42.928682891702238 ], [ 9.654536426514937, 42.907361465159681 ], [ 9.680098216759404, 42.854988564470716 ], [ 9.699356313443161, 42.822264995233411 ], [ 9.712478792662125, 42.795528948502238 ], [ 9.730171223623131, 42.799940016119024 ], [ 9.745833333387793, 42.772499999937793 ], [ 9.783055555862575, 42.625833331738932 ], [ 9.798888888850399, 42.381666668224113 ], [ 9.803055555662866, 42.337500000012881 ], [ 9.838611110962859, 42.23055555797356 ], [ 9.878611111012845, 42.161111110500883 ], [ 9.951666666725316, 42.064166668361565 ], [ 10.055000000075211, 41.952222221201168 ], [ 10.143333331551617, 41.777500000212569 ], [ 10.218333331476686, 41.71055555777366 ], [ 10.218333331476686, 41.553611110388204 ], [ 9.716944444088028, 41.433611110688105 ], [ 9.630555555925184, 41.433611110688105 ], [ 9.450000000050352, 41.406388889462335 ], [ 9.316666667, 41.336111110425918 ], [ 9.270000000050402, 41.291944442214458 ], [ 9.134858924126092, 41.318029169562351 ], [ 9.134722222222763, 41.318055555555986 ], [ 9.098888889283671, 41.311346467014403 ], [ 8.998888888662862, 41.292623429969922 ], [ 8.989228211830323, 41.290814657868054 ], [ 8.812777777725501, 41.257777778849629 ], [ 8.774999999825411, 41.250000000200203 ], [ 8.65999999970029, 41.264722219754788 ], [ 8.556666666950093, 41.336111110425918 ], [ 8.304722222088117, 41.487499999962779 ], [ 8.139542767365413, 41.537169347676127 ], [ 7.986944444287985, 41.583055557811178 ], [ 7.689166666737776, 41.654999999975303 ], [ 7.1357999243113, 41.772276479036975 ], [ 6.930277777987726, 41.815833331739043 ], [ 6.369444444375517, 41.514166668461428 ], [ 6.204110593387782, 41.42082532111084 ], [ 5.911589427033164, 41.255678742639191 ], [ 5.90562909573174, 41.252313761112134 ], [ 5.889722222116461, 41.24333333147581 ], [ 5.775296015698984, 41.308566772139216 ], [ 5.702430843608795, 41.335292010817852 ], [ 5.590854667009694, 41.379076128760687 ], [ 5.508763645026761, 41.409577822159065 ], [ 5.409349847617818, 41.444413567932031 ], [ 5.320944065016818, 41.472108668780265 ], [ 5.148210117703343, 41.698845201645156 ], [ 5.106788328119251, 41.755642444843204 ], [ 5.079149830600556, 41.794976166916967 ], [ 5.052422858028876, 41.834161637549869 ], [ 5.020385239487666, 41.882920700730153 ], [ 4.999101355143807, 41.916299740840714 ], [ 4.930421460582465, 41.995658308584439 ], [ 4.896672186672333, 42.033196244611531 ], [ 4.861469017481625, 42.073564350714548 ], [ 4.543753437671398, 42.448669927675269 ], [ 4.367251511748236, 42.572886793291332 ], [ 4.23570025036679, 42.66022443131277 ], [ 4.14071000136596, 42.722180415993876 ], [ 3.940137058079131, 42.742274925347772 ], [ 3.870236460644435, 42.749602845095751 ], [ 3.826740682436821, 42.727121703204375 ], [ 3.76771332830765, 42.697896352834562 ], [ 3.688854139707303, 42.660087287398767 ], [ 3.614826314183347, 42.625889861528321 ], [ 3.555210158622344, 42.599561180704143 ], [ 3.481530675600595, 42.568545303523081 ], [ 3.450510907053058, 42.55644695246508 ], [ 3.405021183481381, 42.53248639882861 ], [ 3.345604674716412, 42.503659692740996 ], [ 3.317772857132127, 42.488373272908461 ], [ 3.23617108252995, 42.448484611575907 ], [ 3.186420530283726, 42.432045370597791 ], [ 3.182720543118876, 42.42971152017077 ], [ 3.173406616322836, 42.433557743395284 ], [ 3.167884349983183, 42.448548436461181 ], [ 3.160119652900164, 42.452422380388782 ], [ 3.162434339673439, 42.464492559284622 ], [ 3.155427456312623, 42.470763325967255 ], [ 3.155913829460246, 42.47611987603193 ], [ 3.145007133173181, 42.480340838659345 ], [ 3.132514953702582, 42.481717944427771 ], [ 3.133165836234809, 42.496884107815674 ], [ 3.123669267023615, 42.505465507127724 ], [ 3.132862567753705, 42.510092258251461 ], [ 3.129912853495966, 42.518625259648331 ], [ 3.109643101348468, 42.52532005307836 ], [ 3.101008653726694, 42.524007201171685 ], [ 3.08726644539064, 42.527572155131452 ], [ 3.082628012073542, 42.532060861220259 ], [ 3.069770813072978, 42.535786747960515 ], [ 3.056962252106473, 42.536943435291505 ], [ 3.049076557537319, 42.547747134922759 ], [ 3.044843077246185, 42.568334341456591 ], [ 3.044688224782135, 42.591093301914555 ], [ 3.041686653816328, 42.605578660527385 ], [ 3.037181258108831, 42.610582471304497 ], [ 3.039763331313111, 42.619124174541298 ], [ 3.033579945458428, 42.639271259161831 ], [ 3.034499645242818, 42.681779981061823 ], [ 3.039534925996577, 42.718610524756343 ], [ 3.037265538973941, 42.731302976950985 ], [ 3.036538362455985, 42.755612849753618 ], [ 3.039534925996577, 42.798688649961662 ], [ 3.039643406718255, 42.814692258441482 ], [ 3.026608347897309, 42.808916211514315 ], [ 3.019771575797904, 42.80457174768793 ], [ 3.01189541853887, 42.805181145393931 ], [ 2.989909768021846, 42.799179553893566 ], [ 2.981719732080137, 42.800522565464462 ], [ 2.973508834565564, 42.806064606096925 ], [ 2.965881347946322, 42.820451855868896 ], [ 2.965829134207752, 42.826519132052624 ], [ 2.957675576566999, 42.835369348617178 ], [ 2.950044870374882, 42.833000421932127 ], [ 2.961981415410492, 42.852105379360296 ], [ 2.977506637621786, 42.861735105790785 ], [ 2.988935947036566, 42.864081263440085 ], [ 3.000905871309328, 42.881530642725238 ], [ 2.99553465869792, 42.884283543051424 ], [ 2.999359249630231, 42.89442205463439 ], [ 3.00641167196153, 42.903533100672405 ], [ 3.004205822940776, 42.916145324347781 ], [ 3.0129531624587, 42.922945737755981 ], [ 3.032390951781395, 42.938245653714318 ], [ 3.036504268257772, 42.946517944347988 ], [ 3.035016417274392, 42.953271746794201 ], [ 3.041297554938751, 42.96025061627347 ], [ 3.031643152010304, 42.962499022112752 ], [ 3.041074752398117, 42.980631947307018 ], [ 3.048557043473352, 42.985851526127362 ], [ 3.054249047855819, 43.005179644025532 ], [ 3.063962459800109, 43.01309394872726 ], [ 3.062016844901962, 43.018315077079535 ], [ 3.066488146411075, 43.027393221420311 ], [ 3.062239408222638, 43.031085133572503 ], [ 3.070323109224546, 43.037832856601369 ], [ 3.057679056743609, 43.053822040854925 ], [ 3.043129444268629, 43.056640624965212 ], [ 3.023691415726489, 43.073535203487154 ], [ 3.031183123602545, 43.086653947821901 ], [ 3.0434463024053, 43.090979576246639 ], [ 3.048347234337939, 43.082323551191109 ], [ 3.061878442836132, 43.083352565369012 ], [ 3.075344919932604, 43.075898647005374 ], [ 3.081047534516529, 43.075920224439244 ], [ 3.102264047048607, 43.082955479611996 ], [ 3.119743704708753, 43.106334209656325 ], [ 3.127503156945579, 43.117452740352121 ], [ 3.135621547496896, 43.126972556138981 ], [ 3.146832823476473, 43.13513231280632 ], [ 3.148581743153272, 43.140818357381931 ], [ 3.194624423878395, 43.181763410953238 ], [ 3.202755808734139, 43.198904156402023 ], [ 3.239833354826033, 43.213476657522335 ], [ 3.246269941205128, 43.219674945143254 ], [ 3.278358578285975, 43.238451242631072 ], [ 3.29477751257258, 43.245852112685327 ], [ 3.309002161321075, 43.254267215659752 ], [ 3.346906065662893, 43.270981430649044 ], [ 3.367596149243354, 43.278489708533812 ], [ 3.391735553753108, 43.285435319285057 ], [ 3.410538435200863, 43.288753867097455 ], [ 3.43369507766613, 43.289127945498933 ], [ 3.442567109984509, 43.283007145263923 ], [ 3.45432734473161, 43.281754851006099 ], [ 3.525883674992031, 43.289307475359976 ], [ 3.566430926046905, 43.327520370569118 ], [ 3.606760621206149, 43.359300732643021 ], [ 3.637216449180016, 43.380550742223249 ], [ 3.658729434016607, 43.391158223273919 ], [ 3.725061654672004, 43.41576933838445 ], [ 3.739949822326821, 43.421466350192134 ], [ 3.745200514992177, 43.420114517171498 ], [ 3.753805756230918, 43.425650954128741 ], [ 3.775506139097331, 43.431111573740338 ], [ 3.798923015685205, 43.441725015497639 ], [ 3.821372151603782, 43.460760712537081 ], [ 3.831972122415948, 43.473657369292766 ], [ 3.846609234429081, 43.48372137564121 ], [ 3.882795214228167, 43.504989146832145 ], [ 3.907351255756339, 43.517374277301428 ], [ 3.933844924404241, 43.527829766630873 ], [ 3.949148416966295, 43.532116532652481 ], [ 3.967154979319162, 43.540042639156923 ], [ 4.007321119274707, 43.552364111114855 ], [ 4.034274935940061, 43.556283951043952 ], [ 4.054495334192723, 43.557756543229914 ], [ 4.101452350246007, 43.554855346497504 ], [ 4.118076324563162, 43.548908352838737 ], [ 4.132246852110768, 43.540273547286517 ], [ 4.14094746105684, 43.528633952095561 ], [ 4.163964151924517, 43.47234094168175 ], [ 4.185494660950326, 43.466466307474377 ], [ 4.234687566978096, 43.459008812507079 ], [ 4.281185865835596, 43.456752061858651 ], [ 4.309618354104259, 43.456473231554924 ], [ 4.372877478913097, 43.453045248839487 ], [ 4.397933841174222, 43.450404167518911 ], [ 4.429264902853504, 43.448679328088872 ], [ 4.442236423672398, 43.455372452377276 ], [ 4.459464549949246, 43.457031250092427 ], [ 4.496866941056908, 43.456443667241956 ], [ 4.527173042702202, 43.452779054909797 ], [ 4.559359431593066, 43.443492054715136 ], [ 4.579187750614778, 43.433354019772423 ], [ 4.830716133543206, 43.426754236119677 ], [ 4.851107358917943, 43.449887872127931 ], [ 4.85959410638327, 43.454029322095948 ], [ 4.865650653655109, 43.44232535343275 ], [ 4.87885904331074, 43.425170302467734 ], [ 4.885646939055448, 43.414136051737898 ], [ 4.906214952258779, 43.419622421637769 ], [ 4.909876346816475, 43.426484345976007 ], [ 4.923988223278343, 43.432447552612928 ], [ 4.938701152636554, 43.431338667845637 ], [ 5.000640153620566, 43.477823853688108 ], [ 5.003671645930183, 43.481186151720124 ], [ 4.99885010704736, 43.499186277624574 ], [ 4.999986648665185, 43.508862257087969 ], [ 5.006060242586443, 43.519218445075467 ], [ 5.015398740659634, 43.527208805442058 ], [ 5.011898278882995, 43.549778104276697 ], [ 5.020833611782336, 43.556136965848737 ], [ 5.029386162641686, 43.547889947963085 ], [ 5.033784508448889, 43.535584926403374 ], [ 5.04838585892071, 43.522354841503045 ], [ 5.060245871650125, 43.52782893205989 ], [ 5.092784642797312, 43.524802446276453 ], [ 5.103376508019721, 43.526145457847235 ], [ 5.114216446732087, 43.522801160645372 ], [ 5.118778109422692, 43.517234206093974 ], [ 5.20642590563142, 43.49206912479076 ], [ 5.217351079389289, 43.48836934536962 ], [ 5.223446607775145, 43.482071042345069 ], [ 5.229535818423756, 43.465966820412575 ], [ 5.294703603189248, 43.359619140311395 ], [ 5.306367277728157, 43.361357569396546 ], [ 5.326744079775949, 43.355096221313886 ], [ 5.326402545141775, 43.351655005973782 ], [ 5.339589476973288, 43.344751835129443 ], [ 5.33810710915634, 43.338777303330176 ], [ 5.35079991838154, 43.334462761747147 ], [ 5.34754443193043, 43.329552054184433 ], [ 5.363587856095251, 43.310467839619321 ], [ 5.361286044015969, 43.294848442202465 ], [ 5.370104074743494, 43.26778650274548 ], [ 5.375424742758241, 43.257457733288334 ], [ 5.403712153293441, 43.21268630003317 ], [ 5.41531681971594, 43.206872343983946 ], [ 5.448683619154224, 43.206643462026477 ], [ 5.455834269935963, 43.211051225533708 ], [ 5.479865550754766, 43.203944444580827 ], [ 5.494711518622239, 43.202900051996153 ], [ 5.514739274898034, 43.202711820294496 ], [ 5.533181071349759, 43.212651610483647 ], [ 5.548314451751025, 43.205775141410015 ], [ 5.614387750394769, 43.180059075166753 ], [ 5.623724818545952, 43.186678170861285 ], [ 5.635724902482821, 43.188396334623462 ], [ 5.651539921330766, 43.187504648720903 ], [ 5.66053485859743, 43.181123256433068 ], [ 5.675321221197862, 43.177317857933303 ], [ 5.685879230542525, 43.17927837369831 ], [ 5.695192575477449, 43.168748259524818 ], [ 5.718931555946995, 43.146405338935608 ], [ 5.723617911437714, 43.136530756789341 ], [ 5.756645918274899, 43.13130724433438 ], [ 5.766749620698931, 43.138348221893239 ], [ 5.78026151625636, 43.132430911257984 ], [ 5.802319049584924, 43.11478292928939 ], [ 5.809512853435876, 43.112673520866849 ], [ 5.813329458388296, 43.105667352466924 ], [ 5.886483073635304, 43.106757044802066 ], [ 5.894298553635736, 43.114074826492356 ], [ 5.907192468358289, 43.112977862239063 ], [ 5.92040705704062, 43.117466449617098 ], [ 5.930135607272859, 43.115678548826338 ], [ 5.939700007849638, 43.105884670940725 ], [ 5.958086967240263, 43.106611728748817 ], [ 5.971796273879306, 43.103806853004357 ], [ 5.986394643998096, 43.105665326294115 ], [ 6.005828857616052, 43.103654861283133 ], [ 6.08655977281569, 43.086982249831124 ], [ 6.101715445611546, 43.082950234766031 ], [ 6.109276055945656, 43.083908439023674 ], [ 6.125961661701581, 43.078598856952226 ], [ 6.160096406624291, 43.087223768162858 ], [ 6.171366811229575, 43.100254655028607 ], [ 6.181372523523351, 43.107602834703471 ], [ 6.192474245890139, 43.109967827753394 ], [ 6.205680251442914, 43.116477251124422 ], [ 6.230649471196557, 43.112752556885312 ], [ 6.238764405653228, 43.112931727917271 ], [ 6.261133432662234, 43.121093749976922 ], [ 6.277095079674723, 43.120145201740172 ], [ 6.286754250808599, 43.11488330352222 ], [ 6.290406704306463, 43.106397747658207 ], [ 6.307022452524677, 43.107946276799566 ], [ 6.316310406000866, 43.10657501212745 ], [ 6.359149574793435, 43.11632335194173 ], [ 6.365696072716048, 43.119730949723987 ], [ 6.364046931021562, 43.129603624408389 ], [ 6.367730856294486, 43.136036753793633 ], [ 6.378085970491384, 43.13605904618845 ], [ 6.383140921217091, 43.14325690238428 ], [ 6.399164915528956, 43.146345376638237 ], [ 6.403350829777423, 43.149481058104527 ], [ 6.420652270586174, 43.147621035283066 ], [ 6.428938149976091, 43.151714206045938 ], [ 6.44731771963751, 43.152029633361508 ], [ 6.461736440284994, 43.157070159860268 ], [ 6.472643375791733, 43.153890847784623 ], [ 6.478840827942349, 43.155500530825179 ], [ 6.486699461911144, 43.15107274031493 ], [ 6.496978640952079, 43.151012301377193 ], [ 6.524118542637211, 43.165672063715078 ], [ 6.534387349796816, 43.174153804654907 ], [ 6.538198828613474, 43.180325150385727 ], [ 6.55071866493472, 43.187091946236819 ], [ 6.583353757969803, 43.277508258599312 ], [ 6.614560246458609, 43.293296813997188 ], [ 6.62473654755388, 43.295709848830427 ], [ 6.633595705178095, 43.306880473655212 ], [ 6.641691446303753, 43.304574131691425 ], [ 6.661448478764669, 43.313866376732221 ], [ 6.66559040537345, 43.319252849040083 ], [ 6.670388818189679, 43.333688855556659 ], [ 6.679687499678835, 43.34040164981667 ], [ 6.695067047906491, 43.340090751487367 ], [ 6.716682553657506, 43.347363353036599 ], [ 6.713926434657651, 43.353309512124724 ], [ 6.718294739511123, 43.359412432038141 ], [ 6.713005423661798, 43.367059945660344 ], [ 6.714967846889124, 43.371975779359047 ], [ 6.732108711948001, 43.38941335684126 ], [ 6.725931406409416, 43.396586060798427 ], [ 6.732114672654575, 43.408138275161662 ], [ 6.744585513910806, 43.418111800719487 ], [ 6.757746458033012, 43.423486709544306 ], [ 6.76908266513334, 43.420951366013298 ], [ 6.774519205397382, 43.4146877525381 ], [ 6.7882633211957, 43.40791881090496 ], [ 6.805130242866994, 43.414169549685028 ], [ 6.810460448191577, 43.413529753995363 ], [ 6.829149604071517, 43.417968750058037 ], [ 6.85664844497029, 43.424627899757922 ], [ 6.859843730804073, 43.433560371014494 ], [ 6.867074847526396, 43.43349123023637 ], [ 6.870924234566246, 43.424455046463777 ], [ 6.893943309536667, 43.429495930892926 ], [ 6.899488925873811, 43.441213846242647 ], [ 6.920409679263742, 43.44854593254928 ], [ 6.931848525989039, 43.483086228546824 ], [ 6.938491701930843, 43.509258151243273 ], [ 6.937883615436988, 43.514480352486601 ], [ 6.950138807360645, 43.526947260108443 ], [ 6.950066208688895, 43.533371329723707 ], [ 6.968826532418916, 43.544306158602694 ], [ 6.99109876179898, 43.548828125217881 ], [ 7.008500575941184, 43.54764401935654 ], [ 7.028390765621907, 43.548228025603123 ], [ 7.049412726916273, 43.546611547285522 ], [ 7.055190443884271, 43.547161460233724 ], [ 7.06836986547728, 43.561815619795482 ], [ 7.081597447564377, 43.563529849023894 ], [ 7.085080623472209, 43.569068073833137 ], [ 7.101023435983279, 43.570510029714399 ], [ 7.126012444419302, 43.592722773437401 ], [ 7.126886725742168, 43.607633113877569 ], [ 7.13476324093125, 43.628344059031633 ], [ 7.149534106414137, 43.647710800113941 ], [ 7.16614294064459, 43.65672922137702 ], [ 7.179754853404177, 43.653757453044477 ], [ 7.191898942182888, 43.657315850046928 ], [ 7.201903461975576, 43.651663661349232 ], [ 7.230468869143579, 43.664654731631174 ], [ 7.233459949517567, 43.681731820367702 ], [ 7.241557240174927, 43.687918543606145 ], [ 7.259784936825611, 43.693638444059332 ], [ 7.313539862575055, 43.705604672118398 ], [ 7.359719514544281, 43.722126841380998 ], [ 7.444435119785339, 43.749768733840597 ], [ 7.453827977379433, 43.758483528692409 ], [ 7.461051940894833, 43.759717464190032 ], [ 7.511154651466313, 43.780915021711223 ], [ 7.529865313736536, 43.783694191837412 ] ] ],"variables": [
                 {
-                    "enc_action_required_right_number": "Please Call (33)5 46 44 99 10 and Report "
+                    "enc_action_required_right_number": "Please Call (33)5 46 44 99 10 and Report"
                 },
                 {
                     "enc_action_required_entangled_number": "Please Call (33)5 46 44 99 10 and Report"
