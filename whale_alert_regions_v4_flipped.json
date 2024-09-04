@@ -2217,7 +2217,7 @@
             ]
         },{
             "name": "france atlantic",
-            "whalewatchingguidelines": "EN_Guidelines_France",
+            "whalewatchingguidelines": "FR_Guidelines_France",
             "feeds": [
                 {
                     "name": "mpa",
@@ -2284,7 +2284,7 @@
             ]
         },{
             "name": "france med",
-            "whalewatchingguidelines": "EN_Guidelines_France",
+            "whalewatchingguidelines": "FR_Guidelines_France",
             "feeds": [
                 {
                     "name": "mpa",
