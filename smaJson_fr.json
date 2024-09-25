@@ -1,6 +1,6 @@
 [{"id":"1", "type":"SMA","name":"Détroit de Block Island",
   "desc":"Zone saisonnière de gestion des baleines noires, veuillez réduire la vitesse à 10 nœuds ou moins.","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2023-11-01","endDate":"2024-04-30",
+  "startDate":"2024-11-01","endDate":"2025-04-30",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -8,7 +8,7 @@
            ]
        }},{"id":"2", "type":"SMA","name":"Site de mise bas et d’élevage du Sud-Est",
   "desc":"Zone saisonnière de gestion des baleines noires, veuillez réduire la vitesse à 10 nœuds ou moins.","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2023-11-15","endDate":"2024-04-15",
+  "startDate":"2024-11-15","endDate":"2025-04-15",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -16,7 +16,7 @@
            ]
        }},{"id":"3", "type":"SMA","name":"Zone de gestion saisonnière de la baie de Cape Cod",
   "desc":"Zone saisonnière de gestion des baleines noires, veuillez réduire la vitesse à 10 nœuds ou moins.","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2024-01-01","endDate":"2024-05-15",
+  "startDate":"2025-01-01","endDate":"2025-05-15",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -24,7 +24,7 @@
            ]
        }},{"id":"4", "type":"SMA","name":"Entrée de la baie de Chesapeake",
   "desc":"Zone saisonnière de gestion des baleines noires, veuillez réduire la vitesse à 10 nœuds ou moins.","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2023-11-01","endDate":"2024-04-30",
+  "startDate":"2024-11-01","endDate":"2025-04-30",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -32,7 +32,7 @@
            ]
        }},{"id":"5", "type":"SMA","name":"Great South Channel",
   "desc":"Zone saisonnière de gestion des baleines noires, veuillez réduire la vitesse à 10 nœuds ou moins.","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2024-04-01","endDate":"2024-07-31",
+  "startDate":"2025-04-01","endDate":"2025-07-31",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -40,7 +40,7 @@
            ]
        }},{"id":"6", "type":"SMA","name":"Centre du littoral de l’Atlantique",
   "desc":"Zone saisonnière de gestion des baleines noires, veuillez réduire la vitesse à 10 nœuds ou moins.","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2023-11-01","endDate":"2024-04-30",
+  "startDate":"2024-11-01","endDate":"2025-04-30",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -48,7 +48,7 @@
            ]
        }},{"id":"7", "type":"SMA","name":"Zone de gestion saisonnière au large de Race Point",
   "desc":"Zone saisonnière de gestion des baleines noires, veuillez réduire la vitesse à 10 nœuds ou moins.","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2024-03-01","endDate":"2024-04-30",
+  "startDate":"2025-03-01","endDate":"2025-04-30",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png", "lat":"42.4461", "lon":"-69.9761","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -56,7 +56,7 @@
            ]
        }},{"id":"8", "type":"SMA","name":"Port de New York et du New Jersey",
   "desc":"Zone saisonnière de gestion des baleines noires, veuillez réduire la vitesse à 10 nœuds ou moins.","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2023-11-01","endDate":"2024-04-30",
+  "startDate":"2024-11-01","endDate":"2025-04-30",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -64,7 +64,7 @@
            ]
        }},{"id":"9", "type":"SMA","name":"Ville de Moorehead et de Beaufort",
   "desc":"Zone saisonnière de gestion des baleines noires, veuillez réduire la vitesse à 10 nœuds ou moins.","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2023-11-01","endDate":"2024-04-30",
+  "startDate":"2024-11-01","endDate":"2025-04-30",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -72,7 +72,7 @@
            ]
        }},{"id":"10", "type":"SMA","name":"Entrée de la baie du Delaware",
   "desc":"Zone saisonnière de gestion des baleines noires, veuillez réduire la vitesse à 10 nœuds ou moins.","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2023-11-01","endDate":"2024-04-30",
+  "startDate":"2024-11-01","endDate":"2025-04-30",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -144,7 +144,7 @@
            ]
        }},{"id":"16", "type":"ATBA","name":"Great South Channel",
   "desc":"Great South Channel - Zones à éviter","fillColor":"55FF0000", "lineColor":"FFFF0000",
-  "startDate":"2024-04-01","endDate":"2024-07-31",
+  "startDate":"2025-04-01","endDate":"2025-07-31",
   "link":"local://abta.pdf","banner":"local://abta.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -383,7 +383,7 @@
          ]
        }},{"id":"1408", "type":"SMA","name":"Cabot Strait Voluntary Speed Restriction",
   "information":"Durant ces périodes, les navires d’une longueur supérieure à 13 mètres sont invités à réduire leur vitesse volontairement afin de ne pas excéder une vitesse-fond de 10 nœuds. VEUILLEZ RAPPORTER TOUTES OBSERVATIONS DE MAMMIFÈRES MARINS VIVANTS, MORTS OU BLESSÉS À LA GARDE CÔTIÈRE CANADIENNE SUR LA VOIE 16 VHF OU AU RÉSEAU QUÉBÉCOIS D'URGENCES POUR LES MAMMIFÈRES MARINS AU  1-877-722-5346. L'UTILISATION DE L'APPLICATION WHALE ALERT (WWW.WHALEALERT.ORG) EST ÉGALEMENT ENCOURAGÉE AFIN DE SIGNALER LES OBSERVATIONS DE BALEINES. ","fillColor":"22AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2024-04-20","endDate":"2024-06-29",
+  "startDate":"2025-04-20","endDate":"2025-06-29",
   "link":"","banner":"","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -398,7 +398,7 @@
             [[48.175,-61],[48,-61],[47.9683,-61.0583],[47.0333,-60.395],[47.62,-59.3083],[48.175,-61]]
          ]
        }},{"id":"1416", "type":"SMA","name":"vallée de Shediac Zone de restriction","fillColor":"22AAAA00", "lineColor":"FFFF0000",
-  "startDate":"2024-04-20","endDate":"2024-08-31","information":"Une zone de restriction obligatoire sera mise en place dans la vallée de Shediac et ses environs et entrera en vigueur lorsque 80% de la zone de restriction sera fermée à la pêche pour la saison, conformément au protocole de fermeture du ministère des pêches et océans pour les baleines noires. La zone de restriction sera levée lorsque les détections de baleines noires de l’Atlantique Nord diminueront à l’intérieur de la zone ou au plus tard le 31 août 2021. Les bâtiments d’une longueur hors-tout (LHT) supérieure à 13 m devront éviter la zone à moins de faire partie des exceptions nommées dans l’Arrêté d’urgence ou les bâtiments faisant partie des exceptions et naviguant dans cette zone ne doivent pas excéder une vitesse supérieure à 8.0 nœuds sur le fond.",
+  "startDate":"2025-04-20","endDate":"2025-08-31","information":"Une zone de restriction obligatoire sera mise en place dans la vallée de Shediac et ses environs et entrera en vigueur lorsque 80% de la zone de restriction sera fermée à la pêche pour la saison, conformément au protocole de fermeture du ministère des pêches et océans pour les baleines noires. La zone de restriction sera levée lorsque les détections de baleines noires de l’Atlantique Nord diminueront à l’intérieur de la zone ou au plus tard le 31 août 2021. Les bâtiments d’une longueur hors-tout (LHT) supérieure à 13 m devront éviter la zone à moins de faire partie des exceptions nommées dans l’Arrêté d’urgence ou les bâtiments faisant partie des exceptions et naviguant dans cette zone ne doivent pas excéder une vitesse supérieure à 8.0 nœuds sur le fond.",
   "link":"","banner":"","geometry": {
          "type": "Polygon",
          "coordinates": [

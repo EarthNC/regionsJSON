@@ -1,6 +1,6 @@
 [{"id":"1", "type":"SMA","name":"Block Island Sound",
   "desc":"Right Whale Seasonal Management Area, Reduce Speed to 10kts or Less","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2023-11-01","endDate":"2024-04-30",
+  "startDate":"2024-11-01","endDate":"2025-04-30",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -8,7 +8,7 @@
            ]
        }},{"id":"2", "type":"SMA","name":"Southeast Calving and Nursery Grounds",
   "desc":"Right Whale Seasonal Management Area, Reduce Speed to 10kts or Less","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2023-11-15","endDate":"2024-04-15",
+  "startDate":"2024-11-15","endDate":"2025-04-15",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -16,7 +16,7 @@
            ]
        }},{"id":"3", "type":"SMA","name":"Cape Cod Bay Seasonal Management",
   "desc":"Right Whale Seasonal Management Area, Reduce Speed to 10kts or Less","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2024-01-01","endDate":"2024-05-15",
+  "startDate":"2025-01-01","endDate":"2025-05-15",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -24,7 +24,7 @@
            ]
        }},{"id":"4", "type":"SMA","name":"Entrance to the Chesapeake Bay",
   "desc":"Right Whale Seasonal Management Area, Reduce Speed to 10kts or Less","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2023-11-01","endDate":"2024-04-30",
+  "startDate":"2024-11-01","endDate":"2025-04-30",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -32,7 +32,7 @@
            ]
        }},{"id":"5", "type":"SMA","name":"Great South Channel",
   "desc":"Right Whale Seasonal Management Area, Reduce Speed to 10kts or Less","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2024-04-01","endDate":"2024-07-31",
+  "startDate":"2025-04-01","endDate":"2025-07-31",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -40,7 +40,7 @@
            ]
        }},{"id":"6", "type":"SMA","name":"Mid-Atlantic",
   "desc":"Right Whale Seasonal Management Area, Reduce Speed to 10kts or Less","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2023-11-01","endDate":"2024-04-30",
+  "startDate":"2024-11-01","endDate":"2025-04-30",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -48,7 +48,7 @@
            ]
        }},{"id":"7", "type":"SMA","name":"Off Race Point Seasonal Management",
   "desc":"Right Whale Seasonal Management Area, Reduce Speed to 10kts or Less","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2024-03-01","endDate":"2024-04-30",
+  "startDate":"2025-03-01","endDate":"2025-04-30",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png", "lat":"42.4461", "lon":"-69.9761","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -56,7 +56,7 @@
            ]
        }},{"id":"8", "type":"SMA","name":"Port of New York and New Jersey",
   "desc":"Right Whale Seasonal Management Area, Reduce Speed to 10kts or Less","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2023-11-01","endDate":"2024-04-30",
+  "startDate":"2024-11-01","endDate":"2025-04-30",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -64,7 +64,7 @@
            ]
        }},{"id":"9", "type":"SMA","name":"Moorehead City and Beaufort",
   "desc":"Right Whale Seasonal Management Area, Reduce Speed to 10kts or Less","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2023-11-01","endDate":"2024-04-30",
+  "startDate":"2024-11-01","endDate":"2025-04-30",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -72,7 +72,7 @@
            ]
        }},{"id":"10", "type":"SMA","name":"Entrance to the Delaware Bay",
   "desc":"Right Whale Seasonal Management Area, Reduce Speed to 10kts or Less","fillColor":"44AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2023-11-01","endDate":"2024-04-30",
+  "startDate":"2024-11-01","endDate":"2025-04-30",
   "link":"local://compliance_guide.pdf","banner":"local://sma10knt.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -96,7 +96,7 @@
            ]
        }},{"id":"13", "type":"MSR","name":"Whales South ",
   "desc":"Mandatory Ship Reporting Area","fillColor":"000000FF", "lineColor":"FF0000FF",
-  "startDate":"2023-11-15","endDate":"2024-04-16",
+  "startDate":"2024-11-15","endDate":"2025-04-16",
   "link":"local://msr_guide.pdf","banner":"msr_banner.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -144,7 +144,7 @@
            ]
        }},{"id":"16", "type":"ATBA","name":"Great South Channel",
   "desc":"Great South Channel - Area to Be Avoided","fillColor":"55FF0000", "lineColor":"FFFF0000",
-  "startDate":"2024-04-01","endDate":"2024-07-31",
+  "startDate":"2025-04-01","endDate":"2025-07-31",
   "link":"local://abta.pdf","banner":"local://abta.png","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -311,7 +311,7 @@
          ]
        }},{"id":"1408", "type":"SMA","name":"Cabot Strait Voluntary Speed Restriction",
   "information":"During this period, vessels above 13 m in length (LOA) are asked to voluntarily reduce their speed so as to not exceed 10.0 knots over the ground. REPORT ALL OBSERVATIONS OF LIVE, DEAD OR INJURED WHALES TO THE CANADIAN COAST GUARD ON VHF CH.16 OR TO \"MARINE ANIMAL RESPONSE\" AT  1-866-567-6277. THE REPORTING OF LIVE WHALE SIGHTINGS USING WHALE ALERT IS ALSO ENCOURAGED.","fillColor":"22AAAA00", "lineColor":"FFAAAA00",
-  "startDate":"2024-04-20","endDate":"2024-06-29",
+  "startDate":"2025-04-20","endDate":"2025-06-29",
   "link":"","banner":"","geometry": {
          "type": "Polygon",
          "coordinates": [
@@ -326,7 +326,7 @@
             [[48.175,-61],[48,-61],[47.9683,-61.0583],[47.0333,-60.395],[47.62,-59.3083],[48.175,-61]]
          ]
        }},{"id":"1416", "type":"SMA","name":"Shediac Valley Restricted Area","fillColor":"22AAAA00", "lineColor":"FFFF0000",
-  "startDate":"2024-04-20","endDate":"2024-08-31","information":"A mandatory restricted area will be implemented in and near the Shediac Valley and will come into force once 80% of the restricted area is closed to fishing for the season as per the Department of Fisheries and Oceans’s right whale closure protocol. The restricted area will be lifted once the North Atlantic right whale detections decrease in the restricted area or at the latest on August 31, 2021.  Vessels above 13 m in length (LOA) will be required to avoid the area unless they are part of the exceptions listed in the Interim Order or transit the area at a speed not exceeding 8.0 knots over the ground if they are included in the exception list.",
+  "startDate":"2025-04-20","endDate":"2025-08-31","information":"A mandatory restricted area will be implemented in and near the Shediac Valley and will come into force once 80% of the restricted area is closed to fishing for the season as per the Department of Fisheries and Oceans’s right whale closure protocol. The restricted area will be lifted once the North Atlantic right whale detections decrease in the restricted area or at the latest on August 31, 2021.  Vessels above 13 m in length (LOA) will be required to avoid the area unless they are part of the exceptions listed in the Interim Order or transit the area at a speed not exceeding 8.0 knots over the ground if they are included in the exception list.",
   "link":"","banner":"","geometry": {
          "type": "Polygon",
          "coordinates": [
