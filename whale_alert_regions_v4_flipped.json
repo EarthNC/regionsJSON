@@ -1597,7 +1597,7 @@
                 },
                 {
                     "name": "sma",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJsonMed.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson_flipped.json"
                 }
             ],
             "map-sources": [
