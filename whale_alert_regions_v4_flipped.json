@@ -1939,6 +1939,10 @@
             "feeds": [
                 {
                     "name": "mpa",
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medMPA_ps.json"
+                },
+                {
+                    "name": "sma",
                     "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson_flipped.json"
                 }
             ],
@@ -2341,6 +2345,10 @@
             "feeds": [
                 {
                     "name": "mpa",
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medMPA_ps.json"
+                },
+                {
+                    "name": "sma",
                     "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson_flipped.json"
                 }
             ],
