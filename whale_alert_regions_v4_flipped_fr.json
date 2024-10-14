@@ -6,7 +6,7 @@
             "map-sources": [
                 "marine-charts"
             ],
-            "whalewatchingguidelines": "EN_Guidelines_Default",
+            "whalewatchingguidelines": "FR_Guidelines_Default",
             "feeds": [
                 {
                     "name": "sma",
@@ -87,7 +87,7 @@
             ]
         },{
             "name": "usa-west",
-            "whalewatchingguidelines": "EN_Guidelines_Default",
+            "whalewatchingguidelines": "FR_Guidelines_Default",
             "feeds": [
                 {
                     "name": "sma",
@@ -170,7 +170,7 @@
         },
         {
             "name": "usa-west-central",
-            "whalewatchingguidelines": "EN_Guidelines_Default",
+            "whalewatchingguidelines": "FR_Guidelines_Default",
             "feeds": [
                 {
                     "name": "sma",
@@ -253,7 +253,7 @@
         },
         {
             "name": "usa-west-south",
-            "whalewatchingguidelines": "EN_Guidelines_Default",
+            "whalewatchingguidelines": "FR_Guidelines_Default",
             "feeds": [
                 {
                     "name": "sma",
@@ -340,7 +340,7 @@
         },
         {
             "name": "usa-pacific-islands",
-            "whalewatchingguidelines": "EN_Guidelines_Default",
+            "whalewatchingguidelines": "FR_Guidelines_Default",
             "feeds": [
                 {
                     "name": "sma",
@@ -557,7 +557,7 @@
             ]
         },
         {   "name": "usa-northeast",
-            "whalewatchingguidelines": "EN_Guidelines_Default",
+            "whalewatchingguidelines": "FR_Guidelines_Default",
             "feeds": [
                 {
                     "name": "sma",
@@ -675,7 +675,7 @@
         },
         {
             "name": "usa-southeast",
-            "whalewatchingguidelines": "EN_Guidelines_Default",
+            "whalewatchingguidelines": "FR_Guidelines_Default",
             "feeds": [
                 {
                     "name": "sma",
@@ -768,7 +768,7 @@
             ]
         },{
             "name": "usa-alaska",
-            "whalewatchingguidelines": "EN_Guidelines_Default",
+            "whalewatchingguidelines": "FR_Guidelines_Default",
             "feeds": [
                 {
                     "name": "sma",
@@ -1559,7 +1559,7 @@
         },
         {
             "name": "z-europe-mediterranean",
-            "whalewatchingguidelines": "EN_Guidelines_Mediterranean_Sea",
+            "whalewatchingguidelines": "FR_Guidelines_Mediterranean_Sea",
             "feeds": [
                 {
                     "name": "mpa",
@@ -1659,7 +1659,7 @@
             ]
         },{
             "name": "norway jan mayen",            
-            "whalewatchingguidelines": "EN_Guidelines_Norway",
+            "whalewatchingguidelines": "FR_Guidelines_Norway",
             "feeds": [
                 {
                     "name": "mpa",
@@ -1728,7 +1728,7 @@
             ]
         },{
             "name": "spain canaries",            
-            "whalewatchingguidelines": "EN_Guidelines_Spain",
+            "whalewatchingguidelines": "FR_Guidelines_Spain",
             "feeds": [
                 {
                     "name": "mpa",
@@ -1795,7 +1795,7 @@
             ]
         },{
             "name": "spain med",            
-            "whalewatchingguidelines": "EN_Guidelines_Spain",
+            "whalewatchingguidelines": "FR_Guidelines_Spain",
             "feeds": [
                 {
                     "name": "mpa",
@@ -1862,7 +1862,7 @@
             ]
         },{
             "name": "spain atlantic",            
-            "whalewatchingguidelines": "EN_Guidelines_Spain",
+            "whalewatchingguidelines": "FR_Guidelines_Spain",
             "feeds": [
                 {
                     "name": "mpa",
@@ -1929,7 +1929,7 @@
             ]
         },{
             "name": "portugal azores",            
-            "whalewatchingguidelines": "EN_Guidelines_Portugal",
+            "whalewatchingguidelines": "FR_Guidelines_Portugal",
             "feeds": [
                 {
                     "name": "mpa",
@@ -1996,7 +1996,7 @@
             ]
         },{
             "name": "portugal madeira",            
-            "whalewatchingguidelines": "EN_Guidelines_Portugal",
+            "whalewatchingguidelines": "FR_Guidelines_Portugal",
             "feeds": [
                 {
                     "name": "mpa",
@@ -2063,7 +2063,7 @@
             ]
         },{
             "name": "portugal atlantic",
-            "whalewatchingguidelines": "EN_Guidelines_Portugal",
+            "whalewatchingguidelines": "FR_Guidelines_Portugal",
             "feeds": [
                 {
                     "name": "mpa",
@@ -2264,7 +2264,7 @@
             ]
         },{
             "name": "scotland",
-            "whalewatchingguidelines": "EN_Guidelines_Scotland",
+            "whalewatchingguidelines": "FR_Guidelines_Scotland",
             "feeds": [
                 {
                     "name": "mpa",
@@ -2331,7 +2331,7 @@
             ]
         },{
             "name": "ireland",
-            "whalewatchingguidelines": "EN_Guidelines_Ireland",
+            "whalewatchingguidelines": "FR_Guidelines_Ireland",
             "feeds": [
                 {
                     "name": "mpa",
@@ -2398,7 +2398,7 @@
             ]
         },{
             "name": "iceland",
-            "whalewatchingguidelines": "EN_Guidelines_Iceland",
+            "whalewatchingguidelines": "FR_Guidelines_Iceland",
             "feeds": [
                 {
                     "name": "mpa",
@@ -2465,7 +2465,7 @@
             ]
         },{
             "name": "norway",
-            "whalewatchingguidelines": "EN_Guidelines_Norway",
+            "whalewatchingguidelines": "FR_Guidelines_Norway",
             "feeds": [
                 {
                     "name": "mpa",
@@ -2533,7 +2533,7 @@
         },
         {
             "name": "greenland",
-            "whalewatchingguidelines": "EN_Guidelines_Greenland",
+            "whalewatchingguidelines": "FR_Guidelines_Greenland",
             "feeds": [
                 {
                     "name": "mpa",
@@ -2603,7 +2603,7 @@
         },
         {
             "name": "asia-northernindianocean",
-            "whalewatchingguidelines": "EN_Guidelines_Arabian_Sea",
+            "whalewatchingguidelines": "FR_Guidelines_Arabian_Sea",
             "feeds": [
                 {
                     "name": "mpa",
@@ -2691,7 +2691,7 @@
         },
         {
             "name": "belize",
-            "whalewatchingguidelines": "EN_Guidelines_Default",
+            "whalewatchingguidelines": "FR_Guidelines_Default",
             "feeds": [
                 {
                     "name": "sma",
