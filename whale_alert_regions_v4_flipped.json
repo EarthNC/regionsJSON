@@ -1699,7 +1699,7 @@
             "feeds": [
                 {
                     "name": "mpa",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson_flipped.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/neatlMPA_ps.json"
                 }
             ],
             "map-sources": [
