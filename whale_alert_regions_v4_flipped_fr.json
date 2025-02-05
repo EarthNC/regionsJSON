@@ -668,6 +668,7 @@
                         "Dauphin \u00e0 bec blanc",
                         "Dauphin de Risso",
                         "Marsouin commun",
+                        "Manatee",
                         "Autre"
                     ]
                 }
@@ -750,6 +751,7 @@
                 },
                 {
                     "enc_other_species_list": [
+                        "Manatee",
                         "Globic\u00e9phale du Pacifique",
                         "Cachalot pygm\u00e9e",
                         "Cachalot nain",
@@ -889,7 +891,7 @@
                         "Dauphin baleine franche du Nord",
                         "Dauphin commun \u00e0 long bec",
                         "Dauphin ray\u00e9",
-                        "Le dauphin de Risso",
+                        "Dauphin de Risso",
                         "Autre"
                     ]
                 }
@@ -1614,6 +1616,109 @@
                 {
                     "enc_species_list": [
                         "unknown",
+                        "humpback",
+                        "fin",
+                        "minke",
+                        "gray",
+                        "sei",
+                        "blue",
+                        "sperm",
+                        "orca",
+                        "bowhead",
+                        "bottlenose_whale",
+                        "other"
+                    ]
+                },
+                {
+                    "enc_other_species_list": [
+                        "Baleine franche",
+                        "Baleine de Bryde",
+                        "Globic\u00e9phale tropical",
+                        "Globic\u00e9phale commun",
+                        "Cachalot pygm\u00e9e",
+                        "Cachalot nain",
+                        "Baleine \u00e0 bec de Blainsville",
+                        "Baleine \u00e0 bec de Cuvier",
+                        "Baleine \u00e0 bec de Gervais",
+                        "Baleine \u00e0 bec de Sowerby",
+                        "Baleine \u00e0 bec de True",
+                        "Marsouin commun",
+                        "Grand dauphin",
+                        "Dauphin \u00e0 flancs blancs de l'Atlantique",
+                        "Dauphin bleu et blancde l'Atlantique",
+                        "Dauphin commun",
+                        "Dauphin de Fraser",
+                        "Dauphin \u00e0 bec blanc",
+                        "Dauphin a bec etroit",
+                        "Dauphin de Risso",
+                        "Dauphin bleu et blanc ",
+                        "Faux \u00e9paulard",
+                        "Autre"
+                    ]
+                }
+            ]
+        },,
+        {
+            "name": "z-northeast-atlantic",            
+            "whalewatchingguidelines": "EN_Guidelines_Mediterranean_Sea",
+            "feeds": [
+                {
+                    "name": "mpa",
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/neatlMPA_ps.json"
+                }
+            ],
+            "map-sources": [
+                "earthnc-bathymetry"
+            ],
+            "polygon": [
+                [
+                    [
+                        -6,
+                        35
+                    ],
+                    [
+                        -65,
+                        35
+                    ],
+                    [
+                        -65,
+                        80
+                    ],
+                    [
+                        46,
+                        80
+                    ],
+                    [
+                        46,
+                        45
+                    ],
+                    [
+                        10,
+                        52
+                    ],
+                    [
+                        -6,
+                        37
+                    ],
+                    [
+                        -6,
+                        35
+                    ]
+                ]
+            ],
+            "variables": [
+                {
+                    "enc_action_required_right_number": "Please Call (112) and Report "
+                },
+                {
+                    "enc_action_required_entangled_number": "Please Call (112) and Report"
+                },
+                {
+                    "enc_action_required_dead_injured_stranded_number": "Please Call (112) and Report"
+                },
+                {
+                    "enc_species_list": [
+                        "unknown",
                         "right",
                         "humpback",
                         "fin",
@@ -1643,14 +1748,14 @@
                         "Baleine \u00e0 bec de True",
                         "Marsouin commun",
                         "Grand dauphin",
-                        "ADauphin \u00e0 flancs blancs de l'Atlantique",
-                        "Dauphin tachet\u00e9 de l'Atlantique",
+                        "Dauphin \u00e0 flancs blancs de l'Atlantique",
+                        "Dauphin bleu et blancde l'Atlantique",
                         "Dauphin commun",
                         "Dauphin de Fraser",
                         "Dauphin \u00e0 bec blanc",
                         "Dauphin a bec etroit",
                         "Dauphin de Risso",
-                        "Dauphin tachet\u00e9 ",
+                        "Dauphin bleu et blanc ",
                         "Faux \u00e9paulard",
                         "Narval",
                         "Autre"
@@ -1712,14 +1817,14 @@
                         "Baleine \u00e0 bec de True",
                         "Marsouin commun",
                         "Grand dauphin",
-                        "ADauphin \u00e0 flancs blancs de l'Atlantique",
-                        "Dauphin tachet\u00e9 de l'Atlantique",
+                        "Dauphin \u00e0 flancs blancs de l'Atlantique",
+                        "Dauphin bleu et blancde l'Atlantique",
                         "Dauphin commun",
                         "Dauphin de Fraser",
                         "Dauphin \u00e0 bec blanc",
                         "Dauphin a bec etroit",
                         "Dauphin de Risso",
-                        "Dauphin tachet\u00e9 ",
+                        "Dauphin bleu et blanc",
                         "Faux \u00e9paulard",
                         "Narval",
                         "Autre"
@@ -1779,14 +1884,14 @@
                         "Baleine \u00e0 bec de True",
                         "Marsouin commun",
                         "Grand dauphin",
-                        "ADauphin \u00e0 flancs blancs de l'Atlantique",
-                        "Dauphin tachet\u00e9 de l'Atlantique",
+                        "Dauphin \u00e0 flancs blancs de l'Atlantique",
+                        "Dauphin bleu et blancde l'Atlantique",
                         "Dauphin commun",
                         "Dauphin de Fraser",
                         "Dauphin \u00e0 bec blanc",
                         "Dauphin a bec etroit",
                         "Dauphin de Risso",
-                        "Dauphin tachet\u00e9 ",
+                        "Dauphin bleu et blanc",
                         "Faux \u00e9paulard",
                         "Narval",
                         "Autre"
@@ -1817,7 +1922,6 @@
                 {
                     "enc_species_list": [
                         "unknown",
-                        "right",
                         "humpback",
                         "fin",
                         "minke",
@@ -1834,6 +1938,7 @@
                 },
                 {
                     "enc_other_species_list": [
+                        "Baleine franche",
                         "Baleine de Bryde",
                         "Globic\u00e9phale tropical",
                         "Globic\u00e9phale commun",
@@ -1846,16 +1951,15 @@
                         "Baleine \u00e0 bec de True",
                         "Marsouin commun",
                         "Grand dauphin",
-                        "ADauphin \u00e0 flancs blancs de l'Atlantique",
-                        "Dauphin tachet\u00e9 de l'Atlantique",
+                        "Dauphin \u00e0 flancs blancs de l'Atlantique",
+                        "Dauphin bleu et blancde l'Atlantique",
                         "Dauphin commun",
                         "Dauphin de Fraser",
                         "Dauphin \u00e0 bec blanc",
                         "Dauphin a bec etroit",
                         "Dauphin de Risso",
-                        "Dauphin tachet\u00e9 ",
+                        "Dauphin bleu et blanc",
                         "Faux \u00e9paulard",
-                        "Narval",
                         "Autre"
                     ]
                 }
@@ -1913,14 +2017,14 @@
                         "Baleine \u00e0 bec de True",
                         "Marsouin commun",
                         "Grand dauphin",
-                        "ADauphin \u00e0 flancs blancs de l'Atlantique",
-                        "Dauphin tachet\u00e9 de l'Atlantique",
+                        "Dauphin \u00e0 flancs blancs de l'Atlantique",
+                        "Dauphin bleu et blancde l'Atlantique",
                         "Dauphin commun",
                         "Dauphin de Fraser",
                         "Dauphin \u00e0 bec blanc",
                         "Dauphin a bec etroit",
                         "Dauphin de Risso",
-                        "Dauphin tachet\u00e9 ",
+                        "Dauphin bleu et blanc",
                         "Faux \u00e9paulard",
                         "Narval",
                         "Autre"
@@ -1980,14 +2084,14 @@
                         "Baleine \u00e0 bec de True",
                         "Marsouin commun",
                         "Grand dauphin",
-                        "ADauphin \u00e0 flancs blancs de l'Atlantique",
-                        "Dauphin tachet\u00e9 de l'Atlantique",
+                        "Dauphin \u00e0 flancs blancs de l'Atlantique",
+                        "Dauphin bleu et blancde l'Atlantique",
                         "Dauphin commun",
                         "Dauphin de Fraser",
                         "Dauphin \u00e0 bec blanc",
                         "Dauphin a bec etroit",
                         "Dauphin de Risso",
-                        "Dauphin tachet\u00e9 ",
+                        "Dauphin bleu et blanc",
                         "Faux \u00e9paulard",
                         "Narval",
                         "Autre"
@@ -2047,14 +2151,14 @@
                         "Baleine \u00e0 bec de True",
                         "Marsouin commun",
                         "Grand dauphin",
-                        "ADauphin \u00e0 flancs blancs de l'Atlantique",
-                        "Dauphin tachet\u00e9 de l'Atlantique",
+                        "Dauphin \u00e0 flancs blancs de l'Atlantique",
+                        "Dauphin bleu et blancde l'Atlantique",
                         "Dauphin commun",
                         "Dauphin de Fraser",
                         "Dauphin \u00e0 bec blanc",
                         "Dauphin a bec etroit",
                         "Dauphin de Risso",
-                        "Dauphin tachet\u00e9 ",
+                        "Dauphin bleu et blanc",
                         "Faux \u00e9paulard",
                         "Narval",
                         "Autre"
@@ -2114,14 +2218,14 @@
                         "Baleine \u00e0 bec de True",
                         "Marsouin commun",
                         "Grand dauphin",
-                        "ADauphin \u00e0 flancs blancs de l'Atlantique",
-                        "Dauphin tachet\u00e9 de l'Atlantique",
+                        "Dauphin \u00e0 flancs blancs de l'Atlantique",
+                        "Dauphin bleu et blancde l'Atlantique",
                         "Dauphin commun",
                         "Dauphin de Fraser",
                         "Dauphin \u00e0 bec blanc",
                         "Dauphin a bec etroit",
                         "Dauphin de Risso",
-                        "Dauphin tachet\u00e9 ",
+                        "Dauphin bleu et blanc",
                         "Faux \u00e9paulard",
                         "Narval",
                         "Autre"
@@ -2181,14 +2285,14 @@
                         "Baleine \u00e0 bec de True",
                         "Marsouin commun",
                         "Grand dauphin",
-                        "ADauphin \u00e0 flancs blancs de l'Atlantique",
-                        "Dauphin tachet\u00e9 de l'Atlantique",
+                        "Dauphin \u00e0 flancs blancs de l'Atlantique",
+                        "Dauphin bleu et blancde l'Atlantique",
                         "Dauphin commun",
                         "Dauphin de Fraser",
                         "Dauphin \u00e0 bec blanc",
                         "Dauphin a bec etroit",
                         "Dauphin de Risso",
-                        "Dauphin tachet\u00e9 ",
+                        "Dauphin bleu et blanc",
                         "Faux \u00e9paulard",
                         "Narval",
                         "Autre"
@@ -2219,7 +2323,6 @@
                 {
                     "enc_species_list": [
                         "unknown",
-                        "right",
                         "humpback",
                         "fin",
                         "minke",
@@ -2236,6 +2339,7 @@
                 },
                 {
                     "enc_other_species_list": [
+                        "Baleine franche",
                         "Baleine de Bryde",
                         "Globic\u00e9phale tropical",
                         "Globic\u00e9phale commun",
@@ -2248,14 +2352,14 @@
                         "Baleine \u00e0 bec de True",
                         "Marsouin commun",
                         "Grand dauphin",
-                        "ADauphin \u00e0 flancs blancs de l'Atlantique",
-                        "Dauphin tachet\u00e9 de l'Atlantique",
+                        "Dauphin \u00e0 flancs blancs de l'Atlantique",
+                        "Dauphin bleu et blancde l'Atlantique",
                         "Dauphin commun",
                         "Dauphin de Fraser",
                         "Dauphin \u00e0 bec blanc",
                         "Dauphin a bec etroit",
                         "Dauphin de Risso",
-                        "Dauphin tachet\u00e9 ",
+                        "Dauphin bleu et blanc",
                         "Faux \u00e9paulard",
                         "Narval",
                         "Autre"
@@ -2315,14 +2419,14 @@
                         "Baleine \u00e0 bec de True",
                         "Marsouin commun",
                         "Grand dauphin",
-                        "ADauphin \u00e0 flancs blancs de l'Atlantique",
-                        "Dauphin tachet\u00e9 de l'Atlantique",
+                        "Dauphin \u00e0 flancs blancs de l'Atlantique",
+                        "Dauphin bleu et blancde l'Atlantique",
                         "Dauphin commun",
                         "Dauphin de Fraser",
                         "Dauphin \u00e0 bec blanc",
                         "Dauphin a bec etroit",
                         "Dauphin de Risso",
-                        "Dauphin tachet\u00e9 ",
+                        "Dauphin bleu et blanc",
                         "Faux \u00e9paulard",
                         "Narval",
                         "Autre"
@@ -2382,14 +2486,14 @@
                         "Baleine \u00e0 bec de True",
                         "Marsouin commun",
                         "Grand dauphin",
-                        "ADauphin \u00e0 flancs blancs de l'Atlantique",
-                        "Dauphin tachet\u00e9 de l'Atlantique",
+                        "Dauphin \u00e0 flancs blancs de l'Atlantique",
+                        "Dauphin bleu et blancde l'Atlantique",
                         "Dauphin commun",
                         "Dauphin de Fraser",
                         "Dauphin \u00e0 bec blanc",
                         "Dauphin a bec etroit",
                         "Dauphin de Risso",
-                        "Dauphin tachet\u00e9 ",
+                        "Dauphin bleu et blanc",
                         "Faux \u00e9paulard",
                         "Narval",
                         "Autre"
@@ -2450,13 +2554,13 @@
                         "Marsouin commun",
                         "Grand dauphin",
                         "Dauphin \u00e0 flancs blancs de l'Atlantique",
-                        "Dauphin tachet\u00e9 de l'Atlantique",
+                        "Dauphin bleu et blancde l'Atlantique",
                         "Dauphin commun",
                         "Dauphin de Fraser",
                         "Dauphin \u00e0 bec blanc",
                         "Dauphin a bec etroit",
                         "Dauphin de Risso",
-                        "Dauphin tachet\u00e9 ",
+                        "Dauphin bleu et blanc",
                         "Faux \u00e9paulard",
                         "Narval",
                         "Autre"
@@ -2516,14 +2620,14 @@
                         "Baleine \u00e0 bec de True",
                         "Marsouin commun",
                         "Grand dauphin",
-                        "ADauphin \u00e0 flancs blancs de l'Atlantique",
-                        "Dauphin tachet\u00e9 de l'Atlantique",
+                        "Dauphin \u00e0 flancs blancs de l'Atlantique",
+                        "Dauphin bleu et blancde l'Atlantique",
                         "Dauphin commun",
                         "Dauphin de Fraser",
                         "Dauphin \u00e0 bec blanc",
                         "Dauphin a bec etroit",
                         "Dauphin de Risso",
-                        "Dauphin tachet\u00e9 ",
+                        "Dauphin bleu et blanc",
                         "Faux \u00e9paulard",
                         "Narval",
                         "Autre"
@@ -2586,14 +2690,14 @@
                         "Baleine \u00e0 bec de True",
                         "Marsouin commun",
                         "Grand dauphin",
-                        "ADauphin \u00e0 flancs blancs de l'Atlantique",
-                        "Dauphin tachet\u00e9 de l'Atlantique",
+                        "Dauphin \u00e0 flancs blancs de l'Atlantique",
+                        "Dauphin bleu et blancde l'Atlantique",
                         "Dauphin commun",
                         "Dauphin de Fraser",
                         "Dauphin \u00e0 bec blanc",
                         "Dauphin a bec etroit",
                         "Dauphin de Risso",
-                        "Dauphin tachet\u00e9 ",
+                        "Dauphin bleu et blanc",
                         "Faux \u00e9paulard",
                         "Narval",
                         "Autre"
