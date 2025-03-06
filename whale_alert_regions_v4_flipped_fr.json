@@ -10,11 +10,11 @@
             "feeds": [
                 {
                     "name": "sma",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_fr.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_fr_flipped.json"
                 },
                 {
                     "name": "mpa",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/mpaJson.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/mpaJson_flipped.json"
                 }
             ],
             "variables": [
@@ -561,7 +561,7 @@
             "feeds": [
                 {
                     "name": "sma",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_fr.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_fr_flipped.json"
                 }
             ],
             "polygon": [
@@ -680,7 +680,7 @@
             "feeds": [
                 {
                     "name": "sma",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_fr.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_fr_flipped.json"
                 }
             ],
             "polygon": [
@@ -903,7 +903,7 @@
             "feeds": [
                 {
                     "name": "sma",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_fr.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_fr_flipped.json"
                 }
             ],
             "map-sources": [
@@ -1033,7 +1033,7 @@
             "feeds": [
                 {
                     "name": "sma",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_fr.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_fr_flipped.json"
                 }
             ],
             "map-sources": [
@@ -1199,7 +1199,7 @@
             "feeds": [
                 {
                     "name": "sma",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_fr.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_fr_flipped.json"
                 }
             ],
             "map-sources": [
@@ -1317,7 +1317,7 @@
             "feeds": [
                 {
                     "name": "sma",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_fr.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_fr_flipped.json"
                 }
             ],
             "map-sources": [
@@ -1451,7 +1451,7 @@
             "feeds": [
                 {
                     "name": "sma",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_fr.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_fr_flipped.json"
                 }
             ],
             "map-sources": [
@@ -1565,7 +1565,11 @@
             "feeds": [
                 {
                     "name": "mpa",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medMPA_os.json"
+                },
+                {
+                    "name": "sma",
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson_flipped.json"
                 }
             ],
             "map-sources": [
@@ -1608,10 +1612,10 @@
                     "enc_action_required_right_number": "Please Call (112) and Report "
                 },
                 {
-                    "enc_action_required_entangled_number": "Please Call (112) and Report"
+                    "enc_action_required_entangled_number": "Whale Release and Strandings (Mediterranean) at 1-888-895-3003"
                 },
                 {
-                    "enc_action_required_dead_injured_stranded_number": "Please Call (112) and Report"
+                    "enc_action_required_dead_injured_stranded_number": "Whale Release and Strandings (Mediterranean) at 1-888-895-3003"
                 },
                 {
                     "enc_species_list": [
@@ -1660,7 +1664,7 @@
         },,
         {
             "name": "z-northeast-atlantic",            
-            "whalewatchingguidelines": "EN_Guidelines_Mediterranean_Sea",
+            "whalewatchingguidelines": "FR_Guidelines_Mediterranean_Sea",
             "feeds": [
                 {
                     "name": "mpa",
@@ -1768,7 +1772,7 @@
             "feeds": [
                 {
                     "name": "mpa",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson_flipped.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/neatlMPA_ps.json"
                 }
             ],
             "map-sources": [
@@ -1837,7 +1841,7 @@
             "feeds": [
                 {
                     "name": "mpa",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson_flipped.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/neatlMPA_ps.json"
                 }
             ],
             "map-sources": [
@@ -1904,6 +1908,10 @@
             "feeds": [
                 {
                     "name": "mpa",
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medMPA_ps.json"
+                },
+                {
+                    "name": "sma",
                     "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson_flipped.json"
                 }
             ],
@@ -1970,7 +1978,7 @@
             "feeds": [
                 {
                     "name": "mpa",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson_flipped.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/neatlMPA_ps.json"
                 }
             ],
             "map-sources": [
@@ -2037,7 +2045,7 @@
             "feeds": [
                 {
                     "name": "mpa",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson_flipped.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/neatlMPA_ps.json"
                 }
             ],
             "map-sources": [
@@ -2104,7 +2112,7 @@
             "feeds": [
                 {
                     "name": "mpa",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson_flipped.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/neatlMPA_ps.json"
                 }
             ],
             "map-sources": [
@@ -2171,7 +2179,7 @@
             "feeds": [
                 {
                     "name": "mpa",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson_flipped.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/neatlMPA_ps.json"
                 }
             ],
             "map-sources": [
@@ -2238,7 +2246,7 @@
             "feeds": [
                 {
                     "name": "mpa",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson_flipped.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/neatlMPA_ps.json"
                 }
             ],
             "map-sources": [
@@ -2305,6 +2313,10 @@
             "feeds": [
                 {
                     "name": "mpa",
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medMPA_ps.json"
+                },
+                {
+                    "name": "sma",
                     "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson_flipped.json"
                 }
             ],
@@ -2372,7 +2384,7 @@
             "feeds": [
                 {
                     "name": "mpa",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson_flipped.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/neatlMPA_ps.json"
                 }
             ],
             "map-sources": [
@@ -2439,7 +2451,7 @@
             "feeds": [
                 {
                     "name": "mpa",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson_flipped.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/neatlMPA_ps.json"
                 }
             ],
             "map-sources": [
@@ -2506,7 +2518,7 @@
             "feeds": [
                 {
                     "name": "mpa",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson_flipped.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/neatlMPA_ps.json"
                 }
             ],
             "map-sources": [
@@ -2573,7 +2585,7 @@
             "feeds": [
                 {
                     "name": "mpa",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson_flipped.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/neatlMPA_ps.json"
                 }
             ],
             "map-sources": [
@@ -2641,7 +2653,7 @@
             "feeds": [
                 {
                     "name": "mpa",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/medJson_flipped.json"
+                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/neatlMPA_ps.json"
                 }
             ],
             "map-sources": [
