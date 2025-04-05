@@ -1680,46 +1680,28 @@
                 {
                     "enc_species_list": [
                         "unknown",
-                        "right",
                         "humpback",
                         "fin",
                         "minke",
-                        "gray",
-                        "sei",
                         "blue",
                         "sperm",
                         "orca",
-                        "bowhead",
-                        "bottlenose_whale",
                         "other"
                     ]
                 },
                 {
                     "enc_other_species_list": [
-                        "Bryde's Whale",
-                        "Short Finned Pilot Whale",
                         "Long Finned Pilot Whale",
-                        "Pygmy Sperm Whale",
-                        "Dwarf Sperm Whale",
-                        "Blainsville's Beaked Whale",
                         "Cuvier's Beaked Whale",
-                        "Gervais' Beaked Whale",
-                        "Sowerby's Beaked Whale",
-                        "True's Beaked Whale",
                         "Harbour Porpoise",
                         "Black Sea Harbour Porpoise",
                         "Common Bottlenose Dolphin",
                         "Black Sea Bottlenose Dolphin",
-                        "Atlantic White-sided Dolphin",
-                        "Atlantic Spotted Dolphin",
                         "Common Dolphin",
                         "Black Sea Common Dolphin",
-                        "Fraser's Dolphin",
-                        "White-Beaked Dolphin",
                         "Roughtoothed Dolphin",
                         "Risso's Dolphin",
                         "Striped Dolpin",
-                        "False Killer Whale",
                         "Other"
                     ]
                 }
@@ -1822,7 +1804,7 @@
                         "White-Beaked Dolphin",
                         "Roughtoothed Dolphin",
                         "Risso's Dolphin",
-                        "Striped Dolpin",
+                        "Striped Dolphin",
                         "False Killer Whale",
                         "Narwal",
                         "Other"
@@ -1891,7 +1873,7 @@
                         "White-Beaked Dolphin",
                         "Roughtoothed Dolphin",
                         "Risso's Dolphin",
-                        "Striped Dolpin",
+                        "Striped Dolphin",
                         "False Killer Whale",
                         "Narwal",
                         "Other"
@@ -1958,7 +1940,7 @@
                         "White-Beaked Dolphin",
                         "Roughtoothed Dolphin",
                         "Risso's Dolphin",
-                        "Striped Dolpin",
+                        "Striped Dolphin",
                         "False Killer Whale",
                         "Narwal",
                         "Other"
@@ -1993,45 +1975,28 @@
                 {
                     "enc_species_list": [
                         "unknown",
-                        "right",
                         "humpback",
                         "fin",
                         "minke",
-                        "gray",
-                        "sei",
                         "blue",
                         "sperm",
                         "orca",
-                        "beluga",
-                        "bowhead",
-                        "bottlenose_whale",
                         "other"
                     ]
                 },
                 {
                     "enc_other_species_list": [
-                        "Bryde's Whale",
-                        "Short Finned Pilot Whale",
                         "Long Finned Pilot Whale",
-                        "Pygmy Sperm Whale",
-                        "Dwarf Sperm Whale",
-                        "Blainsville's Beaked Whale",
                         "Cuvier's Beaked Whale",
-                        "Gervais' Beaked Whale",
-                        "Sowerby's Beaked Whale",
-                        "True's Beaked Whale",
                         "Harbour Porpoise",
+                        "Black Sea Harbour Porpoise",
                         "Common Bottlenose Dolphin",
-                        "Atlantic White-sided Dolphin",
-                        "Atlantic Spotted Dolphin",
+                        "Black Sea Bottlenose Dolphin",
                         "Common Dolphin",
-                        "Fraser's Dolphin",
-                        "White-Beaked Dolphin",
+                        "Black Sea Common Dolphin",
                         "Roughtoothed Dolphin",
                         "Risso's Dolphin",
                         "Striped Dolpin",
-                        "False Killer Whale",
-                        "Narwal",
                         "Other"
                     ]
                 }
@@ -2096,7 +2061,7 @@
                         "White-Beaked Dolphin",
                         "Roughtoothed Dolphin",
                         "Risso's Dolphin",
-                        "Striped Dolpin",
+                        "Striped Dolphin",
                         "False Killer Whale",
                         "Narwal",
                         "Other"
@@ -2163,7 +2128,7 @@
                         "White-Beaked Dolphin",
                         "Roughtoothed Dolphin",
                         "Risso's Dolphin",
-                        "Striped Dolpin",
+                        "Striped Dolphin",
                         "False Killer Whale",
                         "Narwal",
                         "Other"
@@ -2230,7 +2195,7 @@
                         "White-Beaked Dolphin",
                         "Roughtoothed Dolphin",
                         "Risso's Dolphin",
-                        "Striped Dolpin",
+                        "Striped Dolphin",
                         "False Killer Whale",
                         "Narwal",
                         "Other"
@@ -2297,7 +2262,7 @@
                         "White-Beaked Dolphin",
                         "Roughtoothed Dolphin",
                         "Risso's Dolphin",
-                        "Striped Dolpin",
+                        "Striped Dolphin",
                         "False Killer Whale",
                         "Narwal",
                         "Other"
@@ -2364,7 +2329,7 @@
                         "White-Beaked Dolphin",
                         "Roughtoothed Dolphin",
                         "Risso's Dolphin",
-                        "Striped Dolpin",
+                        "Striped Dolphin",
                         "False Killer Whale",
                         "Narwal",
                         "Other"
@@ -2399,45 +2364,28 @@
                 {
                     "enc_species_list": [
                         "unknown",
-                        "right",
                         "humpback",
                         "fin",
                         "minke",
-                        "gray",
-                        "sei",
                         "blue",
                         "sperm",
                         "orca",
-                        "beluga",
-                        "bowhead",
-                        "bottlenose_whale",
                         "other"
                     ]
                 },
                 {
                     "enc_other_species_list": [
-                        "Bryde's Whale",
-                        "Short Finned Pilot Whale",
                         "Long Finned Pilot Whale",
-                        "Pygmy Sperm Whale",
-                        "Dwarf Sperm Whale",
-                        "Blainsville's Beaked Whale",
                         "Cuvier's Beaked Whale",
-                        "Gervais' Beaked Whale",
-                        "Sowerby's Beaked Whale",
-                        "True's Beaked Whale",
                         "Harbour Porpoise",
+                        "Black Sea Harbour Porpoise",
                         "Common Bottlenose Dolphin",
-                        "Atlantic White-sided Dolphin",
-                        "Atlantic Spotted Dolphin",
+                        "Black Sea Bottlenose Dolphin",
                         "Common Dolphin",
-                        "Fraser's Dolphin",
-                        "White-Beaked Dolphin",
+                        "Black Sea Common Dolphin",
                         "Roughtoothed Dolphin",
                         "Risso's Dolphin",
                         "Striped Dolpin",
-                        "False Killer Whale",
-                        "Narwal",
                         "Other"
                     ]
                 }
@@ -2502,7 +2450,7 @@
                         "White-Beaked Dolphin",
                         "Roughtoothed Dolphin",
                         "Risso's Dolphin",
-                        "Striped Dolpin",
+                        "Striped Dolphin",
                         "False Killer Whale",
                         "Narwal",
                         "Other"
@@ -2569,7 +2517,7 @@
                         "White-Beaked Dolphin",
                         "Roughtoothed Dolphin",
                         "Risso's Dolphin",
-                        "Striped Dolpin",
+                        "Striped Dolphin",
                         "False Killer Whale",
                         "Narwal",
                         "Other"
@@ -2636,7 +2584,7 @@
                         "White-Beaked Dolphin",
                         "Roughtoothed Dolphin",
                         "Risso's Dolphin",
-                        "Striped Dolpin",
+                        "Striped Dolphin",
                         "False Killer Whale",
                         "Narwal",
                         "Other"
@@ -2703,7 +2651,7 @@
                         "White-Beaked Dolphin",
                         "Roughtoothed Dolphin",
                         "Risso's Dolphin",
-                        "Striped Dolpin",
+                        "Striped Dolphin",
                         "False Killer Whale",
                         "Narwal",
                         "Other"
@@ -2773,7 +2721,7 @@
                         "White-Beaked Dolphin",
                         "Roughtoothed Dolphin",
                         "Risso's Dolphin",
-                        "Striped Dolpin",
+                        "Striped Dolphin",
                         "False Killer Whale",
                         "Narwal",
                         "Other"
