@@ -74,7 +74,7 @@
                     "Baleine \u00e0 bec de Baird",
                     "Baleine \u00e0 bec de Hubb",
                     "Baleine \u00e0 bec de Blainsville",
-                    "aleine \u00e0 bec de Steineger",
+                    "Baleine \u00e0 bec de Steineger",
                     "Baleine bor\u00e9ale",
                     "Marsouin commun",
                     "Marsouin de Dall",
@@ -912,9 +912,9 @@
                         "Baleine \u00e0 bec de Hubb",
                         "Baleine \u00e0 bec de Blainsville",
                         "Baleine \u00e0 bec de Steineger",
-                        "aleine bor\u00e9ale",
-                        "arsouin commun",
-                        "arsouin de Dall",
+                        "Baleine bor\u00e9ale",
+                        "Marsouin commun",
+                        "Marsouin de Dall",
                         "Dauphin \u00e0 flancs blancs du Pacifique",
                         "Dauphin baleine franche du Nord",
                         "Dauphin commun \u00e0 long bec",
@@ -1677,7 +1677,7 @@
             ]
         },
         {
-            "name": "z-northeast-atlantic",            
+            "name": "z-northeast-atlantic",
             "whalewatchingguidelines": "FR_Guidelines_Mediterranean_Sea",
             "feeds": [
                 {
@@ -1781,7 +1781,7 @@
                 }
             ]
         },{
-            "name": "norway jan mayen",            
+            "name": "norway jan mayen",
             "whalewatchingguidelines": "FR_Guidelines_Norway",
             "feeds": [
                 {
@@ -1850,7 +1850,7 @@
                 }
             ]
         },{
-            "name": "spain canaries",            
+            "name": "spain canaries",
             "whalewatchingguidelines": "FR_Guidelines_Spain",
             "feeds": [
                 {
@@ -1917,7 +1917,7 @@
                 }
             ]
         },{
-            "name": "spain med",            
+            "name": "spain med",
             "whalewatchingguidelines": "FR_Guidelines_Spain",
             "feeds": [
                 {
@@ -1972,7 +1972,7 @@
                 }
             ]
         },{
-            "name": "spain atlantic",            
+            "name": "spain atlantic",
             "whalewatchingguidelines": "FR_Guidelines_Spain",
             "feeds": [
                 {
@@ -2039,7 +2039,7 @@
                 }
             ]
         },{
-            "name": "portugal azores",            
+            "name": "portugal azores",
             "whalewatchingguidelines": "FR_Guidelines_Portugal",
             "feeds": [
                 {
@@ -2106,7 +2106,7 @@
                 }
             ]
         },{
-            "name": "portugal madeira",            
+            "name": "portugal madeira",
             "whalewatchingguidelines": "FR_Guidelines_Portugal",
             "feeds": [
                 {
@@ -2400,18 +2400,19 @@
                 },
                 {
                     "enc_other_species_list": [
-                        "Long Finned Pilot Whale",
-                        "Cuvier's Beaked Whale",
-                        "Harbour Porpoise",
-                        "Black Sea Harbour Porpoise",
-                        "Common Bottlenose Dolphin",
-                        "Black Sea Bottlenose Dolphin",
-                        "Common Dolphin",
-                        "Black Sea Common Dolphin",
-                        "Roughtoothed Dolphin",
-                        "Risso's Dolphin",
-                        "Striped Dolpin",
-                        "Other"
+                      "Baleine de Bryde",
+                      "Globic\u00e9phale commun",
+                      "Baleine \u00e0 bec de Cuvier",
+                      "Marsouin commun",
+                      "Marsouin commun de la mer noire",
+                      "Grand dauphin",
+                      "Grand dauphin de la mer noire",
+                      "Dauphin commun",
+                      "Dauphin commun de la mer noire",
+                      "Dauphin \u00e0 bec blanc",
+                      "Dauphin a bec etroit",
+                      "Dauphin de Risso",
+                      "Autre"
                     ]
                 }
             ]
@@ -2454,18 +2455,19 @@
                 },
                 {
                     "enc_other_species_list": [
-                        "Long Finned Pilot Whale",
-                        "Cuvier's Beaked Whale",
-                        "Harbour Porpoise",
-                        "Black Sea Harbour Porpoise",
-                        "Common Bottlenose Dolphin",
-                        "Black Sea Bottlenose Dolphin",
-                        "Common Dolphin",
-                        "Black Sea Common Dolphin",
-                        "Roughtoothed Dolphin",
-                        "Risso's Dolphin",
-                        "Striped Dolpin",
-                        "Other"
+                      "Baleine de Bryde",
+                      "Globic\u00e9phale commun",
+                      "Baleine \u00e0 bec de Cuvier",
+                      "Marsouin commun",
+                      "Marsouin commun de la mer noire",
+                      "Grand dauphin",
+                      "Grand dauphin de la mer noire",
+                      "Dauphin commun",
+                      "Dauphin commun de la mer noire",
+                      "Dauphin \u00e0 bec blanc",
+                      "Dauphin a bec etroit",
+                      "Dauphin de Risso",
+                      "Autre"
                     ]
                 }
             ]
