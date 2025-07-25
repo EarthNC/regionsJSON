@@ -475,11 +475,6 @@
         {
             "name": "usa-northwest",
             "whalewatchingguidelines": "EN_Guidelines_BeWhaleWise",
-            "notifications":[
-            {"name": "Welcome to Washington!",
-        "desc":"<b><a href\"https:\/\/www.bewhalewise.org\">Be Whale Wise<\/a><\/b>, and be ready to follow laws in place to protect Southern Resident killer whales (SRKW) in Washington State:<br><br><b>STAY AWAY:<\/b><br>At least 1,000 yds away from SRKW<br><br>If SRKW are closer than 1,000 yards, the law requires:<br><br><b>SLOW:<\/b> Within 1,000 yds of SRKW, move out of the path and away at a speed under 7 knots.<br><br><b>STOP:<\/b> Within 400 yds of SRKW, disengage the vessel's transmission and wait for the whales to move away.<br><br>Visit wdfw.wa.gov\/orca for tips, resources, and to learn more.",
-        "startDate":"2025-05-02 09:00:00","refresh":"30d"}
-            ],
             "feeds": [
                 {
                     "name": "sma",
